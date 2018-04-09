@@ -11,6 +11,7 @@
 */
 ul{ 
     padding-left: 10px;
+    list-style-image: inherit;
 }
 section {
     margin-top: 0px;
