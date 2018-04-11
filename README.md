@@ -1,3 +1,11 @@
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
@@ -171,7 +179,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
     <td>Teallite (tin)</td>
     <td>8</td>
     <td>43</td>
-    <td>Overworld & Twilight Forest</td>
+    <td>Overworld, Beneath & Twilight Forest</td>
   </tr>
 </table>
 
@@ -184,7 +192,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * If a rock on the ground doesn't break in one click or **sounds like grass** when hitting it, LEAVE IT THERE- it's an ore sample in disguise.
 
-* Carry-On is in the pack, it can pick up most passive mobs (no villagers, buffaloes, horses, or larger mobs). Note your reach is less than right clicking.
+* Carry-On is in the pack, it can pick up most passive mobs (no villagers, buffaloes, horses, or larger mobs). Note your reach is less than right clicking. You can also pick up most chests, and other tile entities like this as well.
 
 * **Lighting fire on cobblestone** for your first kiln to cook your charcoal will last a bit longer then on dirt/grass. 
 
@@ -208,7 +216,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * Shift/Sneak on your grave to retrieve your items.
 
-* Keep 4 wild dog pelts for creating awesome boots in the next age.
+* Keep 4 wild dog/wolf pelts for Dog Pelt Boots (run faster, good armor, no fall damage).
 
 * Once you get a saddle, go tame a horse (repeatedly trying to ride it) to speed up traversing the overworld. He can jump stone fence, but only with you riding. Be sure to bring a fence and lead with you for when you want to get off your high horse. Alternatively live near an ocean and use a raft to visit new places, taking care with the sharks and piranhas that attack when you get to shore. Piranhas jump out at you.
 
@@ -356,19 +364,21 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * Before killing your buffalo make a full totem of pig to get fortune 3
 
-* Hide is useful for glue in Age 1. Note: buffalo doesn't melt down into glue, but does make 6 hide.
+* Pelts are useful for glue in Age 1. Note: buffalo doesn't melt down into glue, but does make 6 hide.
 
 ## Automation
 
 * Place a wood hopper on the opposite side of your chopping block and throw items in to automatically place wood. This works for the stone anvil too.
+
+* You can use Wooden Hoppers to load/unload drying racks for leather (later, also for paper etc..). You have to use MK2 hoppers if you're "chaining" the outputs into a single chest, ie have a single chest for input.
+
+* Instead of using hoppers to automate  drying racks you can increase throughput by parallelizing it at the cost of manually replacing hides. Just make a drying rack wall.
 
 * Wood hoppers are available early on and you'll need about 10-20 of them for a full automated age 0 and 1 setup. Mark 2 hoppers don’t need a chest to pull from, as you can place up to 4 stacks in the top for queuing. Only mark 2 hoppers can be chained together.
 
 * The grill can take up to 16 items for queuing. For automated extraction wait for Age 1 when you get a Dung Pipe to pull items out the side rather than a fire hopper needing to take the job of heating and pulling.
 
 * Upgrade to the craft stump mk. 2, which takes fewer whacks, and can hold stacks in each slot for quick crafting.
-
-* You'll need ~20 drying racks by the end of Age 1, so might as well make a drying wall.
 
 * When you want to get into beast of burden power be sure to have a 9x9 wall around the 7x7 area each horse/buffalo/llama needs. Use either stone fence, berry bushes or 2 block high wall. Otherwise after the beast is done working he wanders away and breaks the lead.
 
@@ -404,7 +414,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 ## Combat
 
-* If playing non-peaceful is too stressful for you, you can switch to peaceful for all but 2 parts and still get into Age 1. You'll need the shadow gem from Abyssal monsters spawning in an Abyssal biome, and also dealing with shoggoths in age 1.
+* If playing non-peaceful is too stressful for you, you can switch to peaceful for all but 1 part and still get into Age 1. You'll need the shadow gem from Abyssal monsters spawning in an Abyssal biome.
 
 * If you use shears on a creeper, it stops them from exploding.
 
@@ -428,9 +438,11 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 * For on the run buffs focus on nutrition and farming. You can get Speed 3, Strength 1, and Resistance 1, and nourished for healing. Having all 4 nutrition bars up you can get 20 hearts.
 
-* Defeating the Baykok boss from Totemic is highly recommended to do as soon as possible. His behaviour is mostly like that of a standard skeleton so he is easily cheesed by attacking his legs from a 1 block gap. If you can't find parrots that you need to get the eagle-bone whistle, wait until Age 1 and summon a parrot using an abyssalcraft ritual.
+* Defeating the Baykok boss from Totemic is highly recommended to do as soon as possible. His behaviour is mostly like that of a standard skeleton so he is easily cheesed by attacking his legs from a 1 block gap. Parrots are found in Jungle, Swamp and Savannah biomes. If you can't find parrots that you need to get the eagle-bone whistle, wait until Age 1 and summon a parrot using an abyssalcraft ritual.
 
 * When questing for the shadow gem set up a full 6 tall (1 totem base + 5 totem) totem of pig (luck 3), another for horse(speed 3) and another for wolf (strength 3). Add in ocelot (creepers are harmless) and endermen (night vision) totem with only 1 needed of each.
+
+* The sacficical dagger together with a blood altar can be used to instantly kill most enemies.
 
 ## Inventory tips
 
@@ -524,7 +536,7 @@ Creeping moss is a craftable item that allows the player to change the type biom
 
 * Punji sticks (sugar cane) make effective mob killer. They can be placed on the sides of blocks to prevent spiders from climbing over, as [well as hoppers](https://i.imgur.com/VP5pTO9.png) to automate collection
 
-    * TODO: how to deal with damaged items.
+* **Surround this base with 1 layer of Mk2 hoppers, then a layer of wooden hoppers to collect the drops**
 
 * If breeding a bunch of animals for pelts isn't your thing you can AFK and Farm for quite a bit of zombie flesh, melt it down to blood (16 flesh per block) and get some slime boots.
 
@@ -534,7 +546,7 @@ Creeping moss is a craftable item that allows the player to change the type biom
 
 * Every ground stone in a desert is an ore sample. Remember that deserts are north/south.
 
-* The Ore is setup in large veins, think 16x16ish. Locate the chunk a vein is in by finding a Sample on the surface. F9 to see the chunk borders. Use the prospectors ore and right click on a block. If an interesting ore is within 32 blocks straight down, then the prospector's tool tells you how many it encountered along that path. Mine in that direction and prospect around to hone in on where the ore is.  As of 3.0.4 ores are positioned in any of the four corners of the chunk.  To find the ore more easily, look up the max Y position it can spawn at, and mine out the chunk at that level. (Use the depth meter.)  Then point the dowsing rod straight down in the four corners until you get  hit on the ore.
+* The Ore is setup in large veins, think 16x16ish. Locate the chunk a vein is in by finding a Sample on the surface. F9 to see the chunk borders. Use the prospectors ore and right click on a block. If an interesting ore is within 48 blocks straight down, then the prospector's tool tells you how many it encountered along that path. Mine in that direction and prospect around to hone in on where the ore is.  As of 3.0.4 ores are positioned in any of the four corners of the chunk.  To find the ore more easily, look up the max Y position it can spawn at, and mine out the chunk at that level. (Use the depth meter.)  Then point the dowsing rod straight down in the four corners until you get  hit on the ore.
 
 * Make a 6 high **buffalo totem** when you find the vein to get **haste 3.**
 
@@ -582,11 +594,9 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * They seem to climb similar to spiders. They don't deposit their sludge on bottom half slabs or string. They require a 3x3 hallways to move. However a bunch of them can shove one into a 2x3 hallway. If you are quick you can build a wall right at the bottom of the stairs leading into their lair before they manage to escape. You will get hit at least once since they can hit through a 1 block thick wall but focus on establishing a wall first and pretty it up later. You can build a 3x3 killing chamber at the top of your wall. Use bottom half slabs for the floor and don't bust the wall leading to the lair until your ready for them to come through. Opposite of the wall you can build a 2 block thick wall with a 1 block high slit to slash at them through it. To collect the drop swing underneath and bust out one slab, replace it and repeat until you have all the drops. Mk2 hoppers can suck the items through the slabs for a much safer alternative.
 
-* An image of the possible killing chamber (as described above): [https://i.imgur.com/QmraP58.png](https://i.imgur.com/QmraP58.png)
+* An image of the possible killing chamber (as described above): [https://i.imgur.com/QmraP58.png](https://i.imgur.com/QmraP58.png)As long as you don't go in far enough to attract the attention of the Shoggoth in the back, you should have a endless supply of them. My first attempt I went for a killing hole in the floor and it didn't work out very well since that angered all of them which meant no new Shoggoth could spawn after they were all dealt with.Punji sticks don't work on them since they climb walls. Lighting them on fire with fiber torches is very slow. Slashing them is slow and consumes roughly 6 swords to get 1 stack of their drops.
 
-As long as you don't go in far enough to attract the attention of the Shoggoth in the back, you should have a endless supply of them. My first attempt I went for a killing hole in the floor and it didn't work out very well since that angered all of them which meant no new Shoggoth could spawn after they were all dealt with.
-
-Punji sticks don't work on them since they climb walls. Lighting them on fire with fiber torches is very slow. Slashing them is slow and consumes roughly 6 swords to get 1 stack of their drops.
+* If you're playing on a server and the Shoggoth lairs have been emptied, you can trade for flesh with villagers, or with the Farming for Blockheads Market
 
 * Video tutorial on finding and dealing with Shoggoth: [https://www.youtube.com/watch?v=mORTlnKoqHQ](https://www.youtube.com/watch?v=mORTlnKoqHQ) 
 
@@ -598,6 +608,8 @@ Punji sticks don't work on them since they climb walls. Lighting them on fire wi
 
     * Spear has a bigger range than other weapons and it can be used to punch them without being touched even once. Combined with wolf totem it does a massive damage.
 
+* There is a common bug where Sloggoth either do not spawn or spawn unhittable. If this happens, you can craft the Market block cheaply, and then mine their bases to trade for Sloggoth Flesh. 24 Monolith Stone will get you one flesh, and 8 Sloggoth Flesh will get you a statue. 
+
 * After crafting the statue place it **away from your base** and hold the necronomicon. The statue will send power into your necronomicon at 5 PE / 5 seconds taking about 15 minutes to get the 1000 needed. Randomly you may get struck by lightning and even explosive lightning, and sometimes wither effect. After getting 1000 points that area will have gotten tainted and will produce abyssal mobs. A shovel can quickly remove sludge produced by Shoggoths. They don't poop ooze on half slabs.
 
 * The negative effects increase with how much charge is in the necronomicon.
@@ -608,7 +620,7 @@ Punji sticks don't work on them since they climb walls. Lighting them on fire wi
 
 * Regarding Corallium, You do not *need *to find the Corallium biome, they spawn, albeit rarely in Swamp and Ocean biomes. Strip mining such is a slow but surefire way to get early Corallium.
 
-* When progressing in Abyssalcraft, betware the second dimension, the Dreadlands. Mobs there apply Dread Plague on hit, which while painful, will also convert the biome of the x/z point you are standing on to Dreadlands whenever it does damage to you. It also likes to refresh itself often. Try to avoid bringing the Dread Plague out of the Dreadlands, as if you bring it to the overworld and dreadlands enemies spawn in an un-torched spot, you might have a problem. For this reason, I would not recommend making Tinker's weapons out of dreadium, as that’ll spread the plague to enemies on a critical hit.
+* When progressing in Abyssalcraft, beware the second dimension, the Dreadlands. Mobs there apply Dread Plague on hit, which while painful, will also convert the biome of the x/z point you are standing on to Dreadlands whenever it does damage to you. It also likes to refresh itself often. Try to avoid bringing the Dread Plague out of the Dreadlands, as if you bring it to the overworld and dreadlands enemies spawn in an un-torched spot, you might have a problem. For this reason, I would not recommend making Tinker's weapons out of dreadium, as that’ll spread the plague to enemies on a critical hit.
 
 ## The Beneath
 
@@ -626,13 +638,11 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
     * You can pin torches to a side of ladder blocks making it safe from pushing you off by spirits. It's better than pillaring up in the Overworld.
 
-* Black Quartz can be found from y = 2 to y = 20, Aquamarine can be found from y = 150 to y = 246 
+* Black Quartz can be found from y = 2 to y = 100, Aquamarine can be found from y = 150 to y = 246 
 
 * Before digging to a set Y area dig up till you see a cave. On the top of the caves you have a good chance of finding a few patches of ores. Aquamarine comes in veins of 12.
 
 * You can get throwable torches by crafting 8 regular torches with glue. This is great for handling dungeons and areas with spawners.
-
-* Place your beneath teleporter on top of the ground as you get teleported to the same y level and is on top of a platform in the other dimension
 
 * When you first get into the beneath, mark your spot, because it is a pain finding your way home
 
@@ -668,9 +678,11 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Making a 4th axle allows the mill stone (power must come from top/bottom of millstone) to be powered here instead of by hand.
 
-* You don't need the axle between the gearbox and waterwheel, but is helpful later when needing the space to surround the mill stone with hoppers
+* You don't need the axle between the gearbox and waterwheel, but is helpful later when needing the space to surround the mill stone with Mk2 hoppers.
 
-* Because Better With Mods drop all products on the ground so wooden hoppers are your friend, or put it over some water you've removed, thus creating a natural whirlpool into a (underwater net thingy) which stores items.
+* Mechanical power is binary, it's either on or off. You can split power as many times as you want to power your stuff.
+
+* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
 
 * Completing the saw also makes Wooden gears much cheaper.
 
@@ -718,9 +730,17 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * If you want to harvest any of the Low Grade Charcoal blocks, do so before entering the next age as this will cause them to turn into netherrack.
 
+* Torch launcher : Provides a large supply of throwing torches
+
 * Monster spawners generate mossy cobblestone from regular cobble, making the mossy variant renewable. (possibly age 2 needed, can't confirm)
 
 * SevTech contains the mod "Despawnable Spawners".  This mod is set up to destroy spawners (the cage block) after it has spawned 400 mobs.
+
+* Well Bucket - Creates water if next to a source block. Combine with liquid hopper to automate into a tank
+
+### Things to look out for
+
+* If you see an Enderman you should absolutely try to kill him. If you can you should make a Luck 3 totem pole as well. Ender pearls are important.  Endermen will only drop ender dusts.  You can smelt these in the melter and cast them to ender pearls using the pan cast.
 
 ## What you can do now
 
@@ -740,17 +760,19 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Ranged weapon, See Tinkers construct right below
 
-Now that we have access to a lever, a dependable clock can be created using the turntable.  Put a block on the (working) turntable, attach a lever to it.  Activate the lever.  Then make sure the faucet is on the other side of the lever.  The rotation of the turntable will send a pulse to the faucet.  Select the wanted speed by right clicking the turntable with an empty hand.  There are four sides, so a single turntable can cycle four smelters/spigots.
+* Transport NPCs (excluding horses) without leads [Interdimensional Cage]
 
-In the picture below, the turntable rotates the switch so all four melters are emptied automatically.  On top of the windmill's gearbox is a bamboo chime.  This block will emit a redstone signal when it rains, making sure the gearbox doesn’t get damaged.
+## Automating a Melter
 
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
+* Now that we have access to a lever, a dependable clock can be created using the turntable.  Put a block on the (working) turntable, attach a lever to it.  Activate the lever.  Then make sure the faucet is on the other side of the lever.  The rotation of the turntable will send a pulse to the faucet.  Select the wanted speed by right clicking the turntable with an empty hand.  There are four sides, so a single turntable can cycle four smelters/spigots.
 
-### Things to look out for
+* In the picture below, the turntable rotates the switch so all four melters are emptied automatically.  On top of the windmill's gearbox is a bamboo chime.  This block will emit a redstone signal when it rains, making sure the gearbox doesn’t get damaged.
 
-* If you see an Enderman you should absolutely try to kill him. If you can you should make a Luck 3 totem pole as well. Ender pearls are important.  Endermen will only drop ender dusts.  You can smelt these in the melter and cast them to ender pearls using the pan cast.
+*  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_6.png)
 
 ## Which pickaxe to pick
+
+There are at least 2 items that require either the claw paxel or a bronze pickaxe to pickup: astral sorcery altars, and the Carminite reactor in the urgast towers. 
 
 ### Tinker's Construct
 
@@ -775,6 +797,38 @@ Valonite are as good as steel: Diamond mining, Mining speed 8, 2500 durability, 
 Ironwood Pick: Diamond level, Mining speed 6.5, 512 durability
 
 Mazebreaker: Diamond level, Mining Speed 8, 1561 durability, Efficiency 4, Unbreaking 3, Fortune 2
+
+## Interdimensional Cage
+
+The Interdimensional Cage from Abyssalcraft allows you to transport Villagers, Mobs and Animals for a small P.E. cost. 
+
+* The cage must be charged before use in an Energy Pedestal. 
+
+* Right click to capture most NPCs, right click again to release.
+
+* Villagers require a shift-right click for capture.
+
+* Horses cannot be captured.
+
+* Each capture requires about 30 P.E. and the cage capacity is 1,000 P.E.
+
+* Only one NPC may be caged at a time.
+
+Materials
+
+1000 P.E. + 8 Iron Bars + Shard of Oblivion(4 Shadow Gem + Transmutation Gem)
+
+Transmutation Gem (10 uses, 1 is used in crafting the shard):
+
+* 300 P.E.
+
+* 2 Ender Pearl
+
+* 2 Transformation Powder from the Twilight Forest
+
+* 4 Aquamarine from the Beneath
+
+* Coralium Pearl
 
 ## Tinkers Construct
 
@@ -808,6 +862,8 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 * [Here](http://tinkers-construct.wikia.com/wiki/Material_Stats) are the modifiers and descriptions
 
+* Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
+
 ### [Optional] Tool Forge
 
 You can make a Tool forge by burning grout into seared stone and 4 tin/copper blocks.
@@ -830,9 +886,7 @@ You can make a Tool forge by burning grout into seared stone and 4 tin/copper bl
 
     * Stone makes it mine faster the lower the durability.
 
-* Shuriken: The upper left-hand corner determines what material repairs it.
-
-    * 3 hearts average observed, **107 ammo**: 1 Bone in upper left, 3 slime. Repairs with bonemeal, marginally less damage than bone and cactus shuriken, but way more ammo
+* Shuriken: these are reserved for age 3. 
 
 ## Getting Iron
 
@@ -846,20 +900,19 @@ Pick one of the following for holding lava:
 
 *  As many clay buckets as lava you need
 
-* A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_6.png) made from Syrmorite holds lava
+* A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
 * A 6 high buffalo gives you haste 3.
 
-* If you got a Tinker's stone hammer, you can speed up mining Hematite by placing cobble and mining that.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png)
+* If you got a Tinker's stone hammer, you can speed up mining Hematite by placing cobble and mining that.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)
 
 * You can melt iron by reconfiguring your melter to be heated by a Seared Gauge. Note the automation section above to automate the faucet.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)
 
 * Make a stone bucket and place in a table, then melt 2 clay and pour to make a bucket cast. Pouring 3 iron gives you a bucket. Use gold instead of clay if you think you'll need more buckets.(the watering can consumes the bucket in its recipe)
 
@@ -875,7 +928,7 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * The Betweenlands is a very large mod, consult [http://the-betweenlands.wikia.com/wiki/Basic_Guide_to_Survival](http://the-betweenlands.wikia.com/wiki/Basic_Guide_to_Survival) for some starting tips.
 
-* Take neither food, Potions, bedding, Vanilla Torches nor weapons (overland diamond < between wood sword)
+* Take neither bedding, Vanilla Torches nor weak weapons (overworld diamond < between wood sword)
 
 * Totem torches work normally in the Between lands
 
@@ -883,17 +936,17 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Find Bushes to get Weedwood sticks. The SevTech recipe killed weedwood planks -> weedwood sticks
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
 
-* Hunt down a Weedwood tree and make base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
+* Hunt down a Weedwood tree and make base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
 
 * Instead of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
 
-* Your spawnpoint in the Betweenlands is not set when you enter through a portal. So setting your spawn should be high priority. The first thing to make with your Syrmorite ingots is shears, to get moss, to get a moss bed and set your spawnpoint.
+* This has been fixed. You spawn at the portal unless you reset it  Your spawnpoint in the Betweenlands is not set when you enter through a portal. So setting your spawn should be high priority. The first thing to make with your Syrmorite ingots is shears, to get moss, to get a moss bed and set your spawnpoint. 
 
-* Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png) into donuts for 6 hunger bars.
+* Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png) into donuts for 6 hunger bars.
 
-* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png).
+* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png).
 
 * To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one, they glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
 
@@ -929,9 +982,13 @@ Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
 
 * A more invasive alternative to getting at the Labyrinth's secret vault for the Mazebreaker for your coal engine is using the old fashioned method: explosives. Angry Pebbles from Betweenlands towers works/TNT/letting creepers blow up.
 
+* Ensure that you collect as many steeleaf as you can (at least 4) from the labyrinth so that you can craft the coal engine to move towards age 3. You do not want to have to find you way back into the labyrinth later.
+
 * Dark Towers have plenty of useful items to loot, including Brewing Stands, Anvils, and Pistons, as well as the Carminite Reactor you will need at the end of this age, in addition to this there will be plenty of spawners that will spawn carminite ghasts which you can kill for ghast tears, and there are a lot of chests to loot for other goodies like Redstone Lamps, glowstone dust, and a lot of protein food (Experiment 115).
 
-* Dark Towers also can contain Blaze spawners, though Blazes don't actually seem to spawn in age 2. 
+* The Carminite reactor required a bronze pickaxe to pickup. TODO: see if a claw paxel can pick it up too.
+
+* Dark Towers also can contain Blaze spawners, though Blazes don't actually seem to spawn in age 2 or 3. 
 
 ## Astral sorcery
 
@@ -943,11 +1000,13 @@ Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
 
 * The Resonating Wand does not make the Crystal Rock Samples more visible, like it does in the standard mod with Starmetal Ore.
 
-* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png)
+* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png)
 
 * When making a crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
 * You ALWAYS want to use perfect crystals for rituals and collector crystals, and preferably celestial crystals
+
+* Place your lightwells near your tier 1 altar to speed up production of starlight, as well as providing more light to the altar.
 
 * For the most part ones with poor stats are garbage and only really useful in lightwells and things that don't care about quality (which you can tell by checking if the output item has stats in the tooltip, eg. Mantle of Stars or Altars do not care about crystal stats as a part of their crafting component)
 
@@ -984,6 +1043,12 @@ Storage
 * You gain access to tanks, specifically from Immersive Engineering. While this multiblock is non-portable, it is very useful for storing large amounts of fluids. This is good for creosote, lava (though this might be difficult to collect), and water. These liquids have been, and will continue to be very useful (well you just gained access to creosote but it applies to it as well) so it is recommended to store up on them.
 
 ## Tinker's Construct Tools:
+
+* Shuriken: The upper left-hand corner determines what material repairs it.
+
+    * 3 hearts average observed, **107 ammo**: 1 Bone in upper left, 3 slime. Repairs with bonemeal, marginally less damage than bone and cactus shuriken, but way more ammo
+
+* Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
 
 * You gain access to the Ore Excavation modifier in this age (alongside the ability to add modifiers in general). Check options for the keybindings available. Ctrl+OreEx keybind opens up a GUI that allows you to edit shapes if you want.
 
@@ -1027,6 +1092,10 @@ Storage
 
 * The Armara perks make you extremely hard to kill, and several of the perks work on damage that doesn't seem to be affected by armor. For example, the Dread Plague from Abyssalcraft is reduced in damage significantly by the 'No armor is more armor’ perk, making the Dreadlands much easier than otherwise. Armara also almost reduces fall damage to 0, allowing you to use the slimesling without the boots.
 
+* Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night, the setup below is a ghetto time machine if you want to advance nights for constellations
+
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+
 # Age 4
 
 **Ores:** Assorted Quartz (affected by Fortune)
@@ -1035,12 +1104,15 @@ Storage
 
 **Key Items: **
 
+## Uncategorized Tips
+
 * IF's Rancher gets around BWA’s Fleece and harvests wool from sheep directly, this can also occasionally be a source of powdered dye production from further processing the coloring byproducts from crushing wool
 
 * IF's Water Condenstrator produces about 100mb/t of water per water source block adjacent to it
 
 * Spawner Agitators get around the despawning spawners limit
- 
+
+* After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not. 
 
 # Age 5 
 
@@ -1050,55 +1122,59 @@ Storage
 
 Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and minimal tweaks in configs. The only real big recipe changes are the creative items.
 
-**Power**
+## Power
 
 * RFTools Powercells transport power interdimensionally
 
-**Ore Processing**
+## Ore Processing
 
 * Mekanism Metallurgic infusers have a 1:5 tin to copper ratio for making bronze
 
-**Storage**
+## Storage
 
 * Quantum Storage Disks (from Quantum Storage compat with Refined Storage) store 2.14B items of any types and are very cheap, it trivializes most other storage options in the pack
 
-**Space**
+## Space
 
-* Moon
+### Moon
 
-    * Can trade for the Tier 2 Rocket schematics with villagers if you don't feel dungeon crawling for one
+* Can trade for the Tier 2 Rocket schematics with villagers if you don't feel dungeon crawling for one
 
-    * GalaticCraft ores are not staged, and therefore fake players can quarry them
+* GalaticCraft ores are not staged, and therefore fake players can quarry them
 
-        * For quarrying, the two best options are RFtools Builders with a storage filter module (for blacklisting) or a Mekanism Digital Miner
+    * For quarrying, the two best options are RFtools Builders with a storage filter module (for blacklisting) or a Mekanism Digital Miner
 
-    * Use Meteoric Iron sparingly until you get to the Asteroid belt as it's generation requires waiting in either the moon or mars
+* Use Meteoric Iron sparingly until you get to the Asteroid belt as it's generation requires waiting in either the moon or mars
 
-    * Dungeon generation is different than before, dungeons do not share the same coordinates going from one planet to another
+* Dungeon generation is different than before, dungeons do not share the same coordinates going from one planet to another
 
-* Mars
+### Mars
 
-    * Has a higher meteor rate than the Moon
+* Has a higher meteor rate than the Moon
 
-* Mercury
+### Mercury
 
-    * One of the few GalaticCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment
+* One of the few GalaticCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment
 
-* Jupiter
+### Jupiter
 
-    * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
+* The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
 * Saturn
 
-    * Saturn Slime Ore has incorrect localization, in-world WAILA will recognize it as Saturn Surface Rock, and needs to be silk touched to get the ore itself (easily found in the Surface in large patches of Saturn Infected Rock
+    * Saturn Slime Ore has incorrect localization, in-world WAILA will recognize it as Saturn Surface Rock, and needs to be silk touched to get the ore itself (easily found on the surface in large patches of Saturn Infected Rock
 
-    * 
+* Uranus, Neptune
+
+    * Same as the others, quarry it, loot it's dungeon
+
+    * Quarry it, loot it's dungeon
 
 # Creative tips
 
-You can complete all the quests by using the following command
+You can complete all the quests by using the following command (Note severe lag)
 
 /advancement grant playerName everything
 
@@ -1108,472 +1184,419 @@ You can revert to the beginning with
 
 You can complete individual quests with the following command followed by one of the below quests (prerequisite in parenthesis). Note this is a dump (minecraft/config/triumph/script/...) from 3.0.4 so may be outdated.
 
-/advancement grant playerName only (some triumph from below)
+/advancement grant playerName only triumph:(some triumph from below)
+
+Note that the parenthetical should not be pasted in, it is only for information
+
+<table>
+  <tr>
+    <td>stage0</td>
+    <td>stage1</td>
+    <td>stage2</td>
+    <td>stage3</td>
+    <td>stage4</td>
+    <td>stage5</td>
+  </tr>
+  <tr>
+    <td>stage0/kiln (needs workstump)</td>
+    <td>stage1/claybarrel (needs root)</td>
+    <td>stage2/stevescarts (needs piston)</td>
+    <td>stage3/crudeoil (needs sampledrill)</td>
+    <td>stage4/silicon (needs prospector4)</td>
+    <td>stage5/wirelesscharger (needs charger3)</td>
+  </tr>
+  <tr>
+    <td>stage0/saltflats (needs grill)</td>
+    <td>stage1/tin (needs prospector)</td>
+    <td>stage2/market (needs gold)</td>
+    <td>stage3/iehammer (needs iebook)</td>
+    <td>stage4/ardite (needs prospector4)</td>
+    <td>stage5/creativemodifer (needs ultimateingot)</td>
+  </tr>
+  <tr>
+    <td>stage0/horsechopper (needs horsepower)</td>
+    <td>stage1/woodbasin (needs root)</td>
+    <td>stage2/depth (needs compass)</td>
+    <td>stage3/drawercontroller (needs workbench)</td>
+    <td>stage4/rsgrid (needs inscriber)</td>
+    <td>stage5/creativeenergycube (needs ultimateingot)</td>
+  </tr>
+  <tr>
+    <td>stage0/tipi (needs leather)</td>
+    <td>stage1/gearbox (needs waterwheel)</td>
+    <td>stage2/smeltertank (needs iron)</td>
+    <td>stage3/blazerod (needs nether)</td>
+    <td>stage4/cobalt (needs ardite)</td>
+    <td>stage5/emerald (needs prospectorstage5)</td>
+  </tr>
+  <tr>
+    <td>stage0/grill (needs firepit)</td>
+    <td>stage1/prospector (needs crafting)</td>
+    <td>stage2/lapis (needs dowsingrod)</td>
+    <td>stage3/projector (needs iebook)</td>
+    <td>stage4/launchpad (needs nasaworkbench)</td>
+    <td>stage5/diamond (needs prospectorstage5)</td>
+  </tr>
+  <tr>
+    <td>stage0/workblade (needs upgrade)</td>
+    <td>stage1/parchment (needs aquamarine)</td>
+    <td>stage2/gold (needs dowsingrod)</td>
+    <td>stage3/rails (needs root)</td>
+    <td>stage4/blockheads1 (needs root)</td>
+    <td>stage5/inferiumessence (needs saturn)</td>
+  </tr>
+  <tr>
+    <td>stage0/flintknapp (needs mesh)</td>
+    <td>stage1/cart (needs wheel)</td>
+    <td>stage2/stopwatch (needs compass)</td>
+    <td>stage3/steel (needs creosote)</td>
+    <td>stage4/amadrontablet (needs plasticmixer)</td>
+    <td>stage5/prospectorstage5 (needs root)</td>
+  </tr>
+  <tr>
+    <td>stage0/chestupgrade (needs firstchest)</td>
+    <td>stage1/stepup (needs bloodaltar)</td>
+    <td>stage2/resonatingwand (needs enderman)</td>
+    <td>stage3/oreprospector (needs root)</td>
+    <td>stage4/manyullyn (needs cobalt)</td>
+    <td>stage5/diamondjetpack (needs electrumjetpack)</td>
+  </tr>
+  <tr>
+    <td>stage0/fish (needs spear)</td>
+    <td>stage1/bloodaltar (needs alloykiln)</td>
+    <td>stage2/mapping (needs extendedcraftingbasic)</td>
+    <td>stage3/circuitboard (needs vacuumtube)</td>
+    <td>stage4/solidendereye (needs root)</td>
+    <td>stage5/t2rocket (needs root)</td>
+  </tr>
+  <tr>
+    <td>stage0/melterbase (needs flamehopper)</td>
+    <td>stage1/parrot (needs statue)</td>
+    <td>stage2/paper (needs root)</td>
+    <td>stage3/bauxite (needs oreprospector)</td>
+    <td>stage4/printedcircuitboard (needs compressediron)</td>
+    <td>stage5/charger3 (needs root)</td>
+  </tr>
+  <tr>
+    <td>stage0/atlas (needs workblade)</td>
+    <td>stage1/beneath (needs statue)</td>
+    <td>stage2/piston (needs twilight)</td>
+    <td>stage3/liquidplastic (needs propene)</td>
+    <td>stage4/endercrafter (needs enderalloy2)</td>
+    <td>stage5/osmium (needs prospectorstage5)</td>
+  </tr>
+  <tr>
+    <td>stage0/farmland (needs workblade)</td>
+    <td>stage1/astable (needs journal)</td>
+    <td>stage2/wool (needs root)</td>
+    <td>stage3/vacuumtube (needs workbench)</td>
+    <td>stage4/certusquartz (needs prospector4)</td>
+    <td>stage5/spacesuit4 (needs saturn)</td>
+  </tr>
+  <tr>
+    <td>stage0/woodhopper2 (needs woodhopper1)</td>
+    <td>stage1/dung (needs claybarrel)</td>
+    <td>stage2/starpowder (needs dowsingrod)</td>
+    <td>stage3/standardhull (needs woodhull)</td>
+    <td>stage4/moon (needs t1rocket)</td>
+    <td>stage5/neptune (needs saturn)</td>
+  </tr>
+  <tr>
+    <td>stage0/lead (needs leather)</td>
+    <td>stage1/chest (needs crafting)</td>
+    <td>stage2/skywave (needs conpaper)</td>
+    <td>stage3/netherbrick (needs potash)</td>
+    <td>stage4/enderalloy3 (needs theend)</td>
+    <td>stage5/ultimateingot (needs ultimatecraftingtable)</td>
+  </tr>
+  <tr>
+    <td>stage0/charcoal (needs horsechopper)</td>
+    <td>stage1/alloykiln (needs copper)</td>
+    <td>stage2/extendedcraftingbasic (needs starpowder)</td>
+    <td>stage3/creosote (needs iehammer)</td>
+    <td>stage4/pressurechamberwall (needs compressediron)</td>
+    <td>stage5/creativefluidtank (needs ultimateingot)</td>
+  </tr>
+  <tr>
+    <td>stage0/wheel (needs saddle)</td>
+    <td>stage1/crafting (needs root)</td>
+    <td>stage2/betweenlands (needs root)</td>
+    <td>stage3/filteredhopper (needs nether)</td>
+    <td>stage4/inscriber (needs certusquartz)</td>
+    <td>stage5/electrumjetpack (needs root)</td>
+  </tr>
+  <tr>
+    <td>stage0/flamehopper (needs woodhopper2)</td>
+    <td>stage1/hoe (needs root)</td>
+    <td>stage2/bucket (needs controller)</td>
+    <td>stage3/platinum (needs oreprospector)</td>
+    <td>stage4/extendedcraftingelite (needs manyullyn)</td>
+    <td>stage5/scanner (needs root)</td>
+  </tr>
+  <tr>
+    <td>stage0/workstump (needs collectplank)</td>
+    <td>stage1/axle (needs blackquartz)</td>
+    <td>stage2/enderman (needs conpaper)</td>
+    <td>stage3/iebook (needs root)</td>
+    <td>stage4/spacesuit (needs nasaworkbench)</td>
+    <td>stage5/cheese (needs prospectorstage5)</td>
+  </tr>
+  <tr>
+    <td>stage0/abyssalgem (needs abyssalbiome)</td>
+    <td>stage1/huntingdim (needs root)</td>
+    <td>stage2/twilight (needs astable2)</td>
+    <td>stage3/conveyorbelt (needs workbench)</td>
+    <td>stage4/machinecasing (needs printedcircuitboard)</td>
+    <td>stage5/prosperityshard (needs inferiumessence)</td>
+  </tr>
+  <tr>
+    <td>stage0/weaponize (needs firsttool)</td>
+    <td>stage1/furnace (needs crafting)</td>
+    <td>stage2/tcontable2 (needs tcontable1)</td>
+    <td>stage3/woodhull (needs stevescartsassembler)</td>
+    <td>stage4/compressor (needs enderalloy3)</td>
+    <td>stage5/desh (needs mars)</td>
+  </tr>
+  <tr>
+    <td>stage0/upgrade (needs firsttool)</td>
+    <td>stage1/turntable (needs gearbox)</td>
+    <td>stage2/weedwoodsticks (needs betweenlands)</td>
+    <td>stage3/galgadorian (needs standardhull)</td>
+    <td>stage4/laserassembly (needs amadrontablet)</td>
+    <td>stage5/mars (needs t2rocket)</td>
+  </tr>
+  <tr>
+    <td>stage0/fiber (needs root)</td>
+    <td>stage1/coal (needs prospector)</td>
+    <td>stage2/weedwoodsword (needs betweenlands)</td>
+    <td>stage3/redstone (needs oreprospector)</td>
+    <td>stage4/plasticmixer (needs compressediron)</td>
+    <td>stage5/creativecompressor (needs ultimateingot)</td>
+  </tr>
+  <tr>
+    <td>stage0/woodenbarrel (needs fluidbladder)</td>
+    <td>stage1/bucket (needs turntable)</td>
+    <td>stage2/rockcrystal (needs starpowder)</td>
+    <td>stage3/naphtha (needs crudeoil)</td>
+    <td>stage4/ae2panel (needs inscriber)</td>
+    <td>stage5/skystone (needs cheese)</td>
+  </tr>
+  <tr>
+    <td>stage0/totemic (needs leather)</td>
+    <td>stage1/blackquartz (needs beneath)</td>
+    <td>stage2/compass (needs controller)</td>
+    <td>stage3/workbench (needs iebook)</td>
+    <td>stage4/compressediron (needs root)</td>
+    <td>stage5/emeraldjetpack (needs diamondjetpack)</td>
+  </tr>
+  <tr>
+    <td>stage0/horsepower (needs lead)</td>
+    <td>stage1/tchannel (needs root)</td>
+    <td>stage2/drawertable (needs root)</td>
+    <td>stage3/amethyst (needs nether)</td>
+    <td>stage4/t1rocket (needs nasaworkbench)</td>
+    <td>stage5/creativejetpack (needs ultimateingot)</td>
+  </tr>
+  <tr>
+    <td>stage0/lowgradecharcoal (needs kiln)</td>
+    <td>stage1/statue (needs necro)</td>
+    <td>stage2/biomealyzer (needs compass)</td>
+    <td>stage3/oreexcavation (needs oreprospector)</td>
+    <td>stage4/prospector4 (needs root)</td>
+    <td>stage5/ultimatecraftingtable (needs root)</td>
+  </tr>
+  <tr>
+    <td>stage0/handgrind (needs workstump)</td>
+    <td>stage1/pedestal (needs statue)</td>
+    <td>stage2/wateringcan (needs smeltertank)</td>
+    <td>stage3/steam (needs naphtha)</td>
+    <td>stage4/fuelloader (needs compressor)</td>
+    <td>stage5/marsrover (needs t2rocket)</td>
+  </tr>
+  <tr>
+    <td>stage0/collectplank (needs firstbreak)</td>
+    <td>stage1/plumbline (needs crafting)</td>
+    <td>stage2/dowsingrod (needs glass)</td>
+    <td>stage3/bellows (needs hibachi)</td>
+    <td>stage4/enderalloy1 (needs theend)</td>
+    <td>stage5/saturn (needs mars)</td>
+  </tr>
+  <tr>
+    <td>stage0/tomahawk (needs weaponize)</td>
+    <td>stage1/stoneanvil (needs root)</td>
+    <td>stage2/iron (needs dowsingrod)</td>
+    <td>stage3/propene (needs steam)</td>
+    <td>stage4/blockheads3 (needs blockheads2)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/melter (needs melterbase)</td>
+    <td>stage1/aqueduct (needs root)</td>
+    <td>stage2/conpaper (needs root)</td>
+    <td>stage3/sampledrill (needs circuitboard)</td>
+    <td>stage4/enderalloy2 (needs theend)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/abyssalbiome (needs workstump)</td>
+    <td>stage1/necro (needs bronze)</td>
+    <td>stage2/lightwell (needs conpaper)</td>
+    <td>stage3/windmill (needs creosote)</td>
+    <td>stage4/blockheads2 (needs blockheads1)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/mill (needs gear)</td>
+    <td>stage1/leafbed (needs crafting)</td>
+    <td>stage2/glass (needs root)</td>
+    <td>stage3/modularmachinery (needs circuitboard)</td>
+    <td>stage4/theend (needs root)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/buffalo (needs totemic)</td>
+    <td>stage1/extension (needs claybarrel)</td>
+    <td>stage2/tcontable1 (needs root)</td>
+    <td>stage3/hibachi (needs filteredhopper)</td>
+    <td>stage4/nasaworkbench (needs endercrafter)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/firsttool (needs root)</td>
+    <td>stage1/aquamarine (needs beneath)</td>
+    <td>stage2/controller (needs betweenlands)</td>
+    <td>stage3/silverlead (needs oreprospector)</td>
+    <td>stage4/presses (needs theend)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/saddle (needs lead)</td>
+    <td>stage1/journal (needs parchment)</td>
+    <td>stage2/tcontable3 (needs tcontable2)</td>
+    <td>stage3/distillation2 (needs naphtha)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/firepit (needs fire)</td>
+    <td>stage1/bronze (needs alloykiln)</td>
+    <td>stage2/astable2 (needs lightwell)</td>
+    <td>stage3/extendedcrafting1 (needs nether)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/spear (needs weaponize)</td>
+    <td>stage1/waterwheel (needs axle)</td>
+    <td>stage2/weird (needs enderman)</td>
+    <td>stage3/netherexbiome (needs nether)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/firstbreak (needs firsttool)</td>
+    <td>stage1/copper (needs prospector)</td>
+    <td></td>
+    <td>stage3/viescraft (needs extendedcrafting1)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/baykok (needs buffalo)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/waterwheel (needs creosote)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/firstchest (needs workstump)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/stevescartsassembler (needs root)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/mesh (needs fiber)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/potash (needs bellows)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/fluidbladder (needs workstump)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/plastic (needs liquidplastic)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/mat (needs leather)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/bonehoe (needs netherwart)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/leather (needs fluidbladder)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/compactmachines (needs diamond)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/woodhopper1 (needs firstchest)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/netherwart (needs netherexbiome)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/fire (needs firsttool)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/nether (needs root)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/gear (needs wheel)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/buildcraft (needs circuitboard)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stage0/stonetools (needs upgrade)</td>
+    <td></td>
+    <td></td>
+    <td>stage3/nickel (needs oreprospector)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>stage3/soundmuffler (needs redstone)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-triumph:stage0/kiln      (needs workstump)
 
-triumph:stage0/saltflats      (needs grill)
-
-triumph:stage0/horsechopper      (needs horsepower)
-
-triumph:stage0/tipi      (needs leather)
-
-triumph:stage0/grill      (needs firepit)
-
-triumph:stage0/workblade      (needs upgrade)
-
-triumph:stage0/flintknapp      (needs mesh)
-
-triumph:stage0/chestupgrade      (needs firstchest)
-
-triumph:stage0/fish      (needs spear)
-
-triumph:stage0/melterbase      (needs flamehopper)
-
-triumph:stage0/atlas      (needs workblade)
-
-triumph:stage0/farmland      (needs workblade)
-
-triumph:stage0/woodhopper2      (needs woodhopper1)
-
-triumph:stage0/lead      (needs leather)
-
-triumph:stage0/charcoal      (needs horsechopper)
-
-triumph:stage0/wheel      (needs saddle)
-
-triumph:stage0/flamehopper      (needs woodhopper2)
-
-triumph:stage0/workstump      (needs collectplank)
-
-triumph:stage0/abyssalgem      (needs abyssalbiome)
-
-triumph:stage0/weaponize      (needs firsttool)
-
-triumph:stage0/upgrade      (needs firsttool)
-
-triumph:stage0/fiber      (needs root)
-
-triumph:stage0/woodenbarrel      (needs fluidbladder)
-
-triumph:stage0/totemic      (needs leather)
-
-triumph:stage0/horsepower      (needs lead)
-
-triumph:stage0/lowgradecharcoal      (needs kiln)
-
-triumph:stage0/handgrind      (needs workstump)
-
-triumph:stage0/collectplank      (needs firstbreak)
-
-triumph:stage0/tomahawk      (needs weaponize)
-
-triumph:stage0/melter      (needs melterbase)
-
-triumph:stage0/abyssalbiome      (needs workstump)
-
-triumph:stage0/mill      (needs gear)
-
-triumph:stage0/buffalo      (needs totemic)
-
-triumph:stage0/firsttool      (needs root)
-
-triumph:stage0/saddle      (needs lead)
-
-triumph:stage0/firepit      (needs fire)
-
-triumph:stage0/spear      (needs weaponize)
-
-triumph:stage0/firstbreak      (needs firsttool)
-
-triumph:stage0/baykok      (needs buffalo)
-
-triumph:stage0/firstchest      (needs workstump)
-
-triumph:stage0/mesh      (needs fiber)
-
-triumph:stage0/fluidbladder      (needs workstump)
-
-triumph:stage0/mat      (needs leather)
-
-triumph:stage0/leather      (needs fluidbladder)
-
-triumph:stage0/woodhopper1      (needs firstchest)
-
-triumph:stage0/fire      (needs firsttool)
-
-triumph:stage0/gear      (needs wheel)
-
-triumph:stage0/stonetools      (needs upgrade)
-
-triumph:stage1/claybarrel      (needs root)
-
-triumph:stage1/tin      (needs prospector)
-
-triumph:stage1/woodbasin      (needs root)
-
-triumph:stage1/gearbox      (needs waterwheel)
-
-triumph:stage1/prospector      (needs crafting)
-
-triumph:stage1/parchment      (needs aquamarine)
-
-triumph:stage1/cart      (needs wheel)
-
-triumph:stage1/stepup      (needs bloodaltar)
-
-triumph:stage1/bloodaltar      (needs alloykiln)
-
-triumph:stage1/parrot      (needs statue)
-
-triumph:stage1/beneath      (needs statue)
-
-triumph:stage1/astable      (needs journal)
-
-triumph:stage1/dung      (needs claybarrel)
-
-triumph:stage1/chest      (needs crafting)
-
-triumph:stage1/alloykiln      (needs copper)
-
-triumph:stage1/crafting      (needs root)
-
-triumph:stage1/hoe      (needs root)
-
-triumph:stage1/axle      (needs blackquartz)
-
-triumph:stage1/huntingdim      (needs root)
-
-triumph:stage1/furnace      (needs crafting)
-
-triumph:stage1/turntable      (needs gearbox)
-
-triumph:stage1/coal      (needs prospector)
-
-triumph:stage1/bucket      (needs turntable)
-
-triumph:stage1/blackquartz      (needs beneath)
-
-triumph:stage1/tchannel      (needs root)
-
-triumph:stage1/statue      (needs necro)
-
-triumph:stage1/pedestal      (needs statue)
-
-triumph:stage1/plumbline      (needs crafting)
-
-triumph:stage1/stoneanvil      (needs root)
-
-triumph:stage1/aqueduct      (needs root)
-
-triumph:stage1/necro      (needs bronze)
-
-triumph:stage1/leafbed      (needs crafting)
-
-triumph:stage1/extension      (needs claybarrel)
-
-triumph:stage1/aquamarine      (needs beneath)
-
-triumph:stage1/journal      (needs parchment)
-
-triumph:stage1/bronze      (needs alloykiln)
-
-triumph:stage1/waterwheel      (needs axle)
-
-triumph:stage1/copper      (needs prospector)
-
-triumph:stage2/stevescarts      (needs piston)
-
-triumph:stage2/market      (needs gold)
-
-triumph:stage2/depth      (needs compass)
-
-triumph:stage2/smeltertank      (needs iron)
-
-triumph:stage2/lapis      (needs dowsingrod)
-
-triumph:stage2/gold      (needs dowsingrod)
-
-triumph:stage2/stopwatch      (needs compass)
-
-triumph:stage2/resonatingwand      (needs enderman)
-
-triumph:stage2/mapping      (needs extendedcraftingbasic)
-
-triumph:stage2/paper      (needs root)
-
-triumph:stage2/piston      (needs twilight)
-
-triumph:stage2/wool      (needs root)
-
-triumph:stage2/starpowder      (needs dowsingrod)
-
-triumph:stage2/skywave      (needs conpaper)
-
-triumph:stage2/extendedcraftingbasic      (needs starpowder)
-
-triumph:stage2/betweenlands      (needs root)
-
-triumph:stage2/bucket      (needs controller)
-
-triumph:stage2/enderman      (needs conpaper)
-
-triumph:stage2/twilight      (needs astable2)
-
-triumph:stage2/tcontable2      (needs tcontable1)
-
-triumph:stage2/weedwoodsticks      (needs betweenlands)
-
-triumph:stage2/weedwoodsword      (needs betweenlands)
-
-triumph:stage2/rockcrystal      (needs starpowder)
-
-triumph:stage2/compass      (needs controller)
-
-triumph:stage2/drawertable      (needs root)
-
-triumph:stage2/biomealyzer      (needs compass)
-
-triumph:stage2/wateringcan      (needs smeltertank)
-
-triumph:stage2/dowsingrod      (needs glass)
-
-triumph:stage2/iron      (needs dowsingrod)
-
-triumph:stage2/conpaper      (needs root)
-
-triumph:stage2/lightwell      (needs conpaper)
-
-triumph:stage2/glass      (needs root)
-
-triumph:stage2/tcontable1      (needs root)
-
-triumph:stage2/controller      (needs betweenlands)
-
-triumph:stage2/tcontable3      (needs tcontable2)
-
-triumph:stage2/astable2      (needs lightwell)
-
-triumph:stage2/weird      (needs enderman)
-
-triumph:stage3/crudeoil      (needs sampledrill)
-
-triumph:stage3/iehammer      (needs iebook)
-
-triumph:stage3/drawercontroller      (needs workbench)
-
-triumph:stage3/blazerod      (needs nether)
-
-triumph:stage3/projector      (needs iebook)
-
-triumph:stage3/rails      (needs root)
-
-triumph:stage3/steel      (needs creosote)
-
-triumph:stage3/oreprospector      (needs root)
-
-triumph:stage3/circuitboard      (needs vacuumtube)
-
-triumph:stage3/bauxite      (needs oreprospector)
-
-triumph:stage3/liquidplastic      (needs propene)
-
-triumph:stage3/vacuumtube      (needs workbench)
-
-triumph:stage3/standardhull      (needs woodhull)
-
-triumph:stage3/netherbrick      (needs potash)
-
-triumph:stage3/creosote      (needs iehammer)
-
-triumph:stage3/filteredhopper      (needs nether)
-
-triumph:stage3/platinum      (needs oreprospector)
-
-triumph:stage3/iebook      (needs root)
-
-triumph:stage3/conveyorbelt      (needs workbench)
-
-triumph:stage3/woodhull      (needs stevescartsassembler)
-
-triumph:stage3/galgadorian      (needs standardhull)
-
-triumph:stage3/redstone      (needs oreprospector)
-
-triumph:stage3/naphtha      (needs crudeoil)
-
-triumph:stage3/workbench      (needs iebook)
-
-triumph:stage3/amethyst      (needs nether)
-
-triumph:stage3/oreexcavation      (needs oreprospector)
-
-triumph:stage3/steam      (needs naphtha)
-
-triumph:stage3/bellows      (needs hibachi)
-
-triumph:stage3/propene      (needs steam)
-
-triumph:stage3/sampledrill      (needs circuitboard)
-
-triumph:stage3/windmill      (needs creosote)
-
-triumph:stage3/modularmachinery      (needs circuitboard)
-
-triumph:stage3/hibachi      (needs filteredhopper)
-
-triumph:stage3/silverlead      (needs oreprospector)
-
-triumph:stage3/distillation2      (needs naphtha)
-
-triumph:stage3/extendedcrafting1      (needs nether)
-
-triumph:stage3/netherexbiome      (needs nether)
-
-triumph:stage3/viescraft      (needs extendedcrafting1)
-
-triumph:stage3/waterwheel      (needs creosote)
-
-triumph:stage3/stevescartsassembler      (needs root)
-
-triumph:stage3/potash      (needs bellows)
-
-triumph:stage3/plastic      (needs liquidplastic)
-
-triumph:stage3/bonehoe      (needs netherwart)
-
-triumph:stage3/compactmachines      (needs diamond)
-
-triumph:stage3/netherwart      (needs netherexbiome)
-
-triumph:stage3/nether      (needs root)
-
-triumph:stage3/buildcraft      (needs circuitboard)
-
-triumph:stage3/nickel      (needs oreprospector)
-
-triumph:stage3/soundmuffler      (needs redstone)
-
-triumph:stage4/silicon      (needs prospector4)
-
-triumph:stage4/ardite      (needs prospector4)
-
-triumph:stage4/rsgrid      (needs inscriber)
-
-triumph:stage4/cobalt      (needs ardite)
-
-triumph:stage4/launchpad      (needs nasaworkbench)
-
-triumph:stage4/blockheads1      (needs root)
-
-triumph:stage4/amadrontablet      (needs plasticmixer)
-
-triumph:stage4/manyullyn      (needs cobalt)
-
-triumph:stage4/solidendereye      (needs root)
-
-triumph:stage4/printedcircuitboard      (needs compressediron)
-
-triumph:stage4/endercrafter      (needs enderalloy2)
-
-triumph:stage4/certusquartz      (needs prospector4)
-
-triumph:stage4/moon      (needs t1rocket)
-
-triumph:stage4/enderalloy3      (needs theend)
-
-triumph:stage4/pressurechamberwall      (needs compressediron)
-
-triumph:stage4/inscriber      (needs certusquartz)
-
-triumph:stage4/extendedcraftingelite      (needs manyullyn)
-
-triumph:stage4/spacesuit      (needs nasaworkbench)
-
-triumph:stage4/machinecasing      (needs printedcircuitboard)
-
-triumph:stage4/compressor      (needs enderalloy3)
-
-triumph:stage4/laserassembly      (needs amadrontablet)
-
-triumph:stage4/plasticmixer      (needs compressediron)
-
-triumph:stage4/ae2panel      (needs inscriber)
-
-triumph:stage4/compressediron      (needs root)
-
-triumph:stage4/t1rocket      (needs nasaworkbench)
-
-triumph:stage4/prospector4      (needs root)
-
-triumph:stage4/fuelloader      (needs compressor)
-
-triumph:stage4/enderalloy1      (needs theend)
-
-triumph:stage4/blockheads3      (needs blockheads2)
-
-triumph:stage4/enderalloy2      (needs theend)
-
-triumph:stage4/blockheads2      (needs blockheads1)
-
-triumph:stage4/theend      (needs root)
-
-triumph:stage4/nasaworkbench      (needs endercrafter)
-
-triumph:stage4/presses      (needs theend)
-
-triumph:stage5/wirelesscharger      (needs charger3)
-
-triumph:stage5/creativemodifer      (needs ultimateingot)
-
-triumph:stage5/creativeenergycube      (needs ultimateingot)
-
-triumph:stage5/emerald      (needs prospectorstage5)
-
-triumph:stage5/diamond      (needs prospectorstage5)
-
-triumph:stage5/inferiumessence      (needs saturn)
-
-triumph:stage5/prospectorstage5      (needs root)
-
-triumph:stage5/diamondjetpack      (needs electrumjetpack)
-
-triumph:stage5/t2rocket      (needs root)
-
-triumph:stage5/charger3      (needs root)
-
-triumph:stage5/osmium      (needs prospectorstage5)
-
-triumph:stage5/spacesuit4      (needs saturn)
-
-triumph:stage5/neptune      (needs saturn)
-
-triumph:stage5/ultimateingot      (needs ultimatecraftingtable)
-
-triumph:stage5/creativefluidtank      (needs ultimateingot)
-
-triumph:stage5/electrumjetpack      (needs root)
-
-triumph:stage5/scanner      (needs root)
-
-triumph:stage5/cheese      (needs prospectorstage5)
-
-triumph:stage5/prosperityshard      (needs inferiumessence)
-
-triumph:stage5/desh      (needs mars)
-
-triumph:stage5/mars      (needs t2rocket)
-
-triumph:stage5/creativecompressor      (needs ultimateingot)
-
-triumph:stage5/skystone      (needs cheese)
-
-triumph:stage5/emeraldjetpack      (needs diamondjetpack)
-
-triumph:stage5/creativejetpack      (needs ultimateingot)
-
-triumph:stage5/ultimatecraftingtable      (needs root)
-
-triumph:stage5/marsrover      (needs t2rocket)
-
-triumph:stage5/saturn      (needs mars)
