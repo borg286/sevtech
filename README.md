@@ -1,3 +1,11 @@
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
@@ -162,6 +170,12 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
     <td>Overworld & Twilight Forest</td>
   </tr>
   <tr>
+    <td>Redstone Ore</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Twilight Forest in the hollowed out caves</td>
+  </tr>
+  <tr>
     <td>Sphalerite</td>
     <td>35</td>
     <td>55</td>
@@ -208,15 +222,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * Shift/Sneak on your grave to retrieve your items.
 
-* Keep 4 wild dog/wolf pelts for Dog Pelt Boots (run faster, good armor, no fall damage).
-
 * Once you get a saddle, go tame a horse (repeatedly trying to ride it) to speed up traversing the overworld. He can jump stone fence, but only with you riding. Be sure to bring a fence and lead with you for when you want to get off your high horse. Alternatively live near an ocean and use a raft to visit new places, taking care with the sharks and piranhas that attack when you get to shore. Piranhas jump out at you.
-
-* Instead of killing chicken, use Flint Shears to get lots of feathers. Each time they take damage but don't run away.
-
-* If you find a village you can often trade hides for leather so you can skip the leather making process.
-
-* You can also trade fleece for string with better results than transforming it with work blade.
 
 * Be on the lookout for Sakura, Eucalyptus or Dark Oak trees. You'll need the logs to upgrade your work stump into the mk2 version. It can hold full stacks of items for repeated crafting, and takes fewer whacks.
 
@@ -230,13 +236,87 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * If your grave gets removed (eg by the Hydra), you can recover it by using the **/tmg_restore** command from Tomb Many Graves mod.
 
+* Having trouble to orientate yourself? Use the Sun! The sun and moon rise in the east and set in the west. This makes a good early compass to find yourself which way you are traveling.
+
+## Step assist vs. auto-jump
+
+Auto-jump is horrible, we all know. That is not what is on by default in SevTech. Instead we have Cyclic's step assist feature on from the get go. In age 1 after you make the Blood Altar you can craft a special apple (Apple of Lofty Stature) to toggle it. See below for a faster way to disable it.
+
+Here are are a few things that step assist fixes over auto-jump: 
+
+1. You don't jump a full 1.5 blocks, but instead are instantly moved the 1 vertical block needed
+
+2. You don't jump and you don’t land, thus eliminating in-flight time
+
+3. Mobs still need to jump, making mountain climbing a realistic escape strategy
+
+4. You don't ruin farmland climbing out of water sources
+
+5. You can run up mountains covering just as much horizontal distance as if you were running.
+
+6. It doesn't use more hunger than walking
+
+7. When digging diagonally down you don't have to make the pathway 3 tall. A 2 tall stairway allows for fast travel up. Still the same jerkyness going down. But now you don’t have to jump going up.
+
+If this feature is game-breaking and you have control over the configs, go to cyclic's configs and disable stepheightdefault and create a new character. If you’re already established see if the admin can cheat the apple to you.
+
+## When and where to select a first base
+
+### What to look for
+
+* Gravel, sticks, and fibre to bootstrap your first tools. Crafting stump then Flint pickaxe, workblade, shears, upgrading to stone pickaxe and axe  then set out for gathering.
+
+* Fleece: The workblade turns this into string, so you don't have to find cotton plants. Instead of killing sheep for Fleece, use flint shears so the herd doesn’t run away. Make a sleeping mat ASAP.
+
+* Sugarcane: You'll want at least 6 planted to have enough for the totemic tools
+
+* Ink sacks: The atlas, tradable from a white-coat villager, requires feathers and ink sacks
+
+* Feathers: In addition to the atlas, you'll need 16 for the Wild Dog Boots. Use shears to get 4 feathers per chicken, which kills them in the process without them running away
+
+* [Optional] Hemp: Dog Pelt Boots  use hemp to make 2 bundles of 8 feathers each. The hard part is finding fully grown hemp.
+
+* [Optional] Keep all wild dog pelts for Dog Pelt Boots (**run much faster**, good armor, no fall damage).
+
+* Bone blocks: Bone fossils are easily found in plains. Pick up at least 10-30 blocks for quick farming and homesteading
+
+* Black lotus, Dandelion and Rose: The fluid bladder needs these 3 powders
+
+* Clay: You'll need around 30 to get you through Age 0
+
+* 4-7 bone: totemic needs these. Note that animals sometimes drop bones.
+
+* Try to keep to one type of animal for meat and pelts as your initial inventory is scarce when gathering all this stuff.
+
+### Where to set up base
+
+* Water: River and ocean biomes have infinite water. Pulling water from lakes results in annoying but workable whirlpools. Placeable water is pushed out to age 2, so any farm will need to be placed around existing water, or aqueducts. You'll also want your sugarcane planted and nearby so it always grows. Plan your base accordingly
+
+* Forest: You'll be using lots of wood for quite a while, so pick a place with quick access to trees.
+
+* Find a village you can often trade hides for leather so you can skip the lengthy leather making process.
+
+* You can also trade fleece for string with better results than transforming it with work blade.
+
+* Cows: Turning Cows into buffallos is required for progression. You have 3 ways of getting them: Pulling a pied piper with wheat, micromanaging with a handful of leads, or using carry-on to slowly carry them back. Pick a base that isn't too far from a herd of cows.
+
+* When you get into age 1 you can make storage crates which retain their inventory, making moving much easier. So you don't need to find the perfect place. Age 2 opens up the Tinker’s lumber axe, making a nearby forest less critical.
+
+### Where not to set up base
+
+* Areas with mud patches. Mud takes forever to mine even with the shovel. You often dig out animal pens.
+
+* Plains: Early game makes heavy use of wood.
+
+    * On the other hand, when breaking leaves manually, sapplings are VERY easy to come by.  Allowing you to exponentially grow a treefarm.
+
 ## Tools
 
 * Flint Hatchet: strictly a gateway into a crafting stump. Upgrade to stone axe ASAP.
 
 * Flint pickaxe: strictly a gateway into a cobble. Upgrade to stone pickaxe ASAP.
 
-* Flint spear: instantly break weeds(fiber) and leaves(sticks) without reducing durability like the workblade does. 4 damage as melee and ranged, but throwing it risks breaking it.
+* Flint spear: 4 damage as melee and ranged, but throwing it risks breaking it.
 
 * Whittling knife: only used to make totems. Scroll or right click in air to switch selected totem animals.
 
@@ -392,11 +472,11 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 ### Good foods to make:
 
-* Melon Pie(2 watermelon+egg+sugar): **4% Fruit**
-
 * Hearty Stew(Baked Potato+Cooked Meat+5 bowls+4 mushroom+Barley/Wheat flour) cooked in a cauldron: **3.5% Grain Protein and Vegetable**
 
     * Be careful to only put in the minimum carrots as the cauldron cooks any spare carrots. 
+
+    * Some youtubers show that you need a blue flame to stoke the cauldron.  This in fact not needed for (most?/any?) recipes.
 
 * Pork dinner: Cooked Pork+Baked Potato + raw Carrots gives **3% Vegetable, Protein**
 
@@ -434,13 +514,13 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 * When questing for the shadow gem set up a full 6 tall (1 totem base + 5 totem) totem of pig (luck 3), another for horse(speed 3) and another for wolf (strength 3). Add in ocelot (creepers are harmless) and endermen (night vision) totem with only 1 needed of each.
 
-* The sacficical dagger together with a blood altar can be used to instantly kill most enemies.
+* The sacrificial dagger together with a blood altar can be used to instantly kill most enemies.
 
 ## Inventory tips
 
 * Make shelves instead of chests. They hold 16 items instead of 12, and are more friendly to an inventory wall. Note: They don't currently work with Quark’s Drop-off button (see below).
 
-* Craft a backpack when you get access to leather to hold your items (recipe is on page 6 of the backpack recipes past all of the dye-ing recipes).
+* Craft a backpack when you get access to leather to hold your items (recipe is on page 6 of the backpack recipes past all of the dyeing recipes).
 
 * After getting a backpack, tech straight to the Stone Backpack for 36 slots. Craft the leather backpack with a wood upgrade, then craft with stone upgrade
 
@@ -500,19 +580,13 @@ This age is focused on Prospecting for Bronze(tin and copper), 2 magic mods: Blo
 
 * Replace your horse with Wild Dog Pelt Boots (Speed boost, no fall damage, 2 3 armor)
 
-* A crucible can turn zombie flesh and hide into glue. Useful for making torches throwable, crafting Better with Mods Wooden gears and Slime boots
-
-* The AbyssalCraft Crate is silent.
-
-    * Does not retain items when broken
-
-    * Does not work with Quark item drop off
-
-    * Wooden hoppers can't insert nor pull from those
+* A cauldron/crucible can turn zombie flesh and hide into glue. Useful for making torches throwable, crafting Better with Mods Wooden gears and Slime boots. Keep 16 around for Blood Magic
 
 * Use storage crates (not to be confused with wooden crate). It's also silent and it can be gathered with all the items using shift right click. Can be used as a limited version of backpack. Ideal for resource processing or builds. Note that the drop-off button doesn't work with them, so shouldn't be used for primary storage.
 
     * Another problem: Unable to place a sign onto them, as shift+right click picks them up instead
+
+* When you remove a single bit (chisel&bits) out of a plank, it will not catch fire. Useful to prevent your base from burning to the ground by your fireplace.
 
 ## Hunting Dimension
 
@@ -523,6 +597,8 @@ Note: Mobs have more health here.
 ### Creeping Moss
 
 Creeping moss is a craftable item that allows the player to change the type biome of a chunk in the hunting dimension. Creeping moss can be crafted by surrounding a block of mossy cobblestone (just cobble crafted with vine) with 8 vines, leaves(use flint shears) or saplings. Once you have crafted the creeping moss, you can sneak and right click to set the moss to the biome you are currently standing in. Once the desired biome has been set, you can go into the hunting dimension and right click with moss (without sneaking) to apply the biome changes. Keep in mind that creeping moss can only change the biome of a chunk in the hunting dimension. Also some of the biomes that are harder to find, like ice plains, can be obtained using some special crafting recipes.
+
+Additionally, you can use the moss to **find out what biome you are currently in**, as it spits out the selected biome into chat. This can be helpful because the F3 screen does not show biome in age 1.
 
 * Make a mob grinder by placing a spider + ocelot totem, 1 layer for you to walk, then a wall of fence, with punji sticks the next layer out. The spider totem lets you climb up the walls of your tower![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.jpg)
 
@@ -586,11 +662,7 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * They seem to climb similar to spiders. They don't deposit their sludge on bottom half slabs or string. They require a 3x3 hallways to move. However a bunch of them can shove one into a 2x3 hallway. If you are quick you can build a wall right at the bottom of the stairs leading into their lair before they manage to escape. You will get hit at least once since they can hit through a 1 block thick wall but focus on establishing a wall first and pretty it up later. You can build a 3x3 killing chamber at the top of your wall. Use bottom half slabs for the floor and don't bust the wall leading to the lair until your ready for them to come through. Opposite of the wall you can build a 2 block thick wall with a 1 block high slit to slash at them through it. To collect the drop swing underneath and bust out one slab, replace it and repeat until you have all the drops. Mk2 hoppers can suck the items through the slabs for a much safer alternative.
 
-* An image of the possible killing chamber (as described above): [https://i.imgur.com/QmraP58.png](https://i.imgur.com/QmraP58.png)
-
-As long as you don't go in far enough to attract the attention of the Shoggoth in the back, you should have a endless supply of them. My first attempt I went for a killing hole in the floor and it didn't work out very well since that angered all of them which meant no new Shoggoth could spawn after they were all dealt with.
-
-Punji sticks don't work on them since they climb walls. Lighting them on fire with fiber torches is very slow. Slashing them is slow and consumes roughly 6 swords to get 1 stack of their drops.
+* An image of the possible killing chamber (as described above): [https://i.imgur.com/QmraP58.png](https://i.imgur.com/QmraP58.png)As long as you don't go in far enough to attract the attention of the Shoggoth in the back, you should have a endless supply of them. My first attempt I went for a killing hole in the floor and it didn't work out very well since that angered all of them which meant no new Shoggoth could spawn after they were all dealt with.Punji sticks don't work on them since they climb walls. Lighting them on fire with fiber torches is very slow. Slashing them is slow and consumes roughly 6 swords to get 1 stack of their drops.
 
 * If you're playing on a server and the Shoggoth lairs have been emptied, you can trade for flesh with villagers, or with the Farming for Blockheads Market
 
@@ -604,7 +676,7 @@ Punji sticks don't work on them since they climb walls. Lighting them on fire wi
 
     * Spear has a bigger range than other weapons and it can be used to punch them without being touched even once. Combined with wolf totem it does a massive damage.
 
-* There is a common bug where Sloggoth either do not spawn or spawn unhittable. If this happens, you can craft the Market block cheaply, and then mine their bases to trade for Sloggoth Flesh. 24 Monolith Stone will get you one flesh, and 8 Sloggoth Flesh will get you a statue. 
+* There is a common bug where Shoggoth either do not spawn or spawn unhittable. If this happens, you can craft the Market block cheaply, and then mine their bases to trade for Sloggoth Flesh. 24 Monolith Stone will get you one flesh, and 8 Sloggoth Flesh will get you a statue. 
 
 * After crafting the statue place it **away from your base** and hold the necronomicon. The statue will send power into your necronomicon at 5 PE / 5 seconds taking about 15 minutes to get the 1000 needed. Randomly you may get struck by lightning and even explosive lightning, and sometimes wither effect. After getting 1000 points that area will have gotten tainted and will produce abyssal mobs. A shovel can quickly remove sludge produced by Shoggoths. They don't poop ooze on half slabs.
 
@@ -678,7 +750,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Mechanical power is binary, it's either on or off. You can split power as many times as you want to power your stuff.
 
-* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
+* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers, because they don't have an internal inventory). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
 
 * Completing the saw also makes Wooden gears much cheaper.
 
@@ -696,32 +768,6 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * You can store Improved Backpacks' backpacks inside Iron Backpacks’ backpacks.
 
-* There are a few useful baubles that we can now craft:
-
-    * Climbing Gloves : Let's you climb vertical walls.
-
-    * [Gluttony Charm](https://ftb.gamepedia.com/Gluttony_Charm) : Consume food instantly
-
-    * [Sleep Charm](https://ftb.gamepedia.com/Sleep_Charm) : Sleeping is instantaneous
-
-    * [Portal Charm](https://ftb.gamepedia.com/Portal_Charm)  Allows for instantaneous travel through dimensional portals
-
-    * Compass : The X and Z of the player
-
-    * Stopwatch : The movement speed of the player
-
-    * Depth Meter : The Y of the player
-
-    * Slimey Compass : Whether or not the player is in a slime chunk
-
-    * Chunker : The Chunk's X and Y coordinate
-
-    * Calendar : 
-
-    * Biomealyzer : Displays the name of the biome you're in.
-
-    * Super Sound Muffler : Allows for the muffling of certain categories of sounds
-
 * Not all of these baubles need to be equipped to work.  Most will work as long as they're in the inventory.
 
 * If you want to harvest any of the Low Grade Charcoal blocks, do so before entering the next age as this will cause them to turn into netherrack.
@@ -733,6 +779,10 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 * SevTech contains the mod "Despawnable Spawners".  This mod is set up to destroy spawners (the cage block) after it has spawned 400 mobs.
 
 * Well Bucket - Creates water if next to a source block. Combine with liquid hopper to automate into a tank
+
+* Think big, plan ahead, don't get stuck in a small base in ages 1 and 2 since age 3 involves a lot of multi block machines that will require a lot of space.
+
+* Save your iron, you will need a lot of it and it's not as common as in regular modded mc.
 
 ### Things to look out for
 
@@ -748,7 +798,7 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Slime Sling, and obviously the Slime boots you had available in age 1, so you don't die from flinging yourself
 
-* Quartz Grindstone[Applied Energistics 2]
+* Quartz Grindstone [Applied Energistics 2]
 
 * Framed Storage Drawer
 
@@ -756,7 +806,37 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Ranged weapon, See Tinkers construct right below
 
-* Transport NPCs (excluding horses) without leads [Interdimensional Cage]
+* Transport NPCs (excluding most mounts) without leads [Interdimensional Cage]
+
+* Tinker's Tank
+
+* Create Speed, Nightvision, Healing and Regeneration Potions with Rustic [Alchemy](https://github.com/the-realest-stu/Rustic/wiki/Alchemy).
+
+## Baubles
+
+* Climbing Gloves : Let's you climb vertical walls.
+
+* [Gluttony Charm](https://ftb.gamepedia.com/Gluttony_Charm) : Consume food instantly
+
+* [Sleep Charm](https://ftb.gamepedia.com/Sleep_Charm) : Sleeping is instantaneous
+
+* [Portal Charm](https://ftb.gamepedia.com/Portal_Charm)  Allows for instantaneous travel through dimensional portals
+
+* Compass : The X and Z of the player
+
+* Stopwatch : The movement speed of the player
+
+* Depth Meter : The Y of the player
+
+* Slimey Compass : Whether or not the player is in a slime chunk
+
+* Chunker : The Chunk's X and Y coordinate
+
+* Calendar : 
+
+* Biomealyzer : Displays the name of the biome you're in.
+
+* Super Sound Muffler : Allows for the muffling of certain categories of sounds
 
 ## Automating a Melter
 
@@ -804,7 +884,7 @@ The Interdimensional Cage from Abyssalcraft allows you to transport Villagers, M
 
 * Villagers require a shift-right click for capture.
 
-* Horses cannot be captured.
+* Horses and Llamas cannot be captured.
 
 * Each capture requires about 30 P.E. and the cage capacity is 1,000 P.E.
 
@@ -844,11 +924,15 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 * Best bow
 
+    * Crossbows and longbows can't be created until age 3 so shortbows are the only solution.
+
     * Wood bows have nerfed durability, so green slime arms are the way to go. 
 
         * Get **green slime crystals **by taking either glue or blood balls and crafting a slime cube -> green slime balls + dirt, sand --furnace-> green slime crystal (no cast needed)
 
-    * Damage arrows (**3.67 hearts** average observed, 50 arrows): **Bone **arrowhead, reed shaft, feather fletching
+    * Damage arrows (**3.67 hearts** average observed, 50 arrows): **Bone **arrowhead, reed shaft, feather fletching.
+
+        * This is easier to repair on the go than a slime arrow.
 
     * Endurance arrows (1.9 hearts average observed, **170 arrows**): Green slime crystal arrowhead, reed shaft, feather fletching
 
@@ -868,7 +952,9 @@ You can make a Tool forge by burning grout into seared stone and 4 tin/copper bl
 
 * Stone on the other hand, doesn't require casts, and can be repaired easily. Recall parts can be swapped out when you get a full smeltery for better parts.
 
-* Make a **Stone Hammer** and Stone Lumber Axe for quick mining and felling
+* Make a **Bronze-Stone Hammer** and Stone Lumber Axe for quick mining and felling.
+
+    * You can use a bronze head and a stone and/or wood plate to get the benefit of speed, durability, and Dense modifier while still easily repairing your tool.  You can upgrade once you have it unbreakable.
 
 * The materials used in faceplates and heads can be used for repairing.
 
@@ -898,8 +984,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -921,13 +1006,13 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * The druids spawn when you enter the ritual area, giving you time to prep before the battle.
 
-* Take the time to get slime boots when fighting the Druids. It turns their offensive spell against them. Alternatively make a Bat totem pole (along with Pig for luck) near the circle where you are fighting them.
+* Take the time to get slime boots when fighting the Druids. It turns their offensive spell against them. Alternatively make a Bat totem pole (along with Pig for luck) near the circle where you are fighting them. Furthermore carrying a dagger of sacrifice with a blood altar allows dealing with druids very quickly as they die in 1 hit. This same strategy also works on many other enemies in the betweenlands except bosses.
 
 * The Betweenlands is a very large mod, consult [http://the-betweenlands.wikia.com/wiki/Basic_Guide_to_Survival](http://the-betweenlands.wikia.com/wiki/Basic_Guide_to_Survival) for some starting tips.
 
-* Take neither bedding, Vanilla Torches nor weak weapons (overworld diamond < between wood sword)
+* Take neither non-cooked food (berries -> rotten, hearty stew is fine), bedding, Vanilla Torches nor weak weapons (overworld diamond < between wood sword)
 
-* Totem torches work normally in the Between lands
+* Totem torches work normally in the Between lands. Furthermore the torch launcher also works but this could be considered cheating as the world uses you placing torches to trigger making them damp, and the launcher doesn't hit the same codepath.
 
 * Setting the spawn point with a sleeping bag apparently works.
 
@@ -935,7 +1020,7 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
 
-* Hunt down a Weedwood tree and make base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
+* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
 
 * Instead of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
 
@@ -947,19 +1032,39 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one, they glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
 
+* You can avoid using glass by using the silt glass from betweenlands instead. Its crafting recipe to glass and panes aren't modified. This avoids having to use the smeltery to create glass and glass panes.
+
+* Syrmorite hopper is just as good as a regular hopper and is easier to make.
+
+* Syrmorite armor and weapons are just as good as iron ones.
+
+* For easier travel, you can tame a [Harlequin Toad](http://the-betweenlands.wikia.com/wiki/Harlequin_Toad) with Dragonfly Wings. As with other minecraft mounts, they require a lead and fencepost when you aren't riding them. The toad is able to swim and traverse Sludge Plains.
+
 ## Tinkers Construct Smeltery
 
-Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
+Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands] or wait till the nether for blaze powder.
 
-* A bucket cast is made from a stone bucket, not a clay one. You still need a clay bucket to get lava for the melter.
+Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is delayed until age 5, and it won't process your ores. A smeltery will be your go-to tool for ore processing for quite a while.
+
+* A bucket cast is made from a stone bucket, not a clay one. You still need a clay bucket to get lava for the seared/porcelain tank under a melter.
+
+    * Note that a seared tank won't work with a porcelain melter.
 
 * You can make casts out of Gold, Brass, or Aluminum brass(1 copper+3 aluminium). Seems you only have access to gold right now.
 
-* A tinkers smeltery can be as small a base of 1 square.
+* The smeltery controller can be made with blaze powder, allowing you to bypass the betweenlands altogether.
+
+* A tinkers smeltery can be as small a base of 1 square, but the primary use case for the smeltery is to be the main ore processor you should just start making a larger one.
 
 * Smelteries can share sides, but not the tank nor controller. This helps avoid unwanted alloys.
 
+* Smelteries can **not** share sides with Tinker's Tanks or Seared Furnaces
+
 * Note: **Obsidian doesn't form** in the smeltery, so you won’t have quick and easy access to Obsidian yet.
+
+* Use Liquid hoppers to mostly automate pouring out blocks/ingots/plates. Fill up your smeltery with stuff to smelt, then use the faucet once to pour it into the very large internal tank of the Liquid Hopper. Then let the hopper take care of filling the cast/basin.
+
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png)
 
 ## Twilight Forest
 
@@ -977,15 +1082,21 @@ Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
 
 * Maze wafers are a decent source of grain nutrients and can be found in Labyrinths and other dungeons later in the progression.
 
-* A more invasive alternative to getting at the Labyrinth's secret vault for the Mazebreaker for your coal engine is using the old fashioned method: explosives. Angry Pebbles from Betweenlands towers works/TNT/letting creepers blow up.
+* In later dungeons, a food called experiment 115 can also be found which gives protein nutrients.
+
+* A more invasive alternative to getting at the Labyrinth's secret vault for the Mazebreaker is using the old fashioned method: explosives. Angry Pebbles from Betweenlands towers works/TNT/letting creepers blow up.
 
 * Ensure that you collect as many steeleaf as you can (at least 4) from the labyrinth so that you can craft the coal engine to move towards age 3. You do not want to have to find you way back into the labyrinth later.
 
-* Dark Towers have plenty of useful items to loot, including Brewing Stands, Anvils, and Pistons, as well as the Carminite Reactor you will need at the end of this age, in addition to this there will be plenty of spawners that will spawn carminite ghasts which you can kill for ghast tears, and there are a lot of chests to loot for other goodies like Redstone Lamps, glowstone dust, and a lot of protein food (Experiment 115).
+* Dark Towers have plenty of useful items to loot, including Brewing Stands, Anvils, and Pistons, as well as the Carminite Reactor you will need at the end of this age, in addition to this there will be plenty of spawners that will spawn carminite ghasts which you can kill for ghast tears, and there are a lot of chests to loot for other goodies like Redstone Lamps, glowstone dust, and Experiment 115
 
 * The Carminite reactor required a bronze pickaxe to pickup. TODO: see if a claw paxel can pick it up too.
 
-* Dark Towers also can contain Blaze spawners, though Blazes don't actually seem to spawn in age 2 or 3. 
+* Dark Towers also can contain Blaze spawners, though Blazes don't actually seem to spawn in age 2 or 3.
+
+* Take some bones to the doggos in TF to tame them, and carry them back to your base. They'll run faster than the horses for your machines.
+
+* Cave Illuminators (from Astral Sorcery) allow you to clear Mazes and Hollow Hills more easily.
 
 ## Astral sorcery
 
@@ -997,7 +1108,7 @@ Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
 
 * The Resonating Wand does not make the Crystal Rock Samples more visible, like it does in the standard mod with Starmetal Ore.
 
-* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png)
+* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
 
 * When making a crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1007,13 +1118,31 @@ Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
 
 * For the most part ones with poor stats are garbage and only really useful in lightwells and things that don't care about quality (which you can tell by checking if the output item has stats in the tooltip, eg. Mantle of Stars or Altars do not care about crystal stats as a part of their crafting component)
 
+* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
+
 * Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
 
 * In regards to liquid starlight generation in a lightwell: Aquamarine < Resonant Aquamarine < Rock Crystal < Celestial Crystal < Attuned Rock Crystal < Attuned Celestial Crystal
 
 * Celestial Gateways allow for inter-dimensional transport, you can set up gateways to travel to the end, nether (ceiling), or even other GalaticCraft planets - the multiblocks can be built in stage 2
 
-* The Crystal pick doesn't seem to take damage when mining normal stuff. 
+* Crystal tools are very effective, for example the highest quality sword does 7 full hearts of damage, (double that of a diamond sword) The quality of a tool depends on the stats of the crystals used. Higher size/cutting means more efficiency. However they slowly decrease these stats over time when used. These can be gained back by putting them in liquid starlight or on a grinding stone. Later they can be infused to make them more durable and effective.
+
+* You can attune yourself to a constellation for all kinds of bonuses. This requires the attunement altar and a rather large multi block structure (using 225 sooty marble alone) it also requires some spectral relays.
+
+    * Discida gives all kinds of damage buffs
+
+    * Armara provides a multitude of damage reducing buffs
+
+    * Vicio increases speed, places lights, reduces hunger and grants temporary lava immunity.
+
+    * Aevitas provides increased reach, natural armor regen and turning stone around you into ore. However turning stone into ores will break the progression of the pack by giving you many ores before you can normally find them.
+
+    * Evorsio gives mixed mining speed and damage increases as well as disarming your opponent's armor.
+
+    * To find where to place spectral relays for a constellation. Hold the paper of that constellation in your offhand (shift right click your astral tome to take the papers out). Spots where to place the spectral relays glow blue.
+
+* Fluid Hoppers into a Tinker's Tank makes for a great way to store all that precious Liquid Starlight. Later a containment chalice can be used. Putting one near a infusion structure drastically reduces starlight usage.
 
 # Age 3
 
@@ -1023,21 +1152,73 @@ Prerequisite: Turntable[Better with mods], Aqua Middle gem[Betweenlands]
 
 **Key Items:**
 
+### Obsidian
+
+* Obsidian is now available. It used to be cracked basalt but now appears in the world.
+
+    * Though obsidian is available earlier by using an Astral Sorcery pick.
+
+* Some pickaxes like the Black Quartz AIOT can mine obsidian but will not drop it. A different pickaxe is needed to obtain it.
+
+    * Tinkers hammers won't easily work right now until you obtain steel which requires a blast furnace.
+
+    * The swift pick from the betweenlands is highly recommended due to its insanely high mining speed. It breaks obsidian in a rate of about 1 a second.
+
+* Obsidian can also be made in the cauldron completely avoiding having to mine it but is slow and requires a lot of fluid management. (A lot? Specifics?)
+
+* Obsidian can be made with astral sorcery and magma blocks but require collector crystals which require a further upgraded altar and another structure for the infuser. Also this places the obsidian in the world so it still needs to be mined.
+
 ### Nether
 
-* You can cast yourself a nether portal out of lava - [https://imgur.com/a/tBwOZ](https://imgur.com/a/tBwOZ) - (unless you are close to one of the world generated ones). 
+* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a vase under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
 
 * Nether Amethyst Ore only spawns in the vanilla Hell biome (get a Biomeanalyzer). It's rare, so Fortune III is recommended
 
-* When farming a blaze spawner don't forget to make yourself some totems (luck, fire protection).
+* When farming a blaze spawner don't forget to make yourself some totems (fire protection). **Note luck doesn’t work on blazes**
+
+* Blood Magic's Sigil of the Phantom Bridge lets you get around easily, avoiding Thornstalks and Soul Sand
+
+* Spawners can normally be picked up with the Carry On mod (shift+right click with an empty hand **But** this doesn't work in this pack.
+
+Food
+
+* Fish n' chips. This food restores 9+ full hunger bars and saturation. It requires the knife which costs 2 iron, 1 leather, 1 flint and 1 stick (very cheap). Every fish n’ chips also requires one cooked potato cut up into fries, 1 cooked fish and 1 paper cone made of 3 paper. You get the cone back after eating it. Note, this recipe uses only age 2 and lower materials but is only obtainable in age 3
+
+* Cooked ghast meat. This food restores 4 full hunger bars and 5+ saturation Raw ghast meat can be obtained in large quantities in a ur ghast tower in the twilight forest. Note that ghast spawners despawn after 400 spawns. Raw ghast meat can be obtained in age 2 but only cooked in age 3
+
+    * **Important**, eating ghast meat gives levitation 2 for 10 seconds, this could be beneficial or not depending on the situation
+
+* Astral sorcery aevitas cloak. This cloak is available in stage 2 but requires the highest tier altar and by that time most players would have reached at age 3, this cloak rapidly regenerates your hunger and saturation while equipped to the point where the player never has to eat again, gaining lots of health regen in the meantime due to the saturation. Just beware for reaching low nutrient levels.
 
 Storage
 
-* Obsidian chests are the best one block storage options for its price
+* Obsidian chests are the best one block storage options for its price, each having enough space equal to 3 large chests (108 slots)
 
 * You gain access to tanks, specifically from Immersive Engineering. While this multiblock is non-portable, it is very useful for storing large amounts of fluids. This is good for creosote, lava (though this might be difficult to collect), and water. These liquids have been, and will continue to be very useful (well you just gained access to creosote but it applies to it as well) so it is recommended to store up on them.
+
+## Teleportation
+
+There's some methods of teleportation available.
+
+### Astral Sorcery Method
+
+Astral sorcery's celestial gateway can be used to teleport to a different altar.
+
+* Pros: Very easy to use, works across different dimensions and over long range as well
+
+* Cons: requires 2 starmetal ingots and 8 stardust to create 2 of them and both require a marble structure.
+
+### Betweenlands Method
+
+Furthermore you can link betweenlands portals with the swamp talisman
+
+* Pros: Can be used as soon as the swamp talisman is obtained, new portals are very cheap to make
+
+* Cons: Can only teleport up to 1500 blocks away and exactly one portal MUST be in the betweenlands so you need to use 2 portals to reach a different place in the overworld.
+
+* Also it takes a while for the teleporter to function and the world to load.
 
 ## Tinker's Construct Tools:
 
@@ -1047,17 +1228,21 @@ Storage
 
 * Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
 
+* The silky touch modifier uses betweenlands gems rather than emeralds. This is useful for getting the ore itself, needed for a few recipes later and ore doubling
+
 * You gain access to the Ore Excavation modifier in this age (alongside the ability to add modifiers in general). Check options for the keybindings available. Ctrl+OreEx keybind opens up a GUI that allows you to edit shapes if you want.
 
-* OreEx will continue mining blocks with your tool even if it breaks, it only stops until one of the following happens:
+* OreEx will continue mining blocks with your tool even if it breaks, it only stops when one of the following happens:
 
     * Your hunger hits zero
 
     * You let go of the excavation key
 
-* You can swap parts on your tinker tools without any penalty. This lets you do something like create a pickaxe with a stone head, add the ore excavation modifier to it, and then mine through huge amounts of stone, repairing the tool as you go (make sure to have a Tool Station on hand and a LOT of food) in order to level it up very quickly. My personal preference was to add, in order, the ore excavation modifier, 5 reinforcement modifiers (ASAP as soon as you get the levels, to make the tool's durability last longer than your hunger) to make it unbreakable, and then Luck III. Due to Ore Excavation, redstone (Haste) isn’t as important, so it can wait. Also, since you can replace parts without penalty, you can keep this pickaxe/axe/shovel/whatever for the rest of the game, replacing any part on it whenever something better shows up without having to worry about ever repairing it.
+* If you hold food in your offhand and have a gluttony charm equipped you can eat while ore excavating, allowing you to mine the max 4000 blocks all at once.
 
-* Absolutely make yourself a Luck III pick (costs 360 lapis), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst, aquamarine, ...)
+* You can swap parts on your tinker tools without any penalty. This lets you do something like create a pickaxe with a stone head, add the ore excavation modifier to it, and then mine through huge amounts of stone, repairing the tool as you go (make sure to have a Tool Station on hand and a LOT of food) in order to level it up very quickly. A good way to do this is to add, in order, the ore excavation modifier, 5 reinforcement modifiers (ASAP as soon as you get the levels, to make the tool's durability last longer than your hunger) to make it unbreakable, and then Luck III. Due to Ore Excavation, redstone (Haste) isn’t as important, so it can wait. Also, since you can replace parts without penalty, you can keep this pickaxe/axe/shovel/whatever for the rest of the game, replacing any part on it whenever something better shows up without having to worry about ever repairing it.
+
+* Absolutely make yourself a Luck III pick (even 1 lapis + time or forking up the 360 lapis to quickly get to Luck III), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst, aquamarine, ...) (Just by adding only 1 Lapis will help, it slowly increases when used.)
 
     * Most geolosys ores are not affected by Luck, the ones affected by Fortune/Luck will be noted above in the Ore Distribution chart
 
@@ -1065,19 +1250,43 @@ Storage
 
 * Magma block/Netherrack over a Lightwell generates Lava for your furnace.
 
+* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have 10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
+
+* You can clear out huge swaths of cobblestone using the Excavation + Blasting modifier + Gluttony charm + lots of food. Blasting 3 destroys all the cobble you mine. After blasting the stone you are left with easy to find veins. If you use Copper you get tons f XP as you're doing it. 100+ levels in 10 minutes.
+
 ## Stoked Fire
 
-* Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things.
+* Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
+* In a kiln you can make Melon Pie(2 watermelon+egg+sugar): **4% Fruit**
+
 * When you put a Better with mods Crucible above the stoked fire you can melt down armor (gold and iron) to ingots and nuggets. Combo this with the hunting dimension and a mob grinder there to get infinite gold and iron.
 
-## Immersive Engineering
+## Immersive Engineering/Tech/Petroleum
+
+* Put a crafting station next to your coke oven to easily make treated wood. The bucket input and output slots are visible as attached inventory slots in the crafting station.
 
 * Except power, first thing you should make is a Metal Press (more efficient rods and wires).
 
-* The main quest progresses through the Immersive Petroleum questline, you will need a lot of steel to complete it, but otherwise it is fairly straightforward.
+* The main quest progresses through the Immersive Petroleum and a part of the Immersive Tech questline, you will need a lot of steel to complete it, but otherwise it is fairly straightforward.
+
+* In Immersive Petroleum, you will be required to find (using the Core Sampler) and create an Oil Pumpjack. The oil will go through the Distillation Tower, which will turn it into Naphtha and Diesel. Additionally, the tower will spit out Bitumen as another byproduct. Both the Naphtha and the Diesel have their uses, so be sure to store them.
+
+* The Pumpjack can also be used to collect non-oil liquids from the core (beneath bedrock), such as water and lava. This is one method of collecting the liquids for crafting uses, though do note that just like the oil this is finite.
+
+* All machines in the 3 mods (Immersive Engineering, Tech, and Petroleum) use up a good amount of power. You want a just as effective power generation to power these machines, especially the constantly active ones. The strongest power generation possible at this level is Biodiesel, which produces 4096 rf/t with a upkeep requirement (due to the machines required to get the biodiesel) of 904 rf/t (wiki says Fermenter requires 8rf/t. Will double check because that seems really low).
+
+* Try to get the Crusher, Squeezer, and Arc furnace as early as possible. These three machines are the key components to ore doubling (finally!) and will be very helpful in the long run. Make sure to have the power to maintain these though, as they do use up a fair amount of power.
+
+* You have access to Garden Cloches. Use Pumpjack for the water (again, finite), and make sure to have the power to maintain them. These are very useful farms which also take up a very minimal space.
+
+* You can attach a capacitor directly to your kinetic generator, no connectors needed
+
+* The portable generator is a cheap and easy way to produce power, once you've acquired gasoline
+
+* Just make a boiler (not solar) and then only long enough to get two buckets of steam. That'll be enough to get to age 4, then you can use a heat exchanger (advanced generators) to get cheap steam. One bucket of lava makes at least 6x more steam than a bucket of diesel (and you can use the diesel for power or kerosene instead).
 
 ## Airship
 
@@ -1085,13 +1294,159 @@ Storage
 
 ## Astral Sorcery
 
-* Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression, same goes with Aevitas perk.  Mining with this method results in a break in progression, as it can provide ores from GalaticCraft planets / Asteroids, this nullifying most of intended GalaticCraft methods.
+* Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression, same goes with Aevitas perk. Mining with this method results in a break in progression, as it can provide ores from GalactiCraft planets / Asteroids, this nullifying most of intended GalactiCraft methods.
 
 * The Armara perks make you extremely hard to kill, and several of the perks work on damage that doesn't seem to be affected by armor. For example, the Dread Plague from Abyssalcraft is reduced in damage significantly by the 'No armor is more armor’ perk, making the Dreadlands much easier than otherwise. Armara also almost reduces fall damage to 0, allowing you to use the slimesling without the boots.
 
 * Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night, the setup below is a ghetto time machine if you want to advance nights for constellations
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+
+* Get an aevitas astral sorcery cloak and you'll never have to worry about hunger again (or health for that matter because of saturation)
+
+* The aevitas skill tree has a natural armor regen perk. Take it, get your strongest armor and put some middle gems from betweenlands on them for maximum power. Don't forget to put some on your weapon as well and take a amulet.
+
+* A mineralis cloak allows for easier ore finding once you get silk touch as it highlights any ores you are holding.
+
+* Liquid Hoppers and BC Tanks let you collect large amounts of Liquid Starlight quickly
+
+* If you want to minimize your time hunting for rock crystal samples, rush Starlight Infusion - that lets you create Stardust out of crushed Nether Quartz
+
+### Stellar Refraction Table Constellation Effects source
+
+(Sourced from [Mischief of Mice's video here](https://www.youtube.com/watch?v=LOtA7MZC2-M&list=PLQzDSnrhrcyyZKmHp1zdj03jRbuZN7NOh&index=6))
+
+<table>
+  <tr>
+    <td>Constellation</td>
+    <td></td>
+    <td>Potion</td>
+    <td>Weapons</td>
+    <td>Armor</td>
+    <td>Tools</td>
+    <td>Book</td>
+  </tr>
+  <tr>
+    <td>Aevitus</td>
+    <td></td>
+    <td>Regeneration</td>
+    <td>Mending</td>
+    <td>Mending</td>
+    <td>Mending</td>
+    <td>Mending</td>
+  </tr>
+  <tr>
+    <td>Discidia</td>
+    <td></td>
+    <td>Strength</td>
+    <td>Sharpness
+Power</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Sharpness
+Power</td>
+  </tr>
+  <tr>
+    <td>Armara</td>
+    <td></td>
+    <td>Resistance</td>
+    <td>Protection</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Protection</td>
+  </tr>
+  <tr>
+    <td>Vicio</td>
+    <td></td>
+    <td>Speed</td>
+    <td>N/A</td>
+    <td>Feather Falling</td>
+    <td>N/A</td>
+    <td>Feather Falling</td>
+  </tr>
+  <tr>
+    <td>Evorcio</td>
+    <td></td>
+    <td>Haste
+Attack Speed</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Efficiency</td>
+    <td>Efficiency</td>
+  </tr>
+  <tr>
+    <td>Mineralis</td>
+    <td></td>
+    <td>Haste
+Attack Speed</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Fortune</td>
+    <td>Fortune</td>
+  </tr>
+  <tr>
+    <td>Fornax</td>
+    <td></td>
+    <td>Fire Resist</td>
+    <td>Fire Aspect
+Flame</td>
+    <td>N/A</td>
+    <td>Scorching Heat</td>
+    <td>Fire Aspect
+Flame
+Scorching Heat</td>
+  </tr>
+  <tr>
+    <td>Octans</td>
+    <td></td>
+    <td>Water Breathing</td>
+    <td>N/A</td>
+    <td>Respiration</td>
+    <td>N/A</td>
+    <td>Respiration</td>
+  </tr>
+  <tr>
+    <td>Lucerna</td>
+    <td></td>
+    <td>Night Vision</td>
+    <td>N/A</td>
+    <td>Night Vision</td>
+    <td>N/A</td>
+    <td>Night Vision</td>
+  </tr>
+  <tr>
+    <td>Bootes</td>
+    <td></td>
+    <td>Saturation</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Silk Touch</td>
+    <td>Silk Touch</td>
+  </tr>
+  <tr>
+    <td>Pelotrio</td>
+    <td></td>
+    <td>Regeneration
+Absorbtion</td>
+    <td>Mending</td>
+    <td>Mending</td>
+    <td>Mending</td>
+    <td>Mending</td>
+  </tr>
+  <tr>
+    <td>Horologium</td>
+    <td></td>
+    <td>Speed
+Haste
+Atk Spd</td>
+    <td>Looting</td>
+    <td>N/A</td>
+    <td>Fortune</td>
+    <td>Fortune
+Looting</td>
+  </tr>
+</table>
+
 
 # Age 4
 
@@ -1109,14 +1464,17 @@ Storage
 
 * Spawner Agitators get around the despawning spawners limit
 
+* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Dimensional Gateway. The Dimensional Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End.
+
 * After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
- 
+
+* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definately easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above. 
 
 # Age 5 
 
 **Tools: **
 
-**Key Items: **See individual GalacticCraft section
+**Key Items: **See individual Galacticraft section
 
 Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and minimal tweaks in configs. The only real big recipe changes are the creative items.
 
@@ -1134,13 +1492,17 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 ## Space
 
+Note that galaticC
+
 ### Moon
 
 * Can trade for the Tier 2 Rocket schematics with villagers if you don't feel dungeon crawling for one
 
-* GalaticCraft ores are not staged, and therefore fake players can quarry them
+* GalactiCraft ores are not staged, and therefore fake players can quarry them
 
     * For quarrying, the two best options are RFtools Builders with a storage filter module (for blacklisting) or a Mekanism Digital Miner
+
+    * Note that the ingots are not the same as the ones you've created up till now, so you may find crafting recipes don’t work with them.
 
 * Use Meteoric Iron sparingly until you get to the Asteroid belt as it's generation requires waiting in either the moon or mars
 
@@ -1152,13 +1514,13 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 ### Mercury
 
-* One of the few GalaticCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment
+* One of the few GalactiCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment
 
 ### Jupiter
 
 * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
 
 * Saturn
 
@@ -1167,8 +1529,6 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 * Uranus, Neptune
 
     * Same as the others, quarry it, loot it's dungeon
-
-    * Quarry it, loot it's dungeon
 
 # Creative tips
 
@@ -1182,9 +1542,7 @@ You can revert to the beginning with
 
 You can complete individual quests with the following command followed by one of the below quests (prerequisite in parenthesis). Note this is a dump (minecraft/config/triumph/script/...) from 3.0.4 so may be outdated.
 
-/advancement grant playerName only triumph:(some triumph from below)
-
-Note that the parenthetical should not be pasted in, it is only for information
+/advancement grant playerName only triumph:stageX/(some triumph from below)
 
 <table>
   <tr>
@@ -1196,386 +1554,386 @@ Note that the parenthetical should not be pasted in, it is only for information
     <td>stage5</td>
   </tr>
   <tr>
-    <td>stage0/kiln (needs workstump)</td>
-    <td>stage1/claybarrel (needs root)</td>
-    <td>stage2/stevescarts (needs piston)</td>
-    <td>stage3/crudeoil (needs sampledrill)</td>
-    <td>stage4/silicon (needs prospector4)</td>
-    <td>stage5/wirelesscharger (needs charger3)</td>
+    <td>kiln</td>
+    <td>claybarrel</td>
+    <td>stevescarts</td>
+    <td>crudeoil</td>
+    <td>silicon</td>
+    <td>wirelesscharger</td>
   </tr>
   <tr>
-    <td>stage0/saltflats (needs grill)</td>
-    <td>stage1/tin (needs prospector)</td>
-    <td>stage2/market (needs gold)</td>
-    <td>stage3/iehammer (needs iebook)</td>
-    <td>stage4/ardite (needs prospector4)</td>
-    <td>stage5/creativemodifer (needs ultimateingot)</td>
+    <td>saltflats</td>
+    <td>tin</td>
+    <td>market</td>
+    <td>iehammer</td>
+    <td>ardite</td>
+    <td>creativemodifer</td>
   </tr>
   <tr>
-    <td>stage0/horsechopper (needs horsepower)</td>
-    <td>stage1/woodbasin (needs root)</td>
-    <td>stage2/depth (needs compass)</td>
-    <td>stage3/drawercontroller (needs workbench)</td>
-    <td>stage4/rsgrid (needs inscriber)</td>
-    <td>stage5/creativeenergycube (needs ultimateingot)</td>
+    <td>horsechopper</td>
+    <td>woodbasin</td>
+    <td>depth</td>
+    <td>drawercontroller</td>
+    <td>rsgrid</td>
+    <td>creativeenergycube</td>
   </tr>
   <tr>
-    <td>stage0/tipi (needs leather)</td>
-    <td>stage1/gearbox (needs waterwheel)</td>
-    <td>stage2/smeltertank (needs iron)</td>
-    <td>stage3/blazerod (needs nether)</td>
-    <td>stage4/cobalt (needs ardite)</td>
-    <td>stage5/emerald (needs prospectorstage5)</td>
+    <td>tipi</td>
+    <td>gearbox</td>
+    <td>smeltertank</td>
+    <td>blazerod</td>
+    <td>cobalt</td>
+    <td>emerald</td>
   </tr>
   <tr>
-    <td>stage0/grill (needs firepit)</td>
-    <td>stage1/prospector (needs crafting)</td>
-    <td>stage2/lapis (needs dowsingrod)</td>
-    <td>stage3/projector (needs iebook)</td>
-    <td>stage4/launchpad (needs nasaworkbench)</td>
-    <td>stage5/diamond (needs prospectorstage5)</td>
+    <td>grill</td>
+    <td>prospector</td>
+    <td>lapis</td>
+    <td>projector</td>
+    <td>launchpad</td>
+    <td>diamond</td>
   </tr>
   <tr>
-    <td>stage0/workblade (needs upgrade)</td>
-    <td>stage1/parchment (needs aquamarine)</td>
-    <td>stage2/gold (needs dowsingrod)</td>
-    <td>stage3/rails (needs root)</td>
-    <td>stage4/blockheads1 (needs root)</td>
-    <td>stage5/inferiumessence (needs saturn)</td>
+    <td>workblade</td>
+    <td>parchment</td>
+    <td>gold</td>
+    <td>rails</td>
+    <td>blockheads1</td>
+    <td>inferiumessence</td>
   </tr>
   <tr>
-    <td>stage0/flintknapp (needs mesh)</td>
-    <td>stage1/cart (needs wheel)</td>
-    <td>stage2/stopwatch (needs compass)</td>
-    <td>stage3/steel (needs creosote)</td>
-    <td>stage4/amadrontablet (needs plasticmixer)</td>
-    <td>stage5/prospectorstage5 (needs root)</td>
+    <td>flintknapp</td>
+    <td>cart</td>
+    <td>stopwatch</td>
+    <td>steel</td>
+    <td>amadrontablet</td>
+    <td>prospectorstage5</td>
   </tr>
   <tr>
-    <td>stage0/chestupgrade (needs firstchest)</td>
-    <td>stage1/stepup (needs bloodaltar)</td>
-    <td>stage2/resonatingwand (needs enderman)</td>
-    <td>stage3/oreprospector (needs root)</td>
-    <td>stage4/manyullyn (needs cobalt)</td>
-    <td>stage5/diamondjetpack (needs electrumjetpack)</td>
+    <td>chestupgrade</td>
+    <td>stepup</td>
+    <td>resonatingwand</td>
+    <td>oreprospector</td>
+    <td>manyullyn</td>
+    <td>diamondjetpack</td>
   </tr>
   <tr>
-    <td>stage0/fish (needs spear)</td>
-    <td>stage1/bloodaltar (needs alloykiln)</td>
-    <td>stage2/mapping (needs extendedcraftingbasic)</td>
-    <td>stage3/circuitboard (needs vacuumtube)</td>
-    <td>stage4/solidendereye (needs root)</td>
-    <td>stage5/t2rocket (needs root)</td>
+    <td>fish</td>
+    <td>bloodaltar</td>
+    <td>mapping</td>
+    <td>circuitboard</td>
+    <td>solidendereye</td>
+    <td>t2rocket</td>
   </tr>
   <tr>
-    <td>stage0/melterbase (needs flamehopper)</td>
-    <td>stage1/parrot (needs statue)</td>
-    <td>stage2/paper (needs root)</td>
-    <td>stage3/bauxite (needs oreprospector)</td>
-    <td>stage4/printedcircuitboard (needs compressediron)</td>
-    <td>stage5/charger3 (needs root)</td>
+    <td>melterbase</td>
+    <td>parrot</td>
+    <td>paper</td>
+    <td>bauxite</td>
+    <td>printedcircuitboard</td>
+    <td>charger3</td>
   </tr>
   <tr>
-    <td>stage0/atlas (needs workblade)</td>
-    <td>stage1/beneath (needs statue)</td>
-    <td>stage2/piston (needs twilight)</td>
-    <td>stage3/liquidplastic (needs propene)</td>
-    <td>stage4/endercrafter (needs enderalloy2)</td>
-    <td>stage5/osmium (needs prospectorstage5)</td>
+    <td>atlas</td>
+    <td>beneath</td>
+    <td>piston</td>
+    <td>liquidplastic</td>
+    <td>endercrafter</td>
+    <td>osmium</td>
   </tr>
   <tr>
-    <td>stage0/farmland (needs workblade)</td>
-    <td>stage1/astable (needs journal)</td>
-    <td>stage2/wool (needs root)</td>
-    <td>stage3/vacuumtube (needs workbench)</td>
-    <td>stage4/certusquartz (needs prospector4)</td>
-    <td>stage5/spacesuit4 (needs saturn)</td>
+    <td>farmland</td>
+    <td>astable</td>
+    <td>wool</td>
+    <td>vacuumtube</td>
+    <td>certusquartz</td>
+    <td>spacesuit4</td>
   </tr>
   <tr>
-    <td>stage0/woodhopper2 (needs woodhopper1)</td>
-    <td>stage1/dung (needs claybarrel)</td>
-    <td>stage2/starpowder (needs dowsingrod)</td>
-    <td>stage3/standardhull (needs woodhull)</td>
-    <td>stage4/moon (needs t1rocket)</td>
-    <td>stage5/neptune (needs saturn)</td>
+    <td>woodhopper2</td>
+    <td>dung</td>
+    <td>starpowder</td>
+    <td>standardhull</td>
+    <td>moon</td>
+    <td>neptune</td>
   </tr>
   <tr>
-    <td>stage0/lead (needs leather)</td>
-    <td>stage1/chest (needs crafting)</td>
-    <td>stage2/skywave (needs conpaper)</td>
-    <td>stage3/netherbrick (needs potash)</td>
-    <td>stage4/enderalloy3 (needs theend)</td>
-    <td>stage5/ultimateingot (needs ultimatecraftingtable)</td>
+    <td>lead</td>
+    <td>chest</td>
+    <td>skywave</td>
+    <td>netherbrick</td>
+    <td>enderalloy3</td>
+    <td>ultimateingot</td>
   </tr>
   <tr>
-    <td>stage0/charcoal (needs horsechopper)</td>
-    <td>stage1/alloykiln (needs copper)</td>
-    <td>stage2/extendedcraftingbasic (needs starpowder)</td>
-    <td>stage3/creosote (needs iehammer)</td>
-    <td>stage4/pressurechamberwall (needs compressediron)</td>
-    <td>stage5/creativefluidtank (needs ultimateingot)</td>
+    <td>charcoal</td>
+    <td>alloykiln</td>
+    <td>extendedcraftingbasic</td>
+    <td>creosote</td>
+    <td>pressurechamberwall</td>
+    <td>creativefluidtank</td>
   </tr>
   <tr>
-    <td>stage0/wheel (needs saddle)</td>
-    <td>stage1/crafting (needs root)</td>
-    <td>stage2/betweenlands (needs root)</td>
-    <td>stage3/filteredhopper (needs nether)</td>
-    <td>stage4/inscriber (needs certusquartz)</td>
-    <td>stage5/electrumjetpack (needs root)</td>
+    <td>wheel</td>
+    <td>crafting</td>
+    <td>betweenlands</td>
+    <td>filteredhopper</td>
+    <td>inscriber</td>
+    <td>electrumjetpack</td>
   </tr>
   <tr>
-    <td>stage0/flamehopper (needs woodhopper2)</td>
-    <td>stage1/hoe (needs root)</td>
-    <td>stage2/bucket (needs controller)</td>
-    <td>stage3/platinum (needs oreprospector)</td>
-    <td>stage4/extendedcraftingelite (needs manyullyn)</td>
-    <td>stage5/scanner (needs root)</td>
+    <td>flamehopper</td>
+    <td>hoe</td>
+    <td>bucket</td>
+    <td>platinum</td>
+    <td>extendedcraftingelite</td>
+    <td>scanner</td>
   </tr>
   <tr>
-    <td>stage0/workstump (needs collectplank)</td>
-    <td>stage1/axle (needs blackquartz)</td>
-    <td>stage2/enderman (needs conpaper)</td>
-    <td>stage3/iebook (needs root)</td>
-    <td>stage4/spacesuit (needs nasaworkbench)</td>
-    <td>stage5/cheese (needs prospectorstage5)</td>
+    <td>workstump</td>
+    <td>axle</td>
+    <td>enderman</td>
+    <td>iebook</td>
+    <td>spacesuit</td>
+    <td>cheese</td>
   </tr>
   <tr>
-    <td>stage0/abyssalgem (needs abyssalbiome)</td>
-    <td>stage1/huntingdim (needs root)</td>
-    <td>stage2/twilight (needs astable2)</td>
-    <td>stage3/conveyorbelt (needs workbench)</td>
-    <td>stage4/machinecasing (needs printedcircuitboard)</td>
-    <td>stage5/prosperityshard (needs inferiumessence)</td>
+    <td>abyssalgem</td>
+    <td>huntingdim</td>
+    <td>twilight</td>
+    <td>conveyorbelt</td>
+    <td>machinecasing</td>
+    <td>prosperityshard</td>
   </tr>
   <tr>
-    <td>stage0/weaponize (needs firsttool)</td>
-    <td>stage1/furnace (needs crafting)</td>
-    <td>stage2/tcontable2 (needs tcontable1)</td>
-    <td>stage3/woodhull (needs stevescartsassembler)</td>
-    <td>stage4/compressor (needs enderalloy3)</td>
-    <td>stage5/desh (needs mars)</td>
+    <td>weaponize</td>
+    <td>furnace</td>
+    <td>tcontable2</td>
+    <td>woodhull</td>
+    <td>compressor</td>
+    <td>desh</td>
   </tr>
   <tr>
-    <td>stage0/upgrade (needs firsttool)</td>
-    <td>stage1/turntable (needs gearbox)</td>
-    <td>stage2/weedwoodsticks (needs betweenlands)</td>
-    <td>stage3/galgadorian (needs standardhull)</td>
-    <td>stage4/laserassembly (needs amadrontablet)</td>
-    <td>stage5/mars (needs t2rocket)</td>
+    <td>upgrade</td>
+    <td>turntable</td>
+    <td>weedwoodsticks</td>
+    <td>galgadorian</td>
+    <td>laserassembly</td>
+    <td>mars</td>
   </tr>
   <tr>
-    <td>stage0/fiber (needs root)</td>
-    <td>stage1/coal (needs prospector)</td>
-    <td>stage2/weedwoodsword (needs betweenlands)</td>
-    <td>stage3/redstone (needs oreprospector)</td>
-    <td>stage4/plasticmixer (needs compressediron)</td>
-    <td>stage5/creativecompressor (needs ultimateingot)</td>
+    <td>fiber</td>
+    <td>coal</td>
+    <td>weedwoodsword</td>
+    <td>redstone</td>
+    <td>plasticmixer</td>
+    <td>creativecompressor</td>
   </tr>
   <tr>
-    <td>stage0/woodenbarrel (needs fluidbladder)</td>
-    <td>stage1/bucket (needs turntable)</td>
-    <td>stage2/rockcrystal (needs starpowder)</td>
-    <td>stage3/naphtha (needs crudeoil)</td>
-    <td>stage4/ae2panel (needs inscriber)</td>
-    <td>stage5/skystone (needs cheese)</td>
+    <td>woodenbarrel</td>
+    <td>bucket</td>
+    <td>rockcrystal</td>
+    <td>naphtha</td>
+    <td>ae2panel</td>
+    <td>skystone</td>
   </tr>
   <tr>
-    <td>stage0/totemic (needs leather)</td>
-    <td>stage1/blackquartz (needs beneath)</td>
-    <td>stage2/compass (needs controller)</td>
-    <td>stage3/workbench (needs iebook)</td>
-    <td>stage4/compressediron (needs root)</td>
-    <td>stage5/emeraldjetpack (needs diamondjetpack)</td>
+    <td>totemic</td>
+    <td>blackquartz</td>
+    <td>compass</td>
+    <td>workbench</td>
+    <td>compressediron</td>
+    <td>emeraldjetpack</td>
   </tr>
   <tr>
-    <td>stage0/horsepower (needs lead)</td>
-    <td>stage1/tchannel (needs root)</td>
-    <td>stage2/drawertable (needs root)</td>
-    <td>stage3/amethyst (needs nether)</td>
-    <td>stage4/t1rocket (needs nasaworkbench)</td>
-    <td>stage5/creativejetpack (needs ultimateingot)</td>
+    <td>horsepower</td>
+    <td>tchannel</td>
+    <td>drawertable</td>
+    <td>amethyst</td>
+    <td>t1rocket</td>
+    <td>creativejetpack</td>
   </tr>
   <tr>
-    <td>stage0/lowgradecharcoal (needs kiln)</td>
-    <td>stage1/statue (needs necro)</td>
-    <td>stage2/biomealyzer (needs compass)</td>
-    <td>stage3/oreexcavation (needs oreprospector)</td>
-    <td>stage4/prospector4 (needs root)</td>
-    <td>stage5/ultimatecraftingtable (needs root)</td>
+    <td>lowgradecharcoal</td>
+    <td>statue</td>
+    <td>biomealyzer</td>
+    <td>oreexcavation</td>
+    <td>prospector4</td>
+    <td>ultimatecraftingtable</td>
   </tr>
   <tr>
-    <td>stage0/handgrind (needs workstump)</td>
-    <td>stage1/pedestal (needs statue)</td>
-    <td>stage2/wateringcan (needs smeltertank)</td>
-    <td>stage3/steam (needs naphtha)</td>
-    <td>stage4/fuelloader (needs compressor)</td>
-    <td>stage5/marsrover (needs t2rocket)</td>
+    <td>handgrind</td>
+    <td>pedestal</td>
+    <td>wateringcan</td>
+    <td>steam</td>
+    <td>fuelloader</td>
+    <td>marsrover</td>
   </tr>
   <tr>
-    <td>stage0/collectplank (needs firstbreak)</td>
-    <td>stage1/plumbline (needs crafting)</td>
-    <td>stage2/dowsingrod (needs glass)</td>
-    <td>stage3/bellows (needs hibachi)</td>
-    <td>stage4/enderalloy1 (needs theend)</td>
-    <td>stage5/saturn (needs mars)</td>
+    <td>collectplank</td>
+    <td>plumbline</td>
+    <td>dowsingrod</td>
+    <td>bellows</td>
+    <td>enderalloy1</td>
+    <td>saturn</td>
   </tr>
   <tr>
-    <td>stage0/tomahawk (needs weaponize)</td>
-    <td>stage1/stoneanvil (needs root)</td>
-    <td>stage2/iron (needs dowsingrod)</td>
-    <td>stage3/propene (needs steam)</td>
-    <td>stage4/blockheads3 (needs blockheads2)</td>
+    <td>tomahawk</td>
+    <td>stoneanvil</td>
+    <td>iron</td>
+    <td>propene</td>
+    <td>blockheads3</td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/melter (needs melterbase)</td>
-    <td>stage1/aqueduct (needs root)</td>
-    <td>stage2/conpaper (needs root)</td>
-    <td>stage3/sampledrill (needs circuitboard)</td>
-    <td>stage4/enderalloy2 (needs theend)</td>
+    <td>melter</td>
+    <td>aqueduct</td>
+    <td>conpaper</td>
+    <td>sampledrill</td>
+    <td>enderalloy2</td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/abyssalbiome (needs workstump)</td>
-    <td>stage1/necro (needs bronze)</td>
-    <td>stage2/lightwell (needs conpaper)</td>
-    <td>stage3/windmill (needs creosote)</td>
-    <td>stage4/blockheads2 (needs blockheads1)</td>
+    <td>abyssalbiome</td>
+    <td>necro</td>
+    <td>lightwell</td>
+    <td>windmill</td>
+    <td>blockheads2</td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/mill (needs gear)</td>
-    <td>stage1/leafbed (needs crafting)</td>
-    <td>stage2/glass (needs root)</td>
-    <td>stage3/modularmachinery (needs circuitboard)</td>
-    <td>stage4/theend (needs root)</td>
+    <td>mill</td>
+    <td>leafbed</td>
+    <td>glass</td>
+    <td>modularmachinery</td>
+    <td>theend</td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/buffalo (needs totemic)</td>
-    <td>stage1/extension (needs claybarrel)</td>
-    <td>stage2/tcontable1 (needs root)</td>
-    <td>stage3/hibachi (needs filteredhopper)</td>
-    <td>stage4/nasaworkbench (needs endercrafter)</td>
+    <td>buffalo</td>
+    <td>extension</td>
+    <td>tcontable1</td>
+    <td>hibachi</td>
+    <td>nasaworkbench</td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/firsttool (needs root)</td>
-    <td>stage1/aquamarine (needs beneath)</td>
-    <td>stage2/controller (needs betweenlands)</td>
-    <td>stage3/silverlead (needs oreprospector)</td>
-    <td>stage4/presses (needs theend)</td>
+    <td>firsttool</td>
+    <td>aquamarine</td>
+    <td>controller</td>
+    <td>silverlead</td>
+    <td>presses</td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/saddle (needs lead)</td>
-    <td>stage1/journal (needs parchment)</td>
-    <td>stage2/tcontable3 (needs tcontable2)</td>
-    <td>stage3/distillation2 (needs naphtha)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stage0/firepit (needs fire)</td>
-    <td>stage1/bronze (needs alloykiln)</td>
-    <td>stage2/astable2 (needs lightwell)</td>
-    <td>stage3/extendedcrafting1 (needs nether)</td>
+    <td>saddle</td>
+    <td>journal</td>
+    <td>tcontable3</td>
+    <td>distillation2</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/spear (needs weaponize)</td>
-    <td>stage1/waterwheel (needs axle)</td>
-    <td>stage2/weird (needs enderman)</td>
-    <td>stage3/netherexbiome (needs nether)</td>
+    <td>firepit</td>
+    <td>bronze</td>
+    <td>astable2</td>
+    <td>extendedcrafting1</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/firstbreak (needs firsttool)</td>
-    <td>stage1/copper (needs prospector)</td>
-    <td></td>
-    <td>stage3/viescraft (needs extendedcrafting1)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stage0/baykok (needs buffalo)</td>
-    <td></td>
-    <td></td>
-    <td>stage3/waterwheel (needs creosote)</td>
+    <td>spear</td>
+    <td>waterwheel</td>
+    <td>weird</td>
+    <td>netherexbiome</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/firstchest (needs workstump)</td>
+    <td>firstbreak</td>
+    <td>copper</td>
     <td></td>
-    <td></td>
-    <td>stage3/stevescartsassembler (needs root)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stage0/mesh (needs fiber)</td>
-    <td></td>
-    <td></td>
-    <td>stage3/potash (needs bellows)</td>
+    <td>viescraft</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/fluidbladder (needs workstump)</td>
+    <td>baykok</td>
     <td></td>
     <td></td>
-    <td>stage3/plastic (needs liquidplastic)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stage0/mat (needs leather)</td>
-    <td></td>
-    <td></td>
-    <td>stage3/bonehoe (needs netherwart)</td>
+    <td>waterwheel</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/leather (needs fluidbladder)</td>
+    <td>firstchest</td>
     <td></td>
     <td></td>
-    <td>stage3/compactmachines (needs diamond)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stage0/woodhopper1 (needs firstchest)</td>
-    <td></td>
-    <td></td>
-    <td>stage3/netherwart (needs netherexbiome)</td>
+    <td>stevescartsassembler</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/fire (needs firsttool)</td>
+    <td>mesh</td>
     <td></td>
     <td></td>
-    <td>stage3/nether (needs root)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stage0/gear (needs wheel)</td>
-    <td></td>
-    <td></td>
-    <td>stage3/buildcraft (needs circuitboard)</td>
+    <td>potash</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>stage0/stonetools (needs upgrade)</td>
+    <td>fluidbladder</td>
     <td></td>
     <td></td>
-    <td>stage3/nickel (needs oreprospector)</td>
+    <td>plastic</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>mat</td>
+    <td></td>
+    <td></td>
+    <td>bonehoe</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>leather</td>
+    <td></td>
+    <td></td>
+    <td>compactmachines</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>woodhopper1</td>
+    <td></td>
+    <td></td>
+    <td>netherwart</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>fire</td>
+    <td></td>
+    <td></td>
+    <td>nether</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>gear</td>
+    <td></td>
+    <td></td>
+    <td>buildcraft</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stonetools</td>
+    <td></td>
+    <td></td>
+    <td>nickel</td>
     <td></td>
     <td></td>
   </tr>
@@ -1583,7 +1941,15 @@ Note that the parenthetical should not be pasted in, it is only for information
     <td></td>
     <td></td>
     <td></td>
-    <td>stage3/soundmuffler (needs redstone)</td>
+    <td>soundmuffler</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
