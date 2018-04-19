@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
 
@@ -410,7 +418,7 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * With an empty hand, you can shift+right click animals to pick them up and carry them. (villagers, horses or adult buffalo cannot be picked up, shift-right click for ½ of a second)
 
-* Place a raft on the ground and lure or place two animals near it and they'll mount the raft. This prevents them from moving around while allowing you to still breed them.
+* Place a raft on the ground and lure or place two animals near it and they'll mount the raft. This prevents them from moving around while allowing you to still breed them. (Warning: This may or may not cause some lag)
 
 * Fencing animals in a pen
 
@@ -446,7 +454,7 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * The grill can take up to 16 items for queuing. For automated extraction wait for Age 1 when you get a Dung Pipe to pull items out the side rather than a fire hopper needing to take the job of heating and pulling.
 
-* Upgrade to the craft stump mk. 2, which takes fewer whacks, and can hold stacks in each slot for quick crafting.
+* Upgrade to the craft stump mk. 2, which takes fewer whacks, and can hold stacks in each slot for quick crafting. Prematurely empty it by breaking it, shift right click doesn't seem to work.
 
 * When you want to get into beast of burden power be sure to have a 9x9 wall around the 7x7 area each horse/buffalo/llama needs. Use either stone fence, berry bushes or 2 block high wall. Otherwise after the beast is done working he wanders away and breaks the lead.
 
@@ -481,6 +489,8 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 * Tasty Sandwich: Cooked Meat of any kind + Bread gives **3% Grain, Protein**
 
 * Rice **(very spammable): 1% Grain**, negligible hunger, 0 saturation
+
+* Cooked Shark Meat: although it fills only **Protein (3.5%)**, it has no saturation cap and can be eaten at any time, even if you food bar is full. Good if you need constant HP regen in battles.
 
 ## Combat
 
@@ -524,7 +534,9 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 * The Cart functions as a double chest when you sneak-right click on it, making by far it the best Age 0 storage option (if bulky).
 
-    * Attach to a horse with astikoor hotkey, R by default
+    * Attach to a horse with astikoor hotkey, R by default.
+
+    * Note that Cart is **not protected** by claim protection in multiplayer.
 
 * You can deposit items in your inventory that are already in chests nearby by holding shift and clicking the drop-off button in your inventory. See Dropoff Button here: https://quark.vazkii.us/ This is great after an expedition to clear out things in your inventory you've already found a place for in your chests.
 
@@ -622,7 +634,7 @@ Additionally, you can use the moss to **find out what biome you are currently in
 
 * Bronze leggings give armor 5 over leather's 2. But bronze chestplate has diminishing returns, only improving leather’s 3 to a mere 4.
 
-* You do not need to go ahead and mine every ore sample you find. If your inventory is full, or you have another plan in your head, then mark the sample using your Atlas for future collection.
+    * You do not need to go ahead and mine every ore sample you find. If your inventory is full, or you have another plan in your head, then mark the sample using your Atlas for future collection.
 
 ## Automation
 
@@ -790,6 +802,8 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Save your iron, you will need a lot of it and it's not as common as in regular modded mc.
 
+* You can make glass panes quickly by first dying glass, then crafting 6 of them like normal.
+
 ### Things to look out for
 
 * If you see an Enderman you should absolutely try to kill him. In a future release see if you can you should make a Luck 3 totem pole as well. Ender pearls are important.  Endermen will only drop ender dusts.  You can smelt these in the melter and cast them to ender pearls using the pan cast.
@@ -860,7 +874,9 @@ There are at least 2 items that require either the claw paxel or a bronze pickax
 
 These tools allow you to swap out parts, gain modifier slots the more you use them, and have a very large selection of materials to use. There are lots of abilities tied to each modifier, allowing a great deal of customization to fit your needs.
 
-A bronze pickaxe (Bronze head, bone handle, iron binding) has diamond mining level, 578 durability, and Dense, and Magnetic. 2 bronze ingots makes a repair kit, repairing X durability.
+Bronze Pickaxe: Bronze Head, Wooden Handle, Slime Binding. Mining Level Diamond, Ecological (slow self-repair), Dense (chance of using less durability), Durability 805
+
+* Swap out for Iron binding to get magnetic(suck drops to you) and less durability.
 
 Dense uses less durability the more damaged it is. Later can be combined with reinforced modifier and it will reach a point that it is infinite. In age 3 you can get the Excavation modifier to quickly level it up.
 
@@ -879,6 +895,8 @@ Valonite are as good as steel: Diamond mining, Mining speed 8, 2500 durability, 
 Ironwood Pick: Diamond level, Mining speed 6.5, 512 durability
 
 Mazebreaker: Diamond level, Mining Speed 8, 1561 durability, Efficiency 4, Unbreaking 3, Fortune 2
+
+Steeleaf Pick gets Fortune II, if crafted from Steeleaf (instead of finding it in chests). Nice to have before Tinker's Construct modifiers are unlocked. 131 durability.
 
 ## Interdimensional Cage
 
@@ -990,8 +1008,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1079,6 +1096,8 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * When teleporting between worlds with a magic map, it might stop updating in the Twilight Forest.  Save, quit & reload while in TF solves this.  Storing the maps in a chest inside the Twilight Forest doesn't bypass this issue.
 
+* Same applies to progression breaking bug: for example, if you've killed Twilight Lich, but still you’re getting Hunger in Swamp biome, just Save, quit and reload inside Swamp.
+
 * Vanilla ore veins spawn in the Twilight Forest, and due to the dimension's lower surface height can be a lot easier to reach, or in some cases even be found right at the surface.
 
 * If you notice a lot of FPS lag while in Twilight Forest, try reducing your view distance.  This kind of stuttering is usually related to minecraft trying to render too many textures.
@@ -1097,13 +1116,37 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * Dark Towers have plenty of useful items to loot, including Brewing Stands, Anvils, and Pistons, as well as the Carminite Reactor you will need at the end of this age, in addition to this there will be plenty of spawners that will spawn carminite ghasts which you can kill for ghast tears, and there are a lot of chests to loot for other goodies like Redstone Lamps, glowstone dust, and Experiment 115
 
-* The Carminite reactor required a bronze pickaxe to pickup. TODO: see if a claw paxel can pick it up too.
+* The Carminite reactor required a bronze pickaxe to pickup. Claw paxel works as well.
 
-* Dark Towers also can contain Blaze spawners, though Blazes don't actually seem to spawn in age 2.
+* Dark Towers also can contain Blaze spawners, though Blazes don't actually seem to spawn in age 2. However moving blaze spawner to overworld makes it spawn blazes even in age 2.
 
 * Take some bones to the doggos in TF to tame them, and carry them back to your base. They'll run faster than the horses for your machines.
 
 * Cave Illuminators (from Astral Sorcery) allow you to clear Mazes, Hollow Hills, Labyrinths, and Goblin Knight Strongholds much more easily.
+
+## Teleportation
+
+There's some methods of teleportation available.
+
+### Astral Sorcery Method
+
+Astral sorcery's celestial gateway can be used to teleport to a different altar.
+
+* Pros: Very easy to use, works across different dimensions and over long range as well
+
+* Cons: requires 2 starmetal ingots and 8 stardust to create 2 of them and both require a marble structure.
+
+### Betweenlands Method
+
+Furthermore you can link betweenlands portals with the swamp talisman
+
+* Pros: Can be used as soon as the swamp talisman is obtained, new portals are very cheap to make
+
+* Cons: Can only teleport up to 1500 blocks away and exactly one portal MUST be in the betweenlands so you need to use 2 portals to reach a different place in the overworld.
+
+* Also it takes a while for the teleporter to function and the world to load.
+
+* Additional Portals can be made with wood harvested from a portal tree then ignited with a talisman. A full portal tree is not needed.
 
 ## Astral sorcery
 
@@ -1151,165 +1194,13 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * Fluid Hoppers into a Tinker's Tank makes for a great way to store all that precious Liquid Starlight. Later a containment chalice can be used. Putting one near a infusion structure drastically reduces starlight usage.
 
-# Age 3
-
-**Ores:** Galena (Silver and Lead), Limonite (Iron and Nickel), Platinum, Cinnabar (Redstone), Bauxite (Aluminum), Nether Quartz, Nether Amethyst.
-
-**Tools:**** **
-
-**Key Items:**
-
-### Obsidian
-
-* Obsidian is now available. It used to be cracked basalt but now appears in the world.
-
-    * Though obsidian is available earlier by using an Astral Sorcery pick.
-
-* Some pickaxes like the Black Quartz AIOT can mine obsidian but will not drop it. A different pickaxe is needed to obtain it.
-
-    * Tinkers hammers won't easily work right now until you obtain steel which requires a blast furnace.
-
-    * The swift pick from the betweenlands is highly recommended due to its insanely high mining speed. It breaks obsidian in a rate of about 1 a second.
-
-* Obsidian can also be made in the cauldron completely avoiding having to mine it but is slow and requires a lot of fluid management. (A lot? Specifics?)
-
-* Obsidian can be made with astral sorcery and magma blocks but require collector crystals which require a further upgraded altar and another structure for the infuser. Also this places the obsidian in the world so it still needs to be mined.
-
-### Nether
-
-* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
-
-* When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a vase under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
-
-* Nether Amethyst Ore only spawns in the vanilla Hell biome (get a Biomeanalyzer). It's rare, so Fortune III is recommended
-
-* When farming a blaze spawner don't forget to make yourself some totems (fire protection). **Note luck doesn’t work on blazes**
-
-* Blood Magic's Sigil of the Phantom Bridge lets you get around easily, avoiding Thornstalks and Soul Sand
-
-* Spawners can normally be picked up with the Carry On mod (shift+right click with an empty hand **But** this doesn't work in this pack.
-
-Food
-
-* Fish n' chips. This food restores 9+ full hunger bars and saturation. It requires the knife which costs 2 iron, 1 leather, 1 flint and 1 stick (very cheap). Every fish n’ chips also requires one cooked potato cut up into fries, 1 cooked fish and 1 paper cone made of 3 paper. You get the cone back after eating it. Note, this recipe uses only age 2 and lower materials but is only obtainable in age 3
-
-* Cooked ghast meat. This food restores 4 full hunger bars and 5+ saturation Raw ghast meat can be obtained in large quantities in a ur ghast tower in the twilight forest. Note that ghast spawners despawn after 400 spawns. Raw ghast meat can be obtained in age 2 but only cooked in age 3
-
-    * **Important**, eating ghast meat gives levitation 2 for 10 seconds, this could be beneficial or not depending on the situation
-
-* Astral sorcery aevitas cloak. This cloak is available in stage 2 but requires the highest tier altar and by that time most players would have reached at age 3, this cloak rapidly regenerates your hunger and saturation while equipped to the point where the player never has to eat again, gaining lots of health regen in the meantime due to the saturation. Just beware for reaching low nutrient levels.
-
-Storage
-
-* Obsidian chests are the best one block storage options for its price, each having enough space equal to 3 large chests (108 slots)
-
-* You gain access to tanks, specifically from Immersive Engineering. While this multiblock is non-portable, it is very useful for storing large amounts of fluids. This is good for creosote, lava (though this might be difficult to collect), and water. These liquids have been, and will continue to be very useful (well you just gained access to creosote but it applies to it as well) so it is recommended to store up on them.
-
-## Teleportation
-
-There's some methods of teleportation available.
-
-### Astral Sorcery Method
-
-Astral sorcery's celestial gateway can be used to teleport to a different altar.
-
-* Pros: Very easy to use, works across different dimensions and over long range as well
-
-* Cons: requires 2 starmetal ingots and 8 stardust to create 2 of them and both require a marble structure.
-
-### Betweenlands Method
-
-Furthermore you can link betweenlands portals with the swamp talisman
-
-* Pros: Can be used as soon as the swamp talisman is obtained, new portals are very cheap to make
-
-* Cons: Can only teleport up to 1500 blocks away and exactly one portal MUST be in the betweenlands so you need to use 2 portals to reach a different place in the overworld.
-
-* Also it takes a while for the teleporter to function and the world to load.
-
-* Additional Portals can be made with wood harvested from a portal tree then ignited with a talisman. A full portal tree is not needed.
-
-## Tinker's Construct Tools:
-
-* Shuriken: The upper left-hand corner determines what material repairs it.
-
-    * 3 hearts average observed, **107 ammo**: 1 Bone in upper left, 3 slime. Repairs with bonemeal, marginally less damage than bone and cactus shuriken, but way more ammo
-
-* Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
-
-* The silky touch modifier uses betweenlands gems rather than emeralds. This is useful for getting the ore itself, needed for a few recipes later and ore doubling
-
-* You gain access to the Ore Excavation modifier in this age (alongside the ability to add modifiers in general). Check options for the keybindings available. Ctrl+OreEx keybind opens up a GUI that allows you to edit shapes if you want.
-
-* OreEx will continue mining blocks with your tool even if it breaks, it only stops when one of the following happens:
-
-    * Your hunger hits zero
-
-    * You let go of the excavation key
-
-* If you hold food in your offhand and have a gluttony charm equipped you can eat while ore excavating, allowing you to mine the max 4000 blocks all at once.
-
-* You can swap parts on your tinker tools without any penalty. This lets you do something like create a pickaxe with a stone head, add the ore excavation modifier to it, and then mine through huge amounts of stone, repairing the tool as you go (make sure to have a Tool Station on hand and a LOT of food) in order to level it up very quickly. A good way to do this is to add, in order, the ore excavation modifier, 5 reinforcement modifiers (ASAP as soon as you get the levels, to make the tool's durability last longer than your hunger) to make it unbreakable, and then Luck III. Due to Ore Excavation, redstone (Haste) isn’t as important, so it can wait. Also, since you can replace parts without penalty, you can keep this pickaxe/axe/shovel/whatever for the rest of the game, replacing any part on it whenever something better shows up without having to worry about ever repairing it.
-
-* Absolutely make yourself a Luck III pick (even 1 lapis + time or forking up the 360 lapis to quickly get to Luck III), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst, aquamarine, ...) (Just by adding only 1 Lapis will help, it slowly increases when used.)
-
-    * Most geolosys ores are not affected by Luck, the ones affected by Fortune/Luck will be noted above in the Ore Distribution chart
-
-    * Mobs with modified drop tables such as Blazes and Endermen are not affected by Luck/Looting
-
-* Magma block/Netherrack over a Lightwell generates Lava for your furnace.
-
-* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have 10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
-
-* You can clear out huge swaths of cobblestone using the Excavation + Blasting modifier + Gluttony charm + lots of food. Blasting 3 destroys all the cobble you mine. After blasting the stone you are left with easy to find veins. If you use Copper you get tons f XP as you're doing it. 100+ levels in 10 minutes.
-
-## Stoked Fire
-
-* Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things, mainly the blast furnace (probably the most important thing to get as of now).![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
-
-* When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
-
-* In a kiln you can make Melon Pie(2 watermelon+egg+sugar): **4% Fruit**
-
-* When you put a Better with mods Crucible above the stoked fire you can melt down armor (gold and iron) to ingots and nuggets. Combo this with the hunting dimension and a mob grinder there to get infinite gold and iron.
-
-## Immersive Engineering/Tech/Petroleum
-
-* Put a crafting station next to your coke oven to easily make treated wood. The bucket input and output slots are visible as attached inventory slots in the crafting station.
-
-* Except power, first thing you should make is a Metal Press (more efficient rods and wires).
-
-* The main quest progresses through the Immersive Petroleum and a part of the Immersive Tech questline, you will need a lot of steel to complete it, but otherwise it is fairly straightforward.
-
-* In Immersive Petroleum, you will be required to find (using the Core Sampler) and create an Oil Pumpjack. The oil will go through the Distillation Tower, which will turn it into Naphtha and Diesel. Additionally, the tower will spit out Bitumen as another byproduct. Both the Naphtha and the Diesel have their uses, so be sure to store them.
-
-* The Pumpjack can also be used to collect non-oil liquids from the core (beneath bedrock), such as water and lava. This is one method of collecting the liquids for crafting uses, though do note that just like the oil this is finite.
-
-* All machines in the 3 mods (Immersive Engineering, Tech, and Petroleum) use up a good amount of power. You want a just as effective power generation to power these machines, especially the constantly active ones. The strongest power generation possible at this level is Biodiesel, which produces 4096 rf/t with a upkeep requirement (due to the machines required to get the biodiesel) of 904 rf/t (wiki says Fermenter requires 8rf/t. Will double check because that seems really low).
-
-* Try to get the Crusher, Squeezer, and Arc furnace as early as possible. These three machines are the key components to ore doubling (finally!) and will be very helpful in the long run. Make sure to have the power to maintain these though, as they do use up a fair amount of power.
-
-* You have access to Garden Cloches. Use Pumpjack for the water (again, finite), and make sure to have the power to maintain them. These are very useful farms which also take up a very minimal space.
-
-* You can attach a capacitor directly to your kinetic generator, no connectors needed
-
-* The portable generator is a cheap and easy way to produce power, once you've acquired gasoline
-
-* Just make a boiler (not solar) and then only long enough to get two buckets of steam. That'll be enough to get to age 4, then you can use a heat exchanger (advanced generators) to get cheap steam. One bucket of lava makes at least 6x more steam than a bucket of diesel (and you can use the diesel for power or kerosene instead).
-
-## Airship
-
-* Even though the airship looks cool, it's not on the main questline and it’s very expensive to make. It requires you to upgrade the extended crafting table, and then make the airship using a lot of resources. Prioritize other progression before making it.
-
-## Astral Sorcery
-
 * Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression, same goes with Aevitas perk. Mining with this method results in a break in progression, as it can provide ores from GalactiCraft planets / Asteroids, this nullifying most of intended GalactiCraft methods.
 
 * The Armara perks make you extremely hard to kill, and several of the perks work on damage that doesn't seem to be affected by armor. For example, the Dread Plague from Abyssalcraft is reduced in damage significantly by the 'No armor is more armor’ perk, making the Dreadlands much easier than otherwise. Armara also almost reduces fall damage to 0, allowing you to use the slimesling without the boots.
 
 * Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night, the setup below is a ghetto time machine if you want to advance nights for constellations
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 * Get an aevitas astral sorcery cloak and you'll never have to worry about hunger again (or health for that matter because of saturation)
 
@@ -1319,7 +1210,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid Hoppers and BC Tanks let you collect large amounts of Liquid Starlight quickly
 
-* If you want to minimize your time hunting for rock crystal samples, rush Starlight Infusion - that lets you create Stardust out of crushed Nether Quartz
+* Vicio attuned Mantle of Stars and Resonating Wand allow infinite flight (elytra style flight).
 
 ### Stellar Refraction Table Constellation Effects source
 
@@ -1436,7 +1327,7 @@ Scorching Heat</td>
     <td>Pelotrio</td>
     <td></td>
     <td>Regeneration
-Absorbtion</td>
+Absorption</td>
     <td>Mending</td>
     <td>Mending</td>
     <td>Mending</td>
@@ -1457,6 +1348,156 @@ Looting</td>
 </table>
 
 
+# Age 3
+
+**Ores:** Galena (Silver and Lead), Limonite (Iron and Nickel), Platinum, Cinnabar (Redstone), Bauxite (Aluminum), Nether Quartz, Nether Amethyst.
+
+**Tools:**** **
+
+**Key Items:**
+
+## Uncategorized Tips
+
+* If you want to minimize your time hunting for rock crystal samples, rush Starlight Infusion - that lets you create Stardust out of crushed Nether Quartz
+
+## What you can do now:
+
+* Vanilla Enchanting (including Ore Excavation/Veinminer)
+
+* Buildcraft Pipes
+
+* Storage Drawers Controller and Compacting Drawer
+
+* Tinker's Construct modifiers
+
+* Vanilla redstone (repeaters, observers, comparators)
+
+* Automated farming via Garden Cloches
+
+* Automated Animal farming via Mob Filters combined with the [Feeding Trough]
+
+* Vacuum/Ender Hopper
+
+## Obsidian
+
+* Obsidian is now available. It used to be cracked basalt but now appears in the world.
+
+    * Though obsidian is available earlier by using an Astral Sorcery pick.
+
+* Some pickaxes like the Black Quartz AIOT can mine obsidian but will not drop it. A different pickaxe is needed to obtain it.
+
+    * Tinkers hammers won't easily work right now until you obtain steel which requires a blast furnace.
+
+    * The swift pick from the betweenlands is highly recommended due to its insanely high mining speed. It breaks obsidian in a rate of about 1 a second.
+
+* Obsidian can be made with astral sorcery and magma blocks but require collector crystals which require a further upgraded altar and another structure for the infuser. Also this places the obsidian in the world so it still needs to be mined.
+
+## Nether
+
+* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
+
+* When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a vase under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
+
+* Nether Amethyst Ore only spawns in the vanilla Hell biome (get a Biomeanalyzer). It's rare, so Fortune III is recommended
+
+* When farming a blaze spawner don't forget to make yourself some totems (fire protection). **Note luck doesn’t work on blazes**
+
+* Blood Magic's Sigil of the Phantom Bridge lets you get around easily, avoiding Thornstalks and Soul Sand
+
+* Spawners can normally be picked up with the Carry On mod (shift+right click with an empty hand)
+
+## Food
+
+* Fish n' chips. This food restores 9+ full hunger bars and saturation. It requires the knife which costs 2 iron, 1 leather, 1 flint and 1 stick (very cheap). Every fish n’ chips also requires one cooked potato cut up into fries, 1 cooked fish and 1 paper cone made of 3 paper. You get the cone back after eating it. Note, this recipe uses only age 2 and lower materials but is only obtainable in age 3
+
+* French Fries (5% grain) made with potatoes.
+
+* Cooked ghast meat. This food restores 4 full hunger bars and 5+ saturation Raw ghast meat can be obtained in large quantities in a ur ghast tower in the twilight forest. Note that ghast spawners despawn after 400 spawns. Raw ghast meat can be obtained in age 2 but only cooked in age 3
+
+    * **Important**, eating ghast meat gives levitation 2 for 10 seconds, this could be beneficial or not depending on the situation
+
+* Astral sorcery aevitas cloak. This cloak is available in stage 2 but requires the highest tier altar and by that time most players would have reached at age 3, this cloak rapidly regenerates your hunger and saturation while equipped to the point where the player never has to eat again, gaining lots of health regen in the meantime due to the saturation. Just beware for reaching low nutrient levels.
+
+## Storage
+
+* Obsidian chests are the best one block storage options for its price, each having enough space equal to 3 large chests (108 slots)
+
+* You gain access to tanks, specifically from Immersive Engineering. While this multiblock is non-portable, it is very useful for storing large amounts of fluids. This is good for creosote, lava (though this might be difficult to collect), and water. These liquids have been, and will continue to be very useful (well you just gained access to creosote but it applies to it as well) so it is recommended to store up on them.
+
+## Tinker's Construct Tools:
+
+* Shuriken: The upper left-hand corner determines what material repairs it.
+
+    * If you have access to obsidian and therefore Reinforcement modifiers, you can make a shuriken that's unbreakable (**infinite ammo**) right out of the gate by using one paper part. One paper, one bone, one cactus, and one iron part gives 7 hearts of damage, increasing with number of hits. This can probably be increased further by replacing the iron with prismarine or firewood if you have access to those. The paper part can be replaced after leveling up twice.
+
+* Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
+
+* The silky touch modifier uses betweenlands gems rather than emeralds. This is useful for getting the ore itself, needed for a few recipes later and ore doubling
+
+* You gain access to the Ore Excavation modifier in this age (alongside the ability to add modifiers in general). Check options for the keybindings available. Ctrl+OreEx keybind opens up a GUI that allows you to edit shapes if you want.
+
+* OreEx will continue mining blocks with your tool even if it breaks, it only stops when one of the following happens:
+
+    * Your hunger hits zero
+
+    * You let go of the excavation key
+
+* If you hold food in your offhand and have a gluttony charm equipped you can eat while ore excavating, allowing you to mine the max 4000 blocks all at once.
+
+* You can swap parts on your tinker tools without any penalty. This lets you do something like create a pickaxe with a stone head, add the ore excavation modifier to it, and then mine through huge amounts of stone, repairing the tool as you go (make sure to have a Tool Station on hand and a LOT of food) in order to level it up very quickly. A good way to do this is to add, in order, the ore excavation modifier, 5 reinforcement modifiers (ASAP as soon as you get the levels, to make the tool's durability last longer than your hunger) to make it unbreakable, and then Luck III. Due to Ore Excavation, redstone (Haste) isn’t as important, so it can wait. Also, since you can replace parts without penalty, you can keep this pickaxe/axe/shovel/whatever for the rest of the game, replacing any part on it whenever something better shows up without having to worry about ever repairing it.
+
+* Absolutely make yourself a Luck III pick (even 1 lapis + time or forking up the 360 lapis to quickly get to Luck III), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst, aquamarine, ...) (Just by adding only 1 Lapis will help, it slowly increases when used.)
+
+    * Most geolosys ores are not affected by Luck, the ones affected by Fortune/Luck will be noted above in the Ore Distribution chart
+
+    * Mobs with modified drop tables such as Blazes and Endermen are not affected by Luck/Looting
+
+* Magma block/Netherrack over a Lightwell generates Lava for your furnace.
+
+* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have 10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
+
+* You can clear out huge swaths of cobblestone using the Excavation + Blasting modifier + Gluttony charm + lots of food. Blasting 3 destroys all the cobble you mine. After blasting the stone you are left with easy to find veins. If you use Copper you get tons of XP as you're doing it. 100+ levels in 10 minutes.
+
+## Stoked Fire
+
+* Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things, mainly the blast furnace (probably the most important thing to get as of now).
+
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
+
+* When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
+
+* In a kiln you can make Melon Pie(2 watermelon+egg+sugar): **4% Fruit**
+
+* When you put a Better with mods Crucible above the stoked fire you can melt down armor (gold and iron) to ingots and nuggets. Combo this with the hunting dimension and a mob grinder there to get infinite gold and iron.
+
+## Immersive Engineering/Tech/Petroleum
+
+* Put a crafting station next to your coke oven to easily make treated wood. The bucket input and output slots are visible as attached inventory slots in the crafting station.
+
+* Except power, first thing you should make is a Metal Press (more efficient rods and wires).
+
+* The main quest progresses through the Immersive Petroleum and a part of the Immersive Tech questline, you will need a lot of steel to complete it, but otherwise it is fairly straightforward.
+
+* In Immersive Petroleum, you will be required to find (using the Core Sampler) and create an Oil Pumpjack. The oil will go through the Distillation Tower, which will turn it into Naphtha and Diesel. Additionally, the tower will spit out Bitumen as another byproduct. Both the Naphtha and the Diesel have their uses, so be sure to store them.
+
+* The Pumpjack can also be used to collect non-oil liquids from the core (beneath bedrock), such as water and lava. This is one method of collecting the liquids for crafting uses, though do note that just like the oil this is finite.
+
+* All machines in the 3 mods (Immersive Engineering, Tech, and Petroleum) use up a good amount of power. You want a just as effective power generation to power these machines, especially the constantly active ones. The strongest power generation possible at this level is Biodiesel, which produces 4096 rf/t with a upkeep requirement (due to the machines required to get the biodiesel) of 904 rf/t (wiki says Fermenter requires 8rf/t. Will double check because that seems really low).
+
+* Try to get the Crusher, Squeezer, and Arc furnace as early as possible. These three machines are the key components to ore doubling (finally!) and will be very helpful in the long run. Make sure to have the power to maintain these though, as they do use up a fair amount of power.
+
+* You have access to Garden Cloches. Use Pumpjack for the water (again, finite), and make sure to have the power to maintain them. These are very useful farms which also take up a very minimal space.
+
+* You can attach a capacitor directly to your kinetic generator, no connectors needed
+
+* The portable generator is a cheap and easy way to produce power, once you've acquired gasoline
+
+* Just make a boiler (not solar) and then only long enough to get two buckets of steam. That'll be enough to get to age 4, then you can use a heat exchanger (advanced generators) to get cheap steam. One bucket of lava makes at least 6x more steam than a bucket of diesel (and you can use the diesel for power or kerosene instead).
+
+## Airship
+
+* Even though the airship looks cool, it's not on the main questline and it’s very expensive to make. It requires you to upgrade the extended crafting table, and then make the airship using a lot of resources. Prioritize other progression before making it.
+
 # Age 4
 
 **Ores:** Assorted Quartz (affected by Fortune)
@@ -1469,7 +1510,7 @@ Looting</td>
 
 * IF's Rancher gets around BWA’s Fleece and harvests wool from sheep directly, this can also occasionally be a source of powdered dye production from further processing the coloring byproducts from crushing wool
 
-* IF's Water Condenstrator produces about 100mb/t of water per water source block adjacent to it
+* IF's Water Condenstator produces about 100mb/t of water per water source block adjacent to it
 
 * Spawner Agitators get around the despawning spawners limit
 
@@ -1477,10 +1518,11 @@ Looting</td>
 
 * After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
 
-* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definately easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above.
+* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definitely easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above.
 
 * Refined Storage can be connected to a drawer controller via a [External Storage](https://refinedstorage.raoulvdberge.com/wiki/external-storage) connector.
- 
+
+* Before going to the moon bring either a Dimensional Gateway or the ender utilities portal setup. The age advancement freezes your game for a little bit and can cause you to crash before the game unfreezes. 
 
 # Age 5 
 
@@ -1565,7 +1607,8 @@ You can complete individual quests with the following command followed by one of
     <td>stage2</td>
     <td>stage3</td>
     <td>stage4</td>
-    <td>stage5</td>
+    <td>stage5
+</td>
   </tr>
   <tr>
     <td>kiln</td>
