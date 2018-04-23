@@ -1,3 +1,11 @@
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
@@ -214,7 +222,9 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * Shift/Sneak on your grave to retrieve your items.
 
-Once you get a saddle, go tame a horse (repeatedly trying to ride it) to speed up traversing the overworld. He can jump stone fence, but only with you riding. Be sure to bring a fence and lead with you for when you want to get off your high horse. Alternatively live near an ocean and use a raft to visit new places, taking care with the sharks and piranhas that attack when you get to shore. Piranhas jump out at you.
+* Once you get a saddle, go tame a horse (repeatedly trying to ride it) to speed up traversing the overworld. He can jump stone fence, but only with you riding. Be sure to bring a fence and lead with you for when you want to get off your high horse. Alternatively live near an ocean and use a raft to visit new places, taking care with the sharks and piranhas that attack when you get to shore. Piranhas jump out at you.
+
+* Hunting sharks is easy; if you have a one block deep strip of water to stand in, you can just spear them to death without them being able to reach you.
 
 * Be on the lookout for Sakura, Eucalyptus or Dark Oak trees. You'll need the logs to upgrade your work stump into the mk2 version. It can hold full stacks of items for repeated crafting, and takes fewer whacks.
 
@@ -281,6 +291,8 @@ If this feature is game-breaking and you have control over the configs, go to cy
 * Try to keep to one type of animal for meat and pelts as your initial inventory is scarce when gathering all this stuff.
 
 ### Where to set up base
+
+* Waterfall will have fish generate in it, they will flop out the edge of the water and expire on the ground, easy access to protein.
 
 * Water: River and ocean biomes have infinite water. Pulling water from lakes results in annoying but workable whirlpools. Placeable water is pushed out to age 2, so any farm will need to be placed around existing water, or aqueducts. You'll also want your sugarcane planted and nearby so it always grows. Plan your base accordingly
 
@@ -690,7 +702,7 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * To find Corallium look around for a biome looking like this or at least 40 ground level or below and then use a Weak Dowsing rod until it reports with finding Corralium.
 
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
+*  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
 
 * Regarding Corallium, You do not *need *to find the Corallium biome, they spawn, albeit rarely in Swamp and Ocean biomes. Strip mining such is a slow but surefire way to get early Corallium.
 
@@ -795,6 +807,10 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 * Save your iron, you will need a lot of it and it's not as common as in regular modded mc.
 
 * You can make glass panes quickly by first dying glass, then crafting 6 of them like normal.
+
+* Once you unlock JourneyMap, which is possible this Age, you can shift+right click on an ore sample to automatically create a waypoint. No more marking your veins manually in the atlas!
+
+    * Note, this destroys the sample without giving its usual drop, so don't do this for rock crystal samples where you want to collect the stardust
 
 ### Things to look out for
 
@@ -1000,8 +1016,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1037,15 +1052,15 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
 
-* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
+* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png)
 
 * Instead of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
 
 * This has been fixed. You spawn at the portal unless you reset it  Your spawnpoint in the Betweenlands is not set when you enter through a portal. So setting your spawn should be high priority. The first thing to make with your Syrmorite ingots is shears, to get moss, to get a moss bed and set your spawnpoint. 
 
-* Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png) into donuts for 6 hunger bars.
+* Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png) into donuts for 6 hunger bars.
 
-* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png).
+* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png).
 
 * To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one, they glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
 
@@ -1081,7 +1096,7 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * The pictured smeltery is fed by an upper from the ironwood crate. The basin/table are using wooden hoppers to extract items and blocks into an upper below the gold chest.The fluid hoppers are set to work on a high redstone signal from a lever above them.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
 
 ## Twilight Forest
 
@@ -1151,11 +1166,11 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * The Resonating Wand does not make the Crystal Rock Samples more visible, like it does in the standard mod with Starmetal Ore.
 
-* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get two stardusts back.
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
-* When making a crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
+* When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
 * You ALWAYS want to use perfect crystals for rituals and collector crystals, and preferably celestial crystals
 
@@ -1163,7 +1178,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * For the most part ones with poor stats are garbage and only really useful in lightwells and things that don't care about quality (which you can tell by checking if the output item has stats in the tooltip, eg. Mantle of Stars or Altars do not care about crystal stats as a part of their crafting component)
 
-* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
+* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 * Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
 
@@ -1195,7 +1210,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night, the setup below is a ghetto time machine if you want to advance nights for constellations
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
 
 * Get an aevitas astral sorcery cloak and you'll never have to worry about hunger again (or health for that matter because of saturation). This also makes filling your blood altar trivial.
 
@@ -1387,7 +1402,7 @@ Looting</td>
 
 ## Nether
 
-* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
+* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 * When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a vase under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
 
@@ -1455,7 +1470,7 @@ Looting</td>
 
 * Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things, mainly the blast furnace (probably the most important thing to get as of now).
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
@@ -1507,7 +1522,7 @@ Looting</td>
 
 * Spawner Agitators get around the despawning spawners limit
 
-* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Dimensional Gateway. The Dimensional Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End.
+* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Dimensional Gateway. The Dimensional Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End. *you can name the gateway in an anvil and the name will appear above the star.
 
 * After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
 
@@ -1519,8 +1534,7 @@ Looting</td>
 
 * To get rocket fuel (just called fuel) you need to make an Oxygen collector and pipe the oxygen into an IE refinery with Kerosene.
 
-* Remember a parachute when traveling in the rocket, this isn't advance rocketry where the engine control the landing. You need a parachute or you will crash land. Note that when you travel to the moon it resets your spawn and you’ll be in a death loop as you respawn without your spacesuit.
- 	
+* Remember a parachute when traveling in the rocket, this isn't advance rocketry where the engine control the landing. You need a parachute or you will crash land. Note that when you travel to the moon it resets your spawn and you’ll be in a death loop as you respawn without your spacesuit. 	
 
 ## Pneumaticcraft
 
@@ -1548,15 +1562,27 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 * RFTools Powercells transport power interdimensionally
 
+* Mekanism Universal Cables are probably the best early stage 5 power transfer option.
+
+* A great early Age 5 power generation is Advanced Generators. You can make Low Grade Charcoal in Kilns, mill it up with a horse powered millstone and then pump into a Syngas producer, use the Syngas in a Gas Turbine Generator and you get 1k+ RF/t easily.
+
 ## Ore Processing
 
 * Mekanism Metallurgic infusers have a 1:5 tin to copper ratio for making bronze
 
+* Putting a diamond into the enrichment chamber can get you 8 times the diamonds for the infuser
+
 * Mekanism Ore quintupling is now available, though very expensive. To get started, you will need a Purification Chamber, Crusher, Enrichment Chamber, and the other machines necessary to get them and to maintain them (P.C. requires Oxygen, created by the electrolytic separator when water is processed). Note that you cannot ore double with Mekanism, as it creates a different type of iron dust that cannot be processed. This forces you to go straight for Ore tripling. After getting this, you can slowly progress towards upgrading your machines and power gen, while working towards ore quadrupling and quintupling (4x and 5x).
+
+* If you silk touch mine Silicon and Redstone, you get Silicon and Redstone Ores. You can crush the ores with a Actually Additions crusher into a lot more resources than you would get if you simply mined the geolosys ores. This can help you get your 64k drive more easily. Other ores this works with is: Lapis, Coal, Nether Quartz (don't silk touch assorted quartz though).
+
+* Once you have decent power generation, a T1 Void miner from EnvironmentalTech costs only iron and redstone. It needs about 660RF/t.
 
 ## Storage
 
 * Quantum Storage Disks (from Quantum Storage compat with Refined Storage) store 2.14B items of any types and are very cheap, it trivializes most other storage options in the pack
+
+* As far as item transfer (if you don't count the computer system), unfortunately there is no Ender IO in the pack. The closest thing I could find is Inductive Logistics (and later on xnet might be a better option).
 
 ## Space
 
@@ -1588,7 +1614,7 @@ Note that galaticC
 
 * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)
 
 * Saturn
 
