@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
 
@@ -38,149 +46,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 -8872794606572219902   (3.0.4)  Spawn next to Laketown (village in middle of lake). High flat mountain at your back for strong star light with a tin vein. On other side of lake is a large flat area with **large **bone structure VERY nearby, Eucalyptus and a Mulberry tree, 2 coal, 2 copper veins, 1 gold. Lapis on island next to village. Majority of lake is only 1 block deep, making easy access to gravel, salt, sand, and clay. Nearby big hole(y=51 @ base) with Copper cluster. Snow mountain nearby (Build up 20+ blocks on peak for easy access to ceiling of The Beneath).
 
-### Ore distributions (as of 3.0.6):
-
-<table>
-  <tr>
-    <td>Material</td>
-    <td>Min Y</td>
-    <td>Max Y</td>
-    <td>Notes</td>
-  </tr>
-  <tr>
-    <td>Aquamarine</td>
-    <td>150</td>
-    <td>246</td>
-    <td>The Beneath only</td>
-  </tr>
-  <tr>
-    <td>Autunite</td>
-    <td>8</td>
-    <td>33</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Azurite (copper)</td>
-    <td>12</td>
-    <td>44</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Bauxite (aluminium)</td>
-    <td>45</td>
-    <td>79</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Beryl</td>
-    <td>4</td>
-    <td>32</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Black Quartz</td>
-    <td>2</td>
-    <td>100</td>
-    <td>The Beneath only</td>
-  </tr>
-  <tr>
-    <td>Casserite (tin)</td>
-    <td>44</td>
-    <td>68</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Cinnabar (redstone)</td>
-    <td>5</td>
-    <td>12</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Coal</td>
-    <td>48</td>
-    <td>78</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Corrallium</td>
-    <td>4</td>
-    <td>56</td>
-    <td>Overworld (Ocean & Swamp) & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Galena (silver & lead)</td>
-    <td>16</td>
-    <td>50</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Gold</td>
-    <td>5</td>
-    <td>30</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Hematite (iron)</td>
-    <td>32</td>
-    <td>60</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Kimberlite</td>
-    <td>2</td>
-    <td>15</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Lapis</td>
-    <td>10</td>
-    <td>24</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Limonite (iron & nickel)</td>
-    <td>6</td>
-    <td>32</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Malachite (copper)</td>
-    <td>39</td>
-    <td>44</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Platinum</td>
-    <td>3</td>
-    <td>25</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Quartz</td>
-    <td>6</td>
-    <td>29</td>
-    <td>Overworld & Twilight Forest</td>
-  </tr>
-  <tr>
-    <td>Redstone Ore</td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>Twilight Forest in the hollowed out caves</td>
-  </tr>
-  <tr>
-    <td>Sphalerite</td>
-    <td>35</td>
-    <td>55</td>
-    <td>Only blacklisted in the nether & end</td>
-  </tr>
-  <tr>
-    <td>Teallite (tin)</td>
-    <td>8</td>
-    <td>43</td>
-    <td>Overworld, Beneath & Twilight Forest</td>
-  </tr>
-</table>
-
+-3822593286363813618 3.0.6 Very strong, Amazing map. Everything you need to play within 200 blocks from spawn
 
 # Age 0
 
@@ -364,13 +230,13 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * Cow - Slowness and Resistance II
 
-* Enderman - Night Vision (14 seconds)
+* Enderman - Night Vision (14 seconds): Note the flashing is warning you that night vision is about to end.
 
 * Horse - Speed
 
 * Ocelot - Creepers don't explode
 
-* Pig - Luck
+* Pig - Luck (Mod developer confirmed this only works with fishing, which in SevTech means useless  because fishing loot table doesn't exist.) 
 
 * Rabbit - Jump Boost
 
@@ -450,7 +316,7 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * The grill can take up to 16 items for queuing. For automated extraction wait for Age 1 when you get a Dung Pipe to pull items out the side rather than a fire hopper needing to take the job of heating and pulling.
 
-* Upgrade to the craft stump mk. 2, which takes fewer whacks, and can hold stacks in each slot for quick crafting. Prematurely empty it by breaking it, shift right click doesn't seem to work.
+* Upgrade to the craft stump mk. 2, which takes fewer whacks, and can hold stacks in each slot for quick crafting. Prematurely empty it by breaking it or shift right clicking each item with an empty hand.
 
 * When you want to get into beast of burden power be sure to have a 9x9 wall around the 7x7 area each horse/buffalo/llama needs. Use either stone fence, berry bushes or 2 block high wall. Otherwise after the beast is done working he wanders away and breaks the lead.
 
@@ -506,7 +372,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 * Making a stone-braced wooden shield will make handling darklands combat a lot easier.
 
-* The Stone Axe is the strongest Age 0 weapon.
+* The Stone Axe is the strongest Age 0 weapon, aside from the Bear Claw Paxel.
 
 * Spare Tomahawks auto equips when you throw them, great for killing creepers
 
@@ -586,7 +452,7 @@ This age is focused on Prospecting for Bronze(tin and copper), 2 magic mods: Blo
 
 * Replace your horse with Wild Dog Pelt Boots (Speed boost, added jump height, no fall damage, 2 3 armor)
 
-* A cauldron/crucible can turn zombie flesh and hide into glue. Useful for making torches throwable, crafting Better with Mods Wooden gears and Slime boots. Keep 16 flesh around for Blood Magic though.
+* A crucible can turn zombie flesh and hide into glue. Useful for making torches throwable, crafting Better with Mods Wooden gears and Slime boots. Keep 16 flesh around for Blood Magic though.
 
 * Use storage crates (not to be confused with wooden crate). It's also silent and it can be gathered with all the items using shift right click. Can be used as a limited version of backpack. Ideal for resource processing or builds. Note that the drop-off button doesn't work with them, so shouldn't be used for primary storage.
 
@@ -718,7 +584,9 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Black Quartz can be found from y = 2 to y = 100, Aquamarine can be found from y = 150 to y = 246 
 
-* Before digging to a set Y area dig up till you see a cave. On the top of the caves you have a good chance of finding a few patches of ores. Aquamarine comes in veins of 12.
+* Before digging to a set Y area dig up till you see a cave. On the top of the caves you have a good chance of finding a few patches of ores. Aquamarine comes in veins of 12. Use a Night Vision totem to more easily see the patches on the ceiling.
+
+* Craft 1 dirt with 1 stick to make 64 Responsive Scaffolding. Right click in air to place a block directly in front of you. If you shift right click scaffolding on a block, it'll place it on the other side of the block (up to a certain distance) and you can climb it like ladders. Really great for getting up to the aquamarine. Just be careful, if any piece of scaffolding is broken, all connected pieces will break too
 
 * You can get throwable torches by crafting 8 regular torches with glue. This is great for handling dungeons and areas with spawners.
 
@@ -782,7 +650,7 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * You can store Improved Backpacks' backpacks inside Iron Backpacks’ backpacks.
 
-* Not all of these baubles need to be equipped to work.  Most will work as long as they're in the inventory.
+* Not all of the [below](#heading=h.s3hykq23gasz) baubles need to be equipped to work.  Most will work as long as they're in the inventory.
 
 * If you want to harvest any of the Low Grade Charcoal blocks, do so before entering the next age as this will cause them to turn into netherrack.
 
@@ -800,13 +668,11 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * You can make glass panes quickly by first dying glass, then crafting 6 of them like normal.
 
-* Once you unlock JourneyMap, which is possible this Age, you can shift+right click on an ore sample to automatically create a waypoint. No more marking your veins manually in the atlas!
-
-    * Note, this destroys the sample without giving its usual drop, so don't do this for rock crystal samples where you want to collect the stardust
+* Once you unlock JourneyMap, which is possible this Age, you can shift+right click  (NOT WITH AN EMPTY HAND, BUT WITH SOMETHING IN IT) on an ore sample to automatically create a waypoint. No more marking your veins manually in the atlas!
 
 ### Things to look out for
 
-* If you see an Enderman you should absolutely try to kill him. In a future release see if you can you should make a Luck 3 totem pole as well. Ender pearls are important.  Endermen will only drop ender dusts.  You can smelt these in the melter and cast them to ender pearls using the pan cast.
+* If you see an Enderman you should absolutely try to kill him. Ender pearls are important.  Endermen will only drop ender dusts.  You can smelt these in the melter and cast them to ender pearls using the pan cast.
 
 ## What you can do now
 
@@ -950,9 +816,7 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
     * Crossbows and longbows can't be created until age 3 so shortbows are the only solution.
 
-    * Wood bows have nerfed durability, so green slime arms are the way to go. 
-
-        * Get **green slime crystals **by taking either glue or blood balls and crafting a slime cube -> green slime balls + dirt, sand --furnace-> green slime crystal (no cast needed)
+    * Wood bows have nerfed durability, so Iron arms are the way to go. 
 
     * Damage arrows (**3.67 hearts** average observed, 50 arrows): **Bone **arrowhead, reed shaft, feather fletching.
 
@@ -1008,8 +872,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1161,8 +1024,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1175,6 +1037,8 @@ Furthermore you can link betweenlands portals with the swamp talisman
 * Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 * Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
+
+* Once you find a Rock Crystal Sample, you need to look at the outer corner the chunk it's in (just outside of it). Press F9 to see the limit of the chunk. Unlike the vanilla version it will be a big cluster of crystal and it can be hidden under lava (mine was). The Tough Dousing Rod will detect it if you are lower than y 48.
 
 * In regards to liquid starlight generation in a lightwell: Aquamarine < Resonant Aquamarine < Rock Crystal < Celestial Crystal < Attuned Rock Crystal < Attuned Celestial Crystal
 
@@ -1202,10 +1066,6 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * The Armara perks make you extremely hard to kill, and several of the perks work on damage that doesn't seem to be affected by armor. For example, the Dread Plague from Abyssalcraft is reduced in damage significantly by the 'No armor is more armor’ perk, making the Dreadlands much easier than otherwise. Armara also almost reduces fall damage to 0, allowing you to use the slimesling without the boots.
 
-* Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night, the setup below is a ghetto time machine if you want to advance nights for constellations
-
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
-
 * Get an aevitas astral sorcery cloak and you'll never have to worry about hunger again (or health for that matter because of saturation). This also makes filling your blood altar trivial.
 
 * The aevitas skill tree has a natural armor regen perk. Take it, get your strongest armor and put some middle gems from betweenlands on them for maximum power. Don't forget to put some on your weapon as well and take a amulet.
@@ -1213,6 +1073,8 @@ Furthermore you can link betweenlands portals with the swamp talisman
 * A mineralis cloak allows for easier ore finding once you get silk touch as it highlights any ores you are holding.
 
 * Vicio attuned Mantle of Stars and Resonating Wand allow infinite flight (elytra style flight).
+
+* Having two Chalice of Containments one with lava and one with starlight will mostly make sand, but will also give you aquamarine shale and the rare rock crystal. While the aquamarine found in the beneath is not affected by luck, aquamarine shale made this way is. You average 3 shale per bucket of lava and starlight and if you use resonating gems you typically get more than a bucket of starlight. Recommend using an ender hopper or similar to collect items. Note if your server is using Sponge, the two chalice thing is bugged. Blood magic Senade of the nether is a great way to get lava.
 
 ### Stellar Refraction Table Constellation Effects source
 
@@ -1252,8 +1114,8 @@ Power</td>
     <td>Armara</td>
     <td></td>
     <td>Resistance</td>
-    <td>Protection</td>
     <td>N/A</td>
+    <td>Protection</td>
     <td>N/A</td>
     <td>Protection</td>
   </tr>
@@ -1394,11 +1256,17 @@ Looting</td>
 
 * Obsidian can be made with astral sorcery and magma blocks but require collector crystals which require a further upgraded altar and another structure for the infuser. Also this places the obsidian in the world so it still needs to be mined.
 
+## Astral Sorcery
+
+* Now that you have easier access to Obsidian the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
+
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
+
 ## Nether
 
 * You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
-* When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a vase under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
+* When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a urn under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
 
 * Nether Amethyst Ore only spawns in the vanilla Hell biome (get a Biomeanalyzer). It's rare, so Fortune III is recommended
 
@@ -1430,7 +1298,7 @@ Looting</td>
 
 * Shuriken: The upper left-hand corner determines what material repairs it.
 
-    * If you have access to obsidian and therefore Reinforcement modifiers, you can make a shuriken that's unbreakable (**infinite ammo**) right out of the gate by using one paper part. One paper, one bone, one cactus, and one iron part gives 7 hearts of damage, increasing with number of hits. This can probably be increased further by replacing the iron with prismarine or firewood if you have access to those. The paper part can be replaced after leveling up twice.
+    * If you have access to obsidian and therefore Reinforcement modifiers, you can make a shuriken that's unbreakable (**infinite ammo**) right out of the gate by using one paper part. One paper, 2 bone, and one iron part gives 7 hearts of damage, increasing with number of hits. This can probably be increased further by replacing the iron with prismarine or firewood if you have access to those. The paper part can be replaced after leveling up twice.
 
 * Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
 
@@ -1448,9 +1316,9 @@ Looting</td>
 
 * You can swap parts on your tinker tools without any penalty. This lets you do something like create a pickaxe with a stone head, add the ore excavation modifier to it, and then mine through huge amounts of stone, repairing the tool as you go (make sure to have a Tool Station on hand and a LOT of food) in order to level it up very quickly. A good way to do this is to add, in order, the ore excavation modifier, 5 reinforcement modifiers (ASAP as soon as you get the levels, to make the tool's durability last longer than your hunger) to make it unbreakable, and then Luck III. Due to Ore Excavation, redstone (Haste) isn’t as important, so it can wait. Also, since you can replace parts without penalty, you can keep this pickaxe/axe/shovel/whatever for the rest of the game, replacing any part on it whenever something better shows up without having to worry about ever repairing it.
 
-* Absolutely make yourself a Luck III pick (even 1 lapis + time or forking up the 360 lapis to quickly get to Luck III), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst, aquamarine, ...) (Just by adding only 1 Lapis will help, it slowly increases when used.)
+* Absolutely make yourself a Luck III pick (even 1 lapis + time or forking up the 360 lapis to quickly get to Luck III), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst,  aquamarine, ...) (Just by adding only 1 Lapis will help, it slowly increases when used.)
 
-    * Most geolosys ores are not affected by Luck, the ones affected by Fortune/Luck will be noted above in the Ore Distribution chart
+    * Most geolosys ores are not affected by Luck, the ones affected by Fortune/Luck will be noted above in 	the Ore Distribution chart
 
     * Mobs with modified drop tables such as Blazes and Endermen are not affected by Luck/Looting
 
@@ -1462,13 +1330,19 @@ Looting</td>
 
 ## Stoked Fire
 
-* Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things, mainly the blast furnace (probably the most important thing to get as of now).
+* Make a Hibachi and Bellows, plug bellows onto an axle and create a [redstone clock](https://minecraft.gamepedia.com/Clock_circuit#Repeater_clock) (or make a timer) that turns of/on the gearbox. Put a redstone torch next to the Hibachi and you should see a blue flame - stoked fire. This unlocks many new cool things, 
+
+    * the blast furnace (probably the most important thing to get as of now)
+
+    * crucible for one which lets you melt iron/gold armor and weapons into bars and nuggets. 
+
+    * The kiln is also another required machine
 
 * ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
-* In a kiln you can make Melon Pie(2 watermelon+egg+sugar): **4% Fruit**
+* In a kiln you can make Melon Pie(2 watermelon+raw egg+flour+sugar): **4% Fruit**
 
 * When you put a Better with mods Crucible above the stoked fire you can melt down armor (gold and iron) to ingots and nuggets. Combo this with the hunting dimension and a mob grinder there to get infinite gold and iron.
 
@@ -1502,7 +1376,7 @@ Looting</td>
 
 # Age 4
 
-**Ores:** Assorted Quartz (affected by Fortune)
+**Ores:** Assorted Quartz (affected by Fortune), Silicon Ore, Ardite Ore (Nether normal gen) and Cobalt Ore (Nether normal gen)
 
 **Tools:**
 
@@ -1520,7 +1394,7 @@ Looting</td>
 
 * After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
 
-* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definitely easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above.
+* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definitely easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above. Blood Magic’s Bound Pickaxe is Cobalt Level as well.
 
 * Refined Storage can be connected to a drawer controller via a [External Storage](https://refinedstorage.raoulvdberge.com/wiki/external-storage) connector.
 
@@ -1529,7 +1403,34 @@ Looting</td>
 * To get rocket fuel (just called fuel) you need to make an Oxygen collector and pipe the oxygen into an IE refinery with Kerosene.
 
 * Remember a parachute when traveling in the rocket, this isn't advance rocketry where the engine control the landing. You need a parachute or you will crash land. Note that when you travel to the moon it resets your spawn and you’ll be in a death loop as you respawn without your spacesuit.
- 	
+
+* If you didn't unlock Journeymap in Age 2 or 3, it will automatically unlock on entering Age 4.
+
+## Storage
+
+There are 3 main ME systems available: Refined Storage, Applied Energistics, and Simple Storage.
+
+Refined and Applied don't yet have the ability to do automated crafting, nor deep storage. Thus all 3 are at best a way to sort your junk into a central system that can make crafting much easier.
+
+### Simple Storage
+
+This mod allows you to connect the core storage block to your existing storage chest layout, as well as a tablet for remote access. This tablet comes in 2 flavors, a 64 block(?) radius, and an advanced one for multi-dimensional access. At this point in your progression the advanced tablet is not that expensive.
+
+### Refined Storage
+
+SevTech has gated refined storage on the same inscription plates that AE has, requiring a fair bit of tech either way. Thankfully you can craft them instead of exploration for meteors and a high tier pick. 
+
+The primary purpose in going this route is if you plan on upgrading to the computation plate in age 5 for auto-crafting.
+
+Because you don't have much in terms of storage, using obsidian chests and external storage busses will be the way to go for storage.
+
+#### Tips
+
+* Grab the wrench made out of quartz to rotate the inscriber, allowing you to use a hopper for all 3 inputs, thus automating circuits.
+
+### Applied Energistics
+
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Pneumaticcraft
 
@@ -1537,7 +1438,7 @@ You need to get your hands on compressed iron. The metal press has a plate for t
 
 Warning pressure has a max and you can have machine blow up if they go into the red. This is why its important to be able to shut off the compressor.
 
-You will need a plastic mixer to get colored plastic (note this plastic is different from the Industrial Foregoing plastic) The mixer requires heat, a torch is very slow to heat, lava is slow and will turn to obsidian after a while. You can use blood magic's senade of the nether to get lava and place it all around the mixer to speed up the heat. Using molten plastic from Modular Machines bypasses the need to be heated. It uses red,green, and blue dye powder to color the plastic and if heated high enough can remelt unused plastics.
+You will need a plastic mixer to get colored plastic (note this plastic is different from the Industrial Foregoing plastic) The mixer requires heat, a torch is very slow to heat, lava is slow and will turn to obsidian after a while. You can use blood magic's serenade of the nether to get lava and place it all around the mixer to speed up the heat. Using molten plastic from Modular Machines bypasses the need to be heated. It uses red,green, and blue dye powder to color the plastic and if heated high enough can remelt unused plastics.
 
 Compressed iron and green plastic makes a circuit board, which then you place in the UV light (which does require pressure) after it hits 100% through it in some etching acid (made in the pressure chamber) Note with items floating in this pack make sure you block in your acid completely, half stabs on the bottom will let the board flow out of the acid. 
 
@@ -1561,6 +1462,8 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 * A great early Age 5 power generation is Advanced Generators. You can make Low Grade Charcoal in Kilns, mill it up with a horse powered millstone and then pump into a Syngas producer, use the Syngas in a Gas Turbine Generator and you get 1k+ RF/t easily.
 
+* Alternately, an Advanced Generators Heat Exchanger with a single heat exchanger is sufficient to power an Immersive Tech Steam Turbine/Alternator setup with little water/lava required.  At this stage, the RFTools pump is available which can pump large amounts of fluids which can easily supply the setup.  The Alternator can only connect to IE wiring but IE connectors can connect to Mekanism Universal power cables.  The major cost for the setup is the amount of steel required for the turbine/alternator setup.
+
 ## Ore Processing
 
 * Mekanism Metallurgic infusers have a 1:5 tin to copper ratio for making bronze
@@ -1571,7 +1474,7 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 * If you silk touch mine Silicon and Redstone, you get Silicon and Redstone Ores. You can crush the ores with a Actually Additions crusher into a lot more resources than you would get if you simply mined the geolosys ores. This can help you get your 64k drive more easily. Other ores this works with is: Lapis, Coal, Nether Quartz (don't silk touch assorted quartz though).
 
-* Once you have decent power generation, a T1 Void miner from EnvironmentalTech costs only iron and redstone. It needs about 660RF/t.
+* Once you have decent power generation, a T1 Void miner from EnvironmentalTech is easy to make. It needs about 660RF/t.
 
 ## Storage
 
@@ -1581,7 +1484,15 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 ## Space
 
-Note that galaticC
+* Consider diving into the astral sorcery teleportation for quick access to oxygen.
+
+* After you obtain Desh on Mars, both the RFTools Matter Transmitter/Receiver and Mekanism Teleporter can be built as well.
+
+* The Slime Sling is a great mode of transportation on the low gravity planets.
+
+* The Spawner Seeker from Cyclic can be used to find the dungeons on the planets.  It has a range of 128 blocks and will find the spawners in the dungeon.  You may have to make multiple jumps using the slime sling but it's often easier than searching for the entrances.
+
+* Radiation can become a problem.  If you are having issues with high radiation, consider making the Blood Magic Lapis Lazuli ritual (block of lapis on an Imperfect Ritual Stone).  When clicked, this will set the time to night and you can sleep to reduce radiation,  This can be repeated as necessary.  Not that sleeping will only reduce radiation by 5% of your current value.
 
 ### Moon
 
@@ -1601,6 +1512,10 @@ Note that galaticC
 
 * Has a higher meteor rate than the Moon
 
+Asteroid Belt
+
+* Ilmenite (titanium) is found in the asteroids along with meteoric iron.  You will have to use silk touch to pick up the ore as the current version (3.0.6) does not have processing patterns for the shards dropped normally.  As with all the planets, a silk touch quarry is recommended as the asteroids can be far apart and are typically covered with mobs.
+
 ### Mercury
 
 * One of the few GalactiCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment
@@ -1618,6 +1533,16 @@ Note that galaticC
 * Uranus, Neptune
 
     * Same as the others, quarry it, loot it's dungeon
+
+## Automation
+
+* Once you get the calculation plate you can start investing in autocrafting with either Refined Storage or AE2
+
+* Refined storage has the advantage of the quantum storage disks and not needing to worry about channels
+
+* Extended crafting tables have a block to allow for automation, it does take power tho.
+
+* Automating the metal press can be done by adding one extra conveyor belt and a hopper, normally you can just use a hopper, but any recipe that takes more than one item needs an extra belt.
 
 # Creative tips
 
@@ -2054,7 +1979,155 @@ You can complete individual quests with the following command followed by one of
 </table>
 
 
-# Heatmap biomes
+# Cross-age Info
+
+## Ore distributions
+
+*(as of 3.0.6)*
+
+<table>
+  <tr>
+    <td>Material</td>
+    <td>Min Y</td>
+    <td>Max Y</td>
+    <td>Notes</td>
+  </tr>
+  <tr>
+    <td>Aquamarine</td>
+    <td>150</td>
+    <td>246</td>
+    <td>The Beneath only</td>
+  </tr>
+  <tr>
+    <td>Autunite</td>
+    <td>8</td>
+    <td>33</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Azurite (copper)</td>
+    <td>12</td>
+    <td>44</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Bauxite (aluminium)</td>
+    <td>45</td>
+    <td>79</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Beryl</td>
+    <td>4</td>
+    <td>32</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Black Quartz</td>
+    <td>2</td>
+    <td>100</td>
+    <td>The Beneath only</td>
+  </tr>
+  <tr>
+    <td>Casserite (tin)</td>
+    <td>44</td>
+    <td>68</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Cinnabar (redstone)</td>
+    <td>5</td>
+    <td>12</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Coal</td>
+    <td>48</td>
+    <td>78</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Corrallium</td>
+    <td>4</td>
+    <td>56</td>
+    <td>Overworld (Ocean & Swamp) & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Galena (silver & lead)</td>
+    <td>16</td>
+    <td>50</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Gold</td>
+    <td>5</td>
+    <td>30</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Hematite (iron)</td>
+    <td>32</td>
+    <td>60</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Kimberlite</td>
+    <td>2</td>
+    <td>15</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Lapis</td>
+    <td>10</td>
+    <td>24</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Limonite (iron & nickel)</td>
+    <td>6</td>
+    <td>32</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Malachite (copper)</td>
+    <td>39</td>
+    <td>44</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Platinum</td>
+    <td>3</td>
+    <td>25</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Quartz</td>
+    <td>6</td>
+    <td>29</td>
+    <td>Overworld & Twilight Forest</td>
+  </tr>
+  <tr>
+    <td>Redstone Ore</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Twilight Forest in the hollowed out caves</td>
+  </tr>
+  <tr>
+    <td>Sphalerite</td>
+    <td>35</td>
+    <td>55</td>
+    <td>Only blacklisted in the nether & end</td>
+  </tr>
+  <tr>
+    <td>Teallite (tin)</td>
+    <td>8</td>
+    <td>43</td>
+    <td>Overworld, Beneath & Twilight Forest</td>
+  </tr>
+</table>
+
+
+## Heatmap biomes
 
 *Credit to /ChaoticNonsense on reddit for **[the researc*h](https://www.reddit.com/r/feedthebeast/comments/8crpq4/sevtech_heatmap_breakdown/)
 
