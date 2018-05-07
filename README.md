@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
 
@@ -206,7 +214,7 @@ If this feature is game-breaking and you have control over the configs, go to cy
 
 * Trowel: like shovel, but digging grass blocks often drop worms, which help getting fish in strainer.
 
-* Stone club: while being a slow yet heavy hitting weapon, it can mine cobblestone (faster than a pickaxe?).
+* Stone club: It is  an average damage, very fast-hitting weapon, it can also mine cobblestone faster than a pickaxe, and also dig dirt and gravel faster than a shovel. You still need a pickaxe for special rocks like greenschist and limestone though.
 
 ## Totems
 
@@ -291,8 +299,6 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 * Buffalo can be bred with wheat so you don't have to keep finding cows and doing the ritual
 
 * After you've found a few cows and optionally pigs, explore for a Bone blocks in clusters to get loads of bonemeal to get a fast supply of wheat.
-
-* Before killing your buffalo make a full totem of pig to get fortune 3
 
 * Pelts are useful for glue in Age 1. Note: buffalo doesn't melt down into glue, but does make 6 hide.
 
@@ -654,7 +660,7 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Well Bucket - Creates water if next to a source block. Combine with liquid hopper to automate into a tank
 
-* Think big, plan ahead, don't get stuck in a small base in ages 1 and 2 since age 3 involves a lot of multi block machines that will require a lot of space.
+* Think big, plan ahead, don't get stuck in a small base in ages 1 and 2 since age 3 involves a lot of multiblock machines that will require a lot of space.
 
 * Save your iron, you will need a lot of it and it's not as common as in regular modded mc.
 
@@ -688,7 +694,7 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Tinker's Tank
 
-* Create Speed, Nightvision, Healing and Regeneration Potions with Rustic [Alchemy](https://github.com/the-realest-stu/Rustic/wiki/Alchemy).
+* Create Speed, Night Vision, Healing and Regeneration Potions with Rustic [Alchemy](https://github.com/the-realest-stu/Rustic/wiki/Alchemy).
 
 ## Baubles
 
@@ -864,8 +870,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -890,6 +895,10 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 * Take the time to get slime boots when fighting the Druids. It turns their offensive spell against them. Alternatively make a Bat totem pole (along with Pig for luck) near the circle where you are fighting them. Furthermore carrying a dagger of sacrifice with a blood altar allows dealing with druids very quickly as they die in 1 hit. This same strategy also works on many other enemies in the betweenlands except bosses.
 
 * The Betweenlands is a very large mod, consult [http://the-betweenlands.wikia.com/wiki/Basic_Guide_to_Survival](http://the-betweenlands.wikia.com/wiki/Basic_Guide_to_Survival) for some starting tips.
+
+* To enter betweenlands, plant a sapling in a wide open area and right click on it with talisman.
+
+	If you have problems entering the portal; you have to wait in the portal for a few seconds still to enter.
 
 * Take neither non-cooked food (berries -> rotten, hearty stew is fine), bedding, Vanilla Torches nor weak weapons (overworld diamond < between wood sword)
 
@@ -1017,8 +1026,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1069,6 +1077,10 @@ Furthermore you can link betweenlands portals with the swamp talisman
 * Vicio attuned Mantle of Stars and Resonating Wand allow infinite flight (elytra style flight).
 
 * Having two Chalice of Containments one with lava and one with starlight will mostly make sand, but will also give you aquamarine shale and the rare rock crystal. While the aquamarine found in the beneath is not affected by luck, aquamarine shale made this way is. You average 3 shale per bucket of lava and starlight and if you use resonating gems you typically get more than a bucket of starlight. Recommend using an ender hopper or similar to collect items. Note if your server is using Sponge, the two chalice thing is bugged. Blood magic Senade of the nether is a great way to get lava.
+
+* You can build yourself an indestructible chamber with the Illumination wand. Inside you place any kind of stone. When you wear Mantle of Stars attuned to Fornax and set yourself on fire (e.g. with flint & steal) you melt the stone to lava source blocks.
+
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
 
 ### Stellar Refraction Table Constellation Effects source
 
@@ -1254,11 +1266,11 @@ Looting</td>
 
 * Now that you have easier access to Obsidian the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 ## Nether
 
-* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
 
 * When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a urn under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
 
@@ -1332,7 +1344,7 @@ Looting</td>
 
     * The kiln is also another required machine
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
@@ -1424,8 +1436,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Pneumaticcraft
 
@@ -1448,6 +1459,8 @@ When it comes to making the assembling line you will need a pneumatic wrench, ri
 **Key Items: **See individual Galacticraft section
 
 Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and minimal tweaks in configs. The only real big recipe changes are the creative items.
+
+Mob duplicator and Mob Crusher can be your friend on getting hard to find mob drops. Any spawner that you can stabilize with spawner agitator (or building in a slime chunk) can get you mob essence which you can use with the mob duplicator to get any mob you have capture in a mob imprisonment tool. Making a RFtools spawner with a wither essence is another good idea as the mob crusher will kill the wither instantly and convert its xp into mob essence.
 
 ## Power
 
@@ -1485,6 +1498,8 @@ Stage 5 really opens to be a kitchen sink pack with a lot of default recipes and
 
 * The Slime Sling is a great mode of transportation on the low gravity planets.
 
+* Living armor with Elytra upgrade and air sigil is also great transport
+
 * The Spawner Seeker from Cyclic can be used to find the dungeons on the planets.  It has a range of 128 blocks and will find the spawners in the dungeon.  You may have to make multiple jumps using the slime sling but it's often easier than searching for the entrances.
 
 * Radiation can become a problem.  If you are having issues with high radiation, consider making the Blood Magic Lapis Lazuli ritual (block of lapis on an Imperfect Ritual Stone).  When clicked, this will set the time to night and you can sleep to reduce radiation,  This can be repeated as necessary.  Not that sleeping will only reduce radiation by 5% of your current value.
@@ -1519,7 +1534,7 @@ Asteroid Belt
 
 * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_27.png)
 
 * Saturn
 
@@ -1538,6 +1553,10 @@ Asteroid Belt
 * Extended crafting tables have a block to allow for automation, it does take power tho.
 
 * Automating the metal press can be done by adding one extra conveyor belt and a hopper, normally you can just use a hopper, but any recipe that takes more than one item needs an extra belt.
+
+# Creative age
+
+	Reached by making the Ultimate crafting grid. It doesn't have the normal shape to tell you it unlocks the next age.
 
 # Creative tips
 
@@ -2284,4 +2303,46 @@ This information, with the classifications below, should be enough to find speci
 ### Other: 
 
 Oceans can go anywhere, and there are a ton of river/transitional/Hill variants of the above.
+
+# How to replicate this
+
+## Google Docs Tips
+
+* People won't change the overall format even if they have the permission, so think good and hard about having a good high level flow.
+
+* Use header formats rather than Bullet list nesting. Don't let bullets go further than 3 levels deep, pushing for extracting stuff into their own section.
+
+* Enable link sharing with comment permission as the default. You can always add trusted people as direct editors using their **gmail** address.
+
+* Because viewers can't sort by newest you'll have to make a revision history for them. Periodically go to the Version History and make a named version, then click last week's named version to see the diff. Print this diff to PDF. Upload that PDF to Google Docs or github for sharing. Record this link in the Recent Changes section of the Google Docs
+
+* Use the Addon called Gabriel covered later.
+
+* Know that there will be lots of lurkers looking directly at your doc. They will have it open on another screen and forget their focus is not on minecraft. Thus you'll get quite a few edit proposals to add 'e' to some place. This is annoying but worth the price for allowing random people to toss in proposals.
+
+## Github Pages
+
+* Github allows you to host a static website in their repo using Markup. Create a free github repo, go to settings, Choose a theme and have it populate your repo with the needed files. The README seems to be the only Markup file that you can access from the static site. We'll be pushing your above google doc to this README, but we need to do some prep work.
+
+* Find the default.html file that your template uses and wrap the {{content}} section in a section and article. Add the tocible javascript and stylesheet to your page: [https://github.com/borg286/sevtech2/blob/master/_layouts/default.html#L15](https://github.com/borg286/sevtech2/blob/master/_layouts/default.html#L15)
+
+* Add this script section to your page: [https://github.com/borg286/sevtech2/blob/master/_layouts/default.html#L32](https://github.com/borg286/sevtech2/blob/master/_layouts/default.html#L32)
+
+* This will result in a dynamic table of contents that can look at your page and programatically create a table of contents based on the headers of the page. The one I linked above uses H1's as the first level, and H2's as subitems. You can see it in action here: [https://borg286.github.io/sevtech/](https://borg286.github.io/sevtech/)
+
+## [Gabriel](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff?utm_source=permalink)
+
+* This is a Google Doc addon that can convert a google doc into markup and push it and images to a github repo.
+
+* Grant access to your github repo, choose the root folder and change the name of the output file to [README.md](https://readme.md/)
+
+* Before doing an export you'll want to download the html export from Google docs and find large images. These large image make the Gabriel exporter take longer pushing to Github. If this is more than about 3-5 MB then Gabriel times out. Find large images, downsize them, then replace them in the Google doc.
+
+* After exporting to your github repo go back to github and edit the [README.md](https://readme.md/). Gabriel adds a heading section that conflicts with Github Pages. Delete the section starting and ending with ====. Sadly Github Pages will return a 404 after this. Simply edit the file again and make a small change and save it. This will trigger a push to the Github Sites caches.
+
+## Alternatives considered
+
+I had considered using Google Doc's native web view and embed the provided iframe into a skeleton site, but the formatting Google provides is so bad it is nigh unusable. The benefit of native web view is that it is always up-to-date. The downside is that we can't change the way it looks. The way browsers handle iframes protects the inner page from any poking from the parent page it is embedded into.
+
+I had considered using Google Doc's native html export and simply uploading that to a static site storage site. The image links would work, and the size limit wouldn't be as much of a problem. The table of contents I wanted to add meant I'd have to either edit the top level html page every time I push, or have a page that uses javascript to pull the html from the same page and inject the javascript added above.
 
