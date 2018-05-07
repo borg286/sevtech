@@ -1,11 +1,3 @@
----
-title: SevTech Tips and Tricks
-layout: post
-author: borg286
-permalink: /sevtech-tips-and-tricks/
-source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
-published: true
----
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
@@ -870,7 +862,8 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
+Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1026,7 +1019,8 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
+ ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1436,7 +1430,8 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
+ 	
 
 ## Pneumaticcraft
 
