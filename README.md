@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.7 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2560173)
 
@@ -12,7 +20,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between 3.0.6 and [May 12 2018](https://borg286.github.io/sevtech/public/5-12.pdf)
+1. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -876,8 +884,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1035,8 +1042,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1338,7 +1344,7 @@ Looting</td>
 
 * Magma block/Netherrack over a Lightwell generates Lava for your furnace.
 
-* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have 10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
+* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have  10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
 
 * You can clear out huge swaths of cobblestone using the Excavation + Blasting modifier + Gluttony charm + lots of food. Blasting 3 destroys all the cobble you mine. After blasting the stone you are left with easy to find veins. If you use Copper you get tons of XP as you're doing it. 100+ levels in 10 minutes.
 
@@ -1472,8 +1478,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Pneumaticcraft
 
