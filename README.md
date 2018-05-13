@@ -18,6 +18,10 @@ Please use this if you don't intend to propose tips.
 
 Feel free to add comments, and propose changes [here](https://docs.google.com/document/d/1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0/comment).
 
+### Version History
+
+1. Diff between 3.0.6 and [May 12 2018](https://borg286.github.io/sevtech/public/5-12.pdf)
+
 ### Performance tips:
 
 * The modpack creator intended only needing 4 GB of ram allocated, but YMMV.
