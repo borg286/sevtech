@@ -1,6 +1,16 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
-Sevtech is currently 3.0.6 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2549553)
+Sevtech is currently 3.0.7 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2560173)
+
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
 Here is the web view [https://borg286.github.io/sevtech/](https://borg286.github.io/sevtech/) 
 
@@ -10,7 +20,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Performance tips:
 
-* Don't allocate more memory than needed.  The standard pack shouldn’t need more than 4GB of RAM allocated.
+* The modpack creator intended only needing 4 GB of ram allocated, but YMMV.
 
 * Custom java arguments for garbage collection: -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
 
@@ -31,6 +41,10 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
     * Set **B:leavesFullCube=true** to **false** to decrease FPS stuttering.
 
 ### Seeds
+
+-7757505388919135334  (3.0.7) Spawn in Village, next to flat plains, Large bone structure and Shoggoth lair within 200 blocks of spawn. Rock Crystals just outside of town. Lava. 
+
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
 -3503285926045735642  (pre 3.0.5)  village (east), bone blocks, river, animals, swamp with shoggoth lair, shadow biome all somewhat near spawn point. 
 
@@ -80,7 +94,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * You can use punji sticks (crafted from sugar cane) to damage mobs. Can place on hoppers for collection, and on walls to deter spiders. 
 
-* Lit fibre torches(right click unlit one on fire) are not as good as vanilla torches. They only provide a light level of 10, meaning mobs can still spawn 3 blocks away. Craft them into totem torches using 2 sticks for much better lighting. Note they occupy their square so may get in the way  and be placed on the ceiling. Since the totem torch doesn't require charcoal/coal to make you can get and will need a large supply. Use a Flint Workblade to instantly get sticks from leaves and fibre from weeds. Bring 3 workblades with you if you want to stock up.
+* Lit fibre torches(right click unlit one on fire) are not as good as vanilla torches. They only provide a light level of 10, meaning mobs can still spawn 3 blocks away. Craft them into totem torches using 2 sticks for much better lighting. Since the totem torch doesn't require charcoal/coal to make you can get and will need a large supply. Use a Flint Workblade to instantly get sticks from leaves and fibre from weeds. Bring 3 workblades with you if you want to stock up.
 
 * The red cedar tree needed for the fire hopper requires a totemic ceremony to convert any sapling to red cedar sapling.
 
@@ -89,6 +103,10 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 * If your grave gets removed (eg by the Hydra), you can recover it by using the **/tmg_restore** command from Tomb Many Graves mod.
 
 * Having trouble to orientate yourself? Use the Sun! The sun and moon rise in the east and set in the west. This makes a good early compass to find yourself which way you are traveling.
+
+* The dropoff button merges stuff in your inventory into nearby chests. Ie. if you have a nearby chest with cobble this dropoff button will push any cobble you have into that chest. If you're not already storing it then it should remain in your inventory.
+
+* FindMe lets you hover your mouse over an item in JEI, press 'Y' and any nearby chest with that item will smoke. 
 
 ## Step assist vs. auto-jump
 
@@ -228,7 +246,7 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * Ocelot - Creepers don't explode
 
-* Pig - Luck (Mod developer confirmed this only works with fishing, which in SevTech means useless  because fishing loot table doesn't exist.) 
+* Pig - Luck (Should affect endermen and mob drops now)
 
 * Rabbit - Jump Boost
 
@@ -292,7 +310,7 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * After you've found a few cows and optionally pigs, explore for a Bone blocks in clusters to get loads of bonemeal to get a fast supply of wheat.
 
-* Pelts are useful for glue in Age 1. Note: buffalo doesn't melt down into glue, but does make 6 hide.
+* Pelts are useful for glue in Age 1.
 
 ## Automation
 
@@ -462,7 +480,7 @@ Creeping moss is a craftable item that allows the player to change the type biom
 
 Additionally, you can use the moss to **find out what biome you are currently in**, as it spits out the selected biome into chat. This can be helpful because the F3 screen does not show biome in age 1.
 
-* Make a mob grinder by placing a spider + ocelot totem, 1 layer for you to walk, then a wall of fence, with punji sticks the next layer out. The spider totem lets you climb up the walls of your tower![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.jpg)
+* Make a mob grinder by placing a spider + ocelot totem, 1 layer for you to walk, then a wall of fence, with punji sticks the next layer out. The spider totem lets you climb up the walls of your tower![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.jpg)
 
 * Punji sticks (sugar cane) make effective mob killer. They can be placed on the sides of blocks to prevent spiders from climbing over, as [well as hoppers](https://i.imgur.com/VP5pTO9.png) to automate collection
 
@@ -520,7 +538,7 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
     * You can also use your hunting dimension with some creeping moss to quickly access an Abyssal biome.
 
-* Next and hardest is finding and farming a Shoggoth lair. They seem more likely around river biomes.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
+* Next and hardest is finding and farming a Shoggoth lair. They seem more likely around river biomes.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
 
 * They seem to climb similar to spiders. They don't deposit their sludge on bottom half slabs or string. They require a 3x3 hallways to move. However a bunch of them can shove one into a 2x3 hallway. If you are quick you can build a wall right at the bottom of the stairs leading into their lair before they manage to escape. You will get hit at least once since they can hit through a 1 block thick wall but focus on establishing a wall first and pretty it up later. You can build a 3x3 killing chamber at the top of your wall. Use bottom half slabs for the floor and don't bust the wall leading to the lair until your ready for them to come through. Opposite of the wall you can build a 2 block thick wall with a 1 block high slit to slash at them through it. To collect the drop swing underneath and bust out one slab, replace it and repeat until you have all the drops. Mk2 hoppers can suck the items through the slabs for a much safer alternative.
 
@@ -530,7 +548,9 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * If you're playing on a server and the Shoggoth lairs have been emptied, you can trade for flesh with villagers, or with the Farming for Blockheads Market
 
-* Video tutorial on finding and dealing with Shoggoth: [https://www.youtube.com/watch?v=mORTlnKoqHQ](https://www.youtube.com/watch?v=mORTlnKoqHQ) 
+* Video tutorial on finding and dealing with Shoggoth: 
+
+    * [https://www.youtube.com/watch?v=mORTlnKoqHQ](https://www.youtube.com/watch?v=mORTlnKoqHQ)
 
     * Alternatively you can mine out a 1 block wide path into their spawn area and then make room behind you for 3 totems, 6 high pig for luck, 6 high wolf for strength, and 6 high cow for resistance, and 1 high endermen. Combine with bronze leggings and any available armor and you should be able to withstand their heavy blows.
 
@@ -550,7 +570,7 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * To find Corallium look around for a biome looking like this or at least 40 ground level or below and then use a Weak Dowsing rod until it reports with finding Corralium.
 
-*  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.png)
+*  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
 
 * Regarding Corallium, You do not *need *to find the Corallium biome, they spawn, albeit rarely in Swamp and Ocean biomes. Strip mining such is a slow but surefire way to get early Corallium.
 
@@ -602,7 +622,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Before we get into Astral Sorcery we need a Saw to get the bark off of Mulberry wood.  Here is what a Mulberry tree looks like:
 
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_3.png)
+ ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
 
 * After making the Saw you'll need to get started on the water wheel, as the hand crank doesn’t work on the saw. You’ll need ~36 hemp. Get the top of hemp plant but leave the base planted. 
 
@@ -612,7 +632,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Follow the main quest Guide to a waterwheel and gearbox and make 3 wooden axles (1 for the water wheel to be based on, which can connect directly to the gearbox (image shows an axel between them, useful later on), one to deliver power to the saw.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_6.png)
 
 * You can tell the gearbox and axle are connected right by seeing the axle turn. Right click the gearbox to move the input side to face the waterwheel.
 
@@ -622,7 +642,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Mechanical power is binary, it's either on or off. You can split power as many times as you want to power your stuff.
 
-* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers, because they don't have an internal inventory). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
+* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers, because they don't have an internal inventory). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png)
 
 * Completing the saw also makes Wooden gears much cheaper.
 
@@ -637,8 +657,6 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 # Age 2
 
 ## Uncategorized Tips
-
-* You can store Improved Backpacks' backpacks inside Iron Backpacks’ backpacks.
 
 * Not all of the [below](#heading=h.s3hykq23gasz) baubles need to be equipped to work.  Most will work as long as they're in the inventory.
 
@@ -716,11 +734,11 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 ## Automating a Melter
 
-* Now that we have access to a lever, a dependable clock can be created using the turntable.  Put a block on the (working) turntable, attach a lever to it.  Activate the lever.  Then make sure the faucet is on the other side of the lever.  The rotation of the turntable will send a pulse to the faucet.  Select the wanted speed by right clicking the turntable with an empty hand.  There are four sides, so a single turntable can cycle four smelters/spigots.
+* Use a simple Chest + wooden hopper to feed a Melter
 
-* In the picture below, the turntable rotates the switch so all four melters are emptied automatically.  On top of the windmill's gearbox is a bamboo chime.  This block will emit a redstone signal when it rains, making sure the gearbox doesn’t get damaged.
+* Get a Liquid Hopper to pull molten metal from the Melter
 
-*  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_6.png)
+* Use a Lever to control multiple hoppers feeding into dedicated casts
 
 ## Which pickaxe to pick
 
@@ -860,20 +878,19 @@ Pick one of the following for holding lava:
 
 *  As many clay buckets as lava you need
 
-* A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_7.png) made from Syrmorite holds lava
+* A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
 * A 6 high buffalo gives you haste 3.
 
-* If you got a Tinker's stone hammer, you can speed up mining Hematite by placing cobble and mining that.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)
+* If you got a Tinker's stone hammer, you can speed up mining Hematite by placing cobble and mining that.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)
 
 * You can melt iron by reconfiguring your melter to be heated by a Seared Gauge. Note the automation section above to automate the faucet.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
 
 * Make a stone bucket and place in a table, then melt 2 clay and pour to make a bucket cast. Pouring 3 iron gives you a bucket. Use gold instead of clay if you think you'll need more buckets.(the watering can consumes the bucket in its recipe)
 
@@ -882,6 +899,8 @@ Placing a lid on the wooden barrel lets you pick it up into inventory.
 Before we can make a smeltery (required for age 3 alloys, useful for efficient and mass processing of ores), we need to take the side quest of the Between Lands. Because it has its own wood and tool tech tree, you'll need to start from roughly scratch.
 
 Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
+
+* Ring of Ascent to 100% chance drop from Betweenlands Bosses
 
 * The druids spawn when you enter the ritual area, giving you time to prep before the battle.
 
@@ -901,17 +920,17 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Find Bushes to get Weedwood sticks. The SevTech recipe killed weedwood planks -> weedwood sticks
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
 
-* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png)
+* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png)
 
 * Instead of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
 
-* This has been fixed. You spawn at the portal unless you reset it  Your spawnpoint in the Betweenlands is not set when you enter through a portal. So setting your spawn should be high priority. The first thing to make with your Syrmorite ingots is shears, to get moss, to get a moss bed and set your spawnpoint. 
+* This has been fixed. You spawn at the portal unless you reset it.
 
-* Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png) into donuts for 6 hunger bars.
+* Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) into donuts for 6 hunger bars.
 
-* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png).
+* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png).
 
 * To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one, they glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
 
@@ -947,7 +966,7 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * The pictured smeltery is fed by an upper from the ironwood crate. The basin/table are using wooden hoppers to extract items and blocks into an upper below the gold chest.The fluid hoppers are set to work on a high redstone signal from a lever above them.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
 ## Twilight Forest
 
@@ -1017,10 +1036,9 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * The Resonating Wand does not make the Crystal Rock Samples more visible, like it does in the standard mod with Starmetal Ore.
 
-* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
+* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1030,7 +1048,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * For the most part ones with poor stats are garbage and only really useful in lightwells and things that don't care about quality (which you can tell by checking if the output item has stats in the tooltip, eg. Mantle of Stars or Altars do not care about crystal stats as a part of their crafting component)
 
-* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
+* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
 
 * Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
 
@@ -1074,7 +1092,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * You can build yourself an indestructible chamber with the Illumination wand. Inside you place any kind of stone. When you wear Mantle of Stars attuned to Fornax and set yourself on fire (e.g. with flint & steal) you melt the stone to lava source blocks.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 ### Stellar Refraction Table Constellation Effects source
 
@@ -1260,17 +1278,17 @@ Looting</td>
 
 * Now that you have easier access to Obsidian the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
 
 ## Nether
 
-* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
+* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
 
 * When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a urn under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
 
 * Nether Amethyst Ore only spawns in the vanilla Hell biome (get a Biomeanalyzer). It's rare, so Fortune III is recommended
 
-* When farming a blaze spawner don't forget to make yourself some totems (fire protection). **Note luck doesn’t work on blazes**
+* When farming a blaze spawner don't forget to make yourself some totems (fire protection). 
 
 * Blood Magic's Sigil of the Phantom Bridge lets you get around easily, avoiding Thornstalks and Soul Sand
 
@@ -1306,7 +1324,7 @@ Looting</td>
 
 * You gain access to the Ore Excavation modifier in this age (alongside the ability to add modifiers in general). Check options for the keybindings available. Ctrl+OreEx keybind opens up a GUI that allows you to edit shapes if you want.
 
-* OreEx will continue mining blocks with your tool even if it breaks, it only stops when one of the following happens:
+* OreEx will continue mining blocks with your tool, it only stops when one of the following happens:
 
     * Your hunger hits zero
 
@@ -1319,8 +1337,6 @@ Looting</td>
 * Absolutely make yourself a Luck III pick (even 1 lapis + time or forking up the 360 lapis to quickly get to Luck III), either on your main pick or keep a spare just for the ores that are annoying to find (nether amethyst,  aquamarine, ...) (Just by adding only 1 Lapis will help, it slowly increases when used.)
 
     * Most geolosys ores are not affected by Luck, the ones affected by Fortune/Luck will be noted above in 	the Ore Distribution chart
-
-    * Mobs with modified drop tables such as Blazes and Endermen are not affected by Luck/Looting
 
 * Magma block/Netherrack over a Lightwell generates Lava for your furnace.
 
@@ -1338,7 +1354,7 @@ Looting</td>
 
     * The kiln is also another required machine
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_27.png)
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
@@ -1360,6 +1376,8 @@ Looting</td>
 
 * All machines in the 3 mods (Immersive Engineering, Tech, and Petroleum) use up a good amount of power. You want a just as effective power generation to power these machines, especially the constantly active ones. The strongest power generation possible at this level is Biodiesel, which produces 4096 rf/t with a upkeep requirement (due to the machines required to get the biodiesel) of 904 rf/t (wiki says Fermenter requires 8rf/t. Will double check because that seems really low).
 
+* Having 2 garden cloche feeding melon slices to the fermenter and 3 garden cloches feeding melon seeds to the squeezer should maintain 2 diesel generators working giving a constant 8192 rf/t.
+
 * Try to get the Crusher, Squeezer, and Arc furnace as early as possible. These three machines are the key components to ore doubling (finally!) and will be very helpful in the long run. Make sure to have the power to maintain these though, as they do use up a fair amount of power.
 
 * You have access to Garden Cloches. Use Pumpjack for the water (again, finite), and make sure to have the power to maintain them. These are very useful farms which also take up a very minimal space.
@@ -1369,6 +1387,32 @@ Looting</td>
 * The portable generator is a cheap and easy way to produce power, once you've acquired gasoline
 
 * Just make a boiler (not solar) and then only long enough to get two buckets of steam. That'll be enough to get to age 4, then you can use a heat exchanger (advanced generators) to get cheap steam. One bucket of lava makes at least 6x more steam than a bucket of diesel (and you can use the diesel for power or kerosene instead).
+
+## Power Generation
+
+* You have a few options for power generations at this point, most of which are connected to diesel.
+
+* Immersive Engineering: Having 4 garden cloche with melon seeds feeding melon slices to the fermenter melon seeds to the squeezer can maintain 2 diesel generators working, giving a constant 8192 rf/t.
+
+    * For infinite water use an Immersive Engineering Pump connected to a 2x2x2 hole full of water sources, use the hammer to set input to one side facing the water and output to the side facing the pipe. Needs energy and a redstone signal to work.
+
+    * For crafting melon into melon slices, and slices into seeds use 2 Automatic Crafter from Inductive Logistics, set them to craft 4 (1 from each garden cloche)  items at a time to speed them up.
+
+    * The Automatic crafter takes inputs from an adjacent inventory and you need pipes to extract the output.
+
+    * Any pipe should work, I like the Inductive logistic ones (extraction. Transport and injection).
+
+    * Obsidian chest are fairly cheap (8 obsidian blocks and a chest) and have plenty of inventory as a buffer.
+
+    * When out of energy a few watermills can "Jump Start" the setup.
+
+     ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_28.png)        ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_29.png)
+
+* Advanced Generators: A Gas turbine feed with Kerosene and with an Air/Gas Mixer for efficiency can give nice power output.
+
+    * To output RF from it use a Forge Generator connected to a Power Adapter.
+
+    * Adding a Gas Mix Compressor when enough ender pearl are available will further enhance the efficiency.
 
 ## Airship
 
@@ -1430,8 +1474,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Pneumaticcraft
 
@@ -1529,13 +1572,9 @@ Asteroid Belt
 
 * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_27.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_30.png)
 
-* Saturn
-
-    * Saturn Slime Ore has incorrect localization, in-world WAILA will recognize it as Saturn Surface Rock, and needs to be silk touched to get the ore itself (easily found on the surface in large patches of Saturn Infected Rock
-
-* Uranus, Neptune
+* Saturn, Uranus, Neptune
 
     * Same as the others, quarry it, loot it's dungeon
 
@@ -1547,7 +1586,7 @@ Asteroid Belt
 
 * Extended crafting tables have a block to allow for automation, it does take power tho.
 
-* Automating the metal press can be done by adding one extra conveyor belt and a hopper, normally you can just use a hopper, but any recipe that takes more than one item needs an extra belt.
+* Automating the metal press can be done by adding one extra conveyor belt and a hopper, normally you can just use a hopper, but any recipe that takes more than one item needs an extra belt.  Keep in mind that with this change, the hopper no longer directly inserts items into the conveyor.  This will cause items to despawn when doing large batches.
 
 # Creative age
 
