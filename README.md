@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.7 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2560173)
 
@@ -12,7 +20,9 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+1. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+2. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -41,8 +51,6 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 -7757505388919135334  (3.0.7) Spawn in Village, next to flat plains, Large bone structure and Shoggoth lair within 200 blocks of spawn. Rock Crystals just outside of town. Lava. 
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.jpg)
-
--3503285926045735642  (pre 3.0.5)  village (east), bone blocks, river, animals, swamp with shoggoth lair, shadow biome all somewhat near spawn point. 
 
 -115227398    (pre 3.0.5)  Start in AbyssalCraft biome, close village to NW (Another South of that one), nice open area to the east with river biome, large forest and lots of animals. Another village north on other side of tall hills across grassy plains with lots of streaming water..
 
@@ -102,7 +110,9 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * The dropoff button merges stuff in your inventory into nearby chests. Ie. if you have a nearby chest with cobble this dropoff button will push any cobble you have into that chest. If you're not already storing it then it should remain in your inventory.
 
-* FindMe lets you hover your mouse over an item in JEI, press 'Y' and any nearby chest with that item will smoke. 
+* FindMe lets you hover your mouse over an item in JEI, press 'Y' and any nearby chest with that item will smoke.
+
+* The Atlas (map) is now craftable for cases when you can't find a librarian, completing the quest at the same time.
 
 ## Step assist vs. auto-jump
 
@@ -660,7 +670,7 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Torch launcher : Provides a large supply of throwing torches
 
-* Monster spawners generate mossy cobblestone from regular cobble, making the mossy variant renewable. (possibly age 2 needed, can't confirm)
+* Monster spawners generate mossy cobblestone from regular cobble, making the mossy variant renewable.
 
 * SevTech contains the mod "Despawnable Spawners".  This mod is set up to destroy spawners (the cage block) after it has spawned 400 mobs.
 
@@ -876,8 +886,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1035,8 +1044,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1258,6 +1266,8 @@ Looting</td>
 
 * Vacuum/Ender Hopper
 
+* Minecarts (Vanilla and Steve's Carts 2)
+
 ## Obsidian
 
 * Obsidian is now available. It used to be cracked basalt but now appears in the world.
@@ -1338,7 +1348,7 @@ Looting</td>
 
 * Magma block/Netherrack over a Lightwell generates Lava for your furnace.
 
-* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have  10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
+* You can easily get repairable tinkers tools with mending moss (right click a moss ball on a bookcase + have 10 levels to give up) and copper parts which causes lots of exp drops (when mining stone for example)
 
 * You can clear out huge swaths of cobblestone using the Excavation + Blasting modifier + Gluttony charm + lots of food. Blasting 3 destroys all the cobble you mine. After blasting the stone you are left with easy to find veins. If you use Copper you get tons of XP as you're doing it. 100+ levels in 10 minutes.
 
@@ -1362,7 +1372,7 @@ Looting</td>
 
 ## Immersive Engineering/Tech/Petroleum
 
-* Put a crafting station next to your coke oven to easily make treated wood. The bucket input and output slots are visible as attached inventory slots in the crafting station.
+* Put a crafting station next to your coke oven to easily make treated wood. The bucket input and output slots are visible as attached inventory slots in the crafting station. You can also use a Jerrycan to do 10x crafting recipes at once.
 
 * Except power, first thing you should make is a Metal Press (more efficient rods and wires).
 
@@ -1372,19 +1382,81 @@ Looting</td>
 
 * The Pumpjack can also be used to collect non-oil liquids from the core (beneath bedrock), such as water and lava. This is one method of collecting the liquids for crafting uses, though do note that just like the oil this is finite.
 
-* All machines in the 3 mods (Immersive Engineering, Tech, and Petroleum) use up a good amount of power. You want a just as effective power generation to power these machines, especially the constantly active ones. The strongest power generation possible at this level is Biodiesel, which produces 4096 rf/t with a upkeep requirement (due to the machines required to get the biodiesel) of 904 rf/t (wiki says Fermenter requires 8rf/t. Will double check because that seems really low).
+* All machines in the 3 mods (Immersive Engineering, Tech, and Petroleum) use up a good amount of power. You want a just as effective power generation to power these machines, especially the constantly active ones. The strongest power generation possible at this level is Biodiesel, which produces 4096 rf/t with a upkeep requirement (due to the machines required to get the biodiesel) of 904 rf/t (wiki says Fermenter requires 8rf/t. Will double check because that seems really low). You can also wait until Age 4 and use a different powergen option, like the ones from Advanced Generators.
 
 * Having 2 garden cloche feeding melon slices to the fermenter and 3 garden cloches feeding melon seeds to the squeezer should maintain 2 diesel generators working giving a constant 8192 rf/t.
 
 * Try to get the Crusher, Squeezer, and Arc furnace as early as possible. These three machines are the key components to ore doubling (finally!) and will be very helpful in the long run. Make sure to have the power to maintain these though, as they do use up a fair amount of power.
 
-* You have access to Garden Cloches. Use Pumpjack for the water (again, finite), and make sure to have the power to maintain them. These are very useful farms which also take up a very minimal space.
+* You have access to Garden Cloches. Use Pumpjack for the water (again, finite), and make sure to have the power to maintain them. These are very useful farms which also take up a very minimal space. Alternatively, you can use a well bucket and a liquid hopper as an infinite water source.
 
 * You can attach a capacitor directly to your kinetic generator, no connectors needed
 
-* The portable generator is a cheap and easy way to produce power, once you've acquired gasoline
+* The portable generator is a cheap and easy way to produce power, once you've acquired gasoline. However, it's rather inefficient, and isn’t viable for building a self-sustaining oil industry. 
 
 * Just make a boiler (not solar) and then only long enough to get two buckets of steam. That'll be enough to get to age 4, then you can use a heat exchanger (advanced generators) to get cheap steam. One bucket of lava makes at least 6x more steam than a bucket of diesel (and you can use the diesel for power or kerosene instead).
+
+* If you are just rushing to Age 4, then consider re-using your modular machinery blocks to switch between the three modular machines required to make plastic. You only have to switch out one or two blocks to switch between chemical mixer to liquid processor and etc. But there won't be an alternative way to make plastic in Age 4, so you’ll need a full setup sooner or later.
+
+## Airship
+
+* Even though the airship looks cool, it's not on the main questline and it’s very expensive to make. It requires you to upgrade the extended crafting table, and then make the airship using a lot of resources. Prioritize other progression before making it.
+
+# Age 4
+
+**Ores:** Assorted Quartz (affected by Fortune), Silicon Ore, Ardite Ore (Nether normal gen) and Cobalt Ore (Nether normal gen)
+
+**Tools:**** **If you didn't unlock Journeymap in Age 2 or 3, it will automatically unlock on entering Age 4.
+
+**Key Items: **
+
+## Uncategorized Tips
+
+* IF's Rancher gets around BWA’s Fleece and harvests wool from sheep directly, this can also occasionally be a source of powdered dye production from further processing the coloring byproducts from crushing wool
+
+* IF's Water Condenstator produces about 100mb/t of water per water source block adjacent to it
+
+* Spawner Agitators get around the despawning spawners limit
+
+* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Dimensional Gateway. The Dimensional Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End. *you can name the gateway in an anvil and the name will appear above the star.
+
+* After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
+
+* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definitely easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above. Blood Magic’s Bound Pickaxe is Cobalt Level as well.
+
+* Refined Storage can be connected to a drawer controller via a [External Storage](https://refinedstorage.raoulvdberge.com/wiki/external-storage) connector.
+
+* Before going to the moon bring either a Dimensional Gateway or the ender utilities portal setup. The age advancement freezes your game for a little bit and can cause you to crash before the game unfreezes.
+
+* To get rocket fuel (just called fuel) you need to make an Oxygen collector and pipe the oxygen into an IE refinery with Kerosene.
+
+* Remember a parachute when traveling in the rocket, this isn't advance rocketry where the engine control the landing. You need a parachute or you will crash land. Note that when you travel to the moon it resets your spawn and you’ll be in a death loop as you respawn without your spacesuit.
+
+## Storage
+
+There are 3 main ME systems available: Refined Storage, Applied Energistics, and Simple Storage.
+
+Refined and Applied don't yet have the ability to do automated crafting, nor deep storage. Thus all 3 are at best a way to sort your junk into a central system that can make crafting much easier.
+
+### Simple Storage
+
+This mod allows you to connect the core storage block to your existing storage chest layout, as well as a tablet for remote access. This tablet comes in 2 flavors, a 64 block(?) radius, and an advanced one for multi-dimensional access. At this point in your progression the advanced tablet is not that expensive.
+
+### Refined Storage
+
+SevTech has gated refined storage on the same inscription plates that AE has, requiring a fair bit of tech either way. Thankfully you can craft them instead of exploration for meteors and a high tier pick. 
+
+The primary purpose in going this route is if you plan on upgrading to the computation plate in age 5 for auto-crafting.
+
+Because you don't have much in terms of storage, using obsidian chests and external storage busses will be the way to go for storage.
+
+#### Tips
+
+* Grab the wrench made out of quartz to rotate the inscriber, allowing you to use a hopper for all 3 inputs, thus automating circuits.
+
+### Applied Energistics
+
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
@@ -1412,76 +1484,15 @@ Looting</td>
 
     * Adding a Gas Mix Compressor when enough ender pearl are available will further enhance the efficiency.
 
-## Airship
-
-* Even though the airship looks cool, it's not on the main questline and it’s very expensive to make. It requires you to upgrade the extended crafting table, and then make the airship using a lot of resources. Prioritize other progression before making it.
-
-# Age 4
-
-**Ores:** Assorted Quartz (affected by Fortune), Silicon Ore, Ardite Ore (Nether normal gen) and Cobalt Ore (Nether normal gen)
-
-**Tools:**
-
-**Key Items: **
-
-## Uncategorized Tips
-
-* IF's Rancher gets around BWA’s Fleece and harvests wool from sheep directly, this can also occasionally be a source of powdered dye production from further processing the coloring byproducts from crushing wool
-
-* IF's Water Condenstator produces about 100mb/t of water per water source block adjacent to it
-
-* Spawner Agitators get around the despawning spawners limit
-
-* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Dimensional Gateway. The Dimensional Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End. *you can name the gateway in an anvil and the name will appear above the star.
-
-* After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
-
-* The only pre-cobalt pickaxe head able to mine cobalt is obsidian and Abyssalcraft metals (abbysalnite, refined coralium, dreadium). Abyssalnite is found in Darklands biomes below Y = 32. It's VERY rare. Refined coralium is made by smelting down Liquified Coralium, found at Y = 22 and below in the Abyssal Wasteland dimension (not too hard to find, definitely easier then abyssalnite). Note that the Abyssal Wastelands have a bunch of shrine looking things with ladders underneath them (you need to break a block to open the passage) with chests very often containing abyssalnite and other goodies. Dreadium ingots can be acquired in the Dreadlands most easily by using the Transmutator on certain mob drops from that dimension. Just don’t use a tool made from Dreadium as a weapon, as explained above. Blood Magic’s Bound Pickaxe is Cobalt Level as well.
-
-* Refined Storage can be connected to a drawer controller via a [External Storage](https://refinedstorage.raoulvdberge.com/wiki/external-storage) connector.
-
-* Before going to the moon bring either a Dimensional Gateway or the ender utilities portal setup. The age advancement freezes your game for a little bit and can cause you to crash before the game unfreezes.
-
-* To get rocket fuel (just called fuel) you need to make an Oxygen collector and pipe the oxygen into an IE refinery with Kerosene.
-
-* Remember a parachute when traveling in the rocket, this isn't advance rocketry where the engine control the landing. You need a parachute or you will crash land. Note that when you travel to the moon it resets your spawn and you’ll be in a death loop as you respawn without your spacesuit.
-
-* If you didn't unlock Journeymap in Age 2 or 3, it will automatically unlock on entering Age 4.
-
-## Storage
-
-There are 3 main ME systems available: Refined Storage, Applied Energistics, and Simple Storage.
-
-Refined and Applied don't yet have the ability to do automated crafting, nor deep storage. Thus all 3 are at best a way to sort your junk into a central system that can make crafting much easier.
-
-### Simple Storage
-
-This mod allows you to connect the core storage block to your existing storage chest layout, as well as a tablet for remote access. This tablet comes in 2 flavors, a 64 block(?) radius, and an advanced one for multi-dimensional access. At this point in your progression the advanced tablet is not that expensive.
-
-### Refined Storage
-
-SevTech has gated refined storage on the same inscription plates that AE has, requiring a fair bit of tech either way. Thankfully you can craft them instead of exploration for meteors and a high tier pick. 
-
-The primary purpose in going this route is if you plan on upgrading to the computation plate in age 5 for auto-crafting.
-
-Because you don't have much in terms of storage, using obsidian chests and external storage busses will be the way to go for storage.
-
-#### Tips
-
-* Grab the wrench made out of quartz to rotate the inscriber, allowing you to use a hopper for all 3 inputs, thus automating circuits.
-
-### Applied Energistics
-
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
-
 ## Pneumaticcraft
 
-You need to get your hands on compressed iron. The metal press has a plate for that. It's easy to assemble the pressure chamber 3x3x3. Remember to make 2 interfaces and a valve. The interfaces has an "I" or input side and an “O” side or output. Make sure you have one input and one output on the outside of the chamber. Hook up an air compressor with pipes to the valve and use a lever on the compressor to turn it on and off (you will need to configure it). Place a chest on the output interface and a hopper going into the input interface. You are still able to click on the output interface and you need to setup filters so it won’t pull out the items you are trying to process. Start with filtering for compressed iron and then throwing in iron ingots into the hopper. With pressure adding to the system you should be able to get compressed iron much easier.
+You need to get your hands on compressed iron. The metal press has a plate for that, but it's much more efficient to use TNT for it (Only 20% loss compared to 55%). It’s easy to assemble the pressure chamber 3x3x3. Remember to make 2 interfaces and a valve. The interfaces has an "I" or input side and an “O” side or output. Make sure you have one input and one output on the outside of the chamber. Hook up an air compressor with pipes to the valve and use a lever on the compressor to turn it on and off (you will need to configure it). Place a chest on the output interface and a hopper going into the input interface. You are still able to click on the output interface and you need to setup filters so it won’t pull out the items you are trying to process. Start with filtering for compressed iron and then throwing in iron ingots into the hopper. With pressure adding to the system you should be able to get compressed iron much easier.
 
-Warning pressure has a max and you can have machine blow up if they go into the red. This is why its important to be able to shut off the compressor.
+Warning pressure has a max and you can have machine blow up if they go into the red. This is why its important to be able to shut off the compressor. Safety valves and security upgrades can be useful in preventing explosions, and you can shut off the compressor using a simple redstone + pressure gauge system.
 
-You will need a plastic mixer to get colored plastic (note this plastic is different from the Industrial Foregoing plastic) The mixer requires heat, a torch is very slow to heat, lava is slow and will turn to obsidian after a while. You can use blood magic's serenade of the nether to get lava and place it all around the mixer to speed up the heat. Using molten plastic from Modular Machines bypasses the need to be heated. It uses red,green, and blue dye powder to color the plastic and if heated high enough can remelt unused plastics.
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_29.jpg)
+
+You will need a plastic mixer to get colored plastic (note this plastic is different from the Industrial Foregoing plastic) The mixer requires heat, a torch is very slow to heat, lava is slow and will turn to obsidian after a while. You can use blood magic's serenade of the nether to get lava and place it all around the mixer to speed up the heat. Or you can just use a vortex heater. Using molten plastic from Modular Machines bypasses the need to be heated. It uses red,green, and blue dye powder to color the plastic and if heated high enough can remelt unused plastics.
 
 Compressed iron and green plastic makes a circuit board, which then you place in the UV light (which does require pressure) after it hits 100% through it in some etching acid (made in the pressure chamber) Note with items floating in this pack make sure you block in your acid completely, half stabs on the bottom will let the board flow out of the acid. 
 
@@ -1571,7 +1582,7 @@ Asteroid Belt
 
 * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_29.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_30.png)
 
 * Saturn, Uranus, Neptune
 
