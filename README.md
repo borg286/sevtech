@@ -1,3 +1,11 @@
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.7 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2560173)
@@ -12,9 +20,11 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+1. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-2. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+2. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+3. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -292,7 +302,7 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * Fencing animals in a pen
 
-    * Wildberry bushes
+    * Wildberry bushes (Note: At times the animals can glitch past the bushes.)
 
     * 2 Dirt makes Dirt slabs. Dig 1 block down and surround pen with slabs
 
@@ -418,21 +428,27 @@ Totem rituals allow you to make instruments, play a tune before the timer runs o
 
 Tutorial video: [https://www.youtube.com/watch?v=NXXumiUuZlw](https://www.youtube.com/watch?v=NXXumiUuZlw) 
 
+You need a **totem near your instrument setup**, otherwise rituals never start.
+
 Start a ritual by shift clicking the instruments in certain orders. After the ritual is started just hit the instruments in the right order.
 
-Each instrument when activating a ritual has a set amount of music it can produce, you need multiple instruments on hand to complete most rituals. Eagle Bone > Jingle Dress = Drum > Rattle = Wind Chime > Flute
+* Each instrument when activating a ritual has a set amount of music it can produce, you need multiple instruments (ie. make 6+ drums and 2+ chimes) on hand to complete most rituals. Eagle Bone > Jingle Dress = Drum > Rattle = Wind Chime > Flute
 
-The first ritual you should do is the Infused Flute, giving you an infused flute, which makes it randomly perform as well as a drum or rattle each time you play.
+* After being played for a few times that instrument becomes 'boring' but still contributes ¾ of its peak ‘music’ thereafter.
 
-You can play the drum with the rattle to activate both instruments at once. In same time you can use flute in offhand.
+* The first ritual you should do is the Infused Flute ritual, giving you an infused flute, which makes it randomly perform as well as a drum or rattle each time you play.
 
-**Place the instrument set near your farm and do the Zaphkiel Waltz ceremony for crazy fast plant growth.**
+* Each instrument has a cooldown before it can be played again. While juggling 3+ flute/rattles isn't feasible, you can have multiple drums around while you wait for the others to cool down. 
 
-Get the Jingle Skirt for a significant boost. (costs 3 bones, 3 sugar cane per jingle item!)
+* You can play the drum with the rattle to activate both instruments at once. In same time you can use flute in offhand.
 
-Once you get enough bone and sugarcane, make wind chimes and place under leaves (flint/bone shears cuts leaves) to improve their performance. Enough of them can complete the ritual alone.
+* **Place the instrument set near your farm and do the Zaphkiel Waltz ceremony for crazy fast plant growth.**
 
-Hate the rain? Instead of waiting for the Draconic Evolution block or cheating with admin commands, just do the dry ritual. Wonderfully low tech way to shut up that gloomy and loud rain.
+* Get the Jingle Skirt for a significant boost. (costs 3 bones, 3 sugar cane per jingle item!) It activates with movement, so placing your drums in a row and strafing is optimal. You also feel really tribal running around.
+
+* Once you get enough bone and sugarcane, make wind chimes and place under leaves (flint/bone shears cuts leaves) to improve their performance.
+
+* Hate the rain? Instead of waiting for the Draconic Evolution block or cheating with admin commands, just do the dry ritual. Wonderfully low tech way to shut up that gloomy and loud rain.
 
 # Age 1
 
@@ -546,15 +562,11 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * If you're playing on a server and the Shoggoth lairs have been emptied, you can trade for flesh with villagers, or with the Farming for Blockheads Market
 
-* Video tutorial on finding and dealing with Shoggoth: 
+* Dealing with Shoggoth
 
-    * [https://www.youtube.com/watch?v=mORTlnKoqHQ](https://www.youtube.com/watch?v=mORTlnKoqHQ)
+    * Since they spit acid, which can possible destroy your grave it is best to deal with them in water
 
-    * Alternatively you can mine out a 1 block wide path into their spawn area and then make room behind you for 3 totems, 6 high pig for luck, 6 high wolf for strength, and 6 high cow for resistance, and 1 high endermen. Combine with bronze leggings and any available armor and you should be able to withstand their heavy blows.
-
-    * Other method is to block exit of theirs room on stairs, leaving a space to smash them with spear, while having totems on top of blocking blocks.
-
-    * Their hitbox is small and closer to the back of their skull. I guess this was to say the only way to deal with them is to out-smart them, namely by attacking their intelligence directly.
+    * Make a squid totem and lure them into the depths where their slime has no effect.
 
     * Spear has a bigger range than other weapons and it can be used to punch them without being touched even once. Combined with wolf totem it does a massive damage.
 
@@ -578,9 +590,11 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 Your goal is to get a handful of Black Quartz (for actually additions) and Aquamarine (for Astral Sorcery)
 
-* While the Melter can't alloy tin and copper, you can use the kiln to get bronze, then melt it down, and pour into a block.
+* To get the needed Bronze Block know that the Melter can't alloy tin and copper. You can however use the kiln to get bronze, then melt it down in the Melter, and pour into a block.
 
-* Darkness in the beneath hurts, so take a couple stacks of torches. Recall that coal doesn't spawn everywhere, and for every charcoal you take bring equal twine. Alternatively take a flint workblade to shrubs and leaves to get loads of twine and sticks. Craft fibre torches, light them, then craft with 2 sticks to make Totem torches, ie. bypassing charcoal altogether.
+* Darkness in the beneath hurts, so take a couple stacks of torches. Take a flint workblade to shrubs and leaves to get loads of twine and sticks. Craft fibre torches, light them on a fire, then craft with 2 sticks to make Totem torches (more bright). You'll also want a fair bit of throwable torches (Glue + normal torch).
+
+* It can be helpful to keep multiple totem whittling knives on your hotbar in dangerous areas like The Beneath. Keep each one set to a different aspect. Being able to make wolf and cow totems quickly and easily while kiting mobs around can be a life saver.
 
 * Your "Beneath" teleporter can be moved. Either dig down or pillar up before placing and entering the Beneath. See next note to know when to stop.
 
@@ -596,9 +610,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Craft 1 dirt with 1 stick to make 64 Responsive Scaffolding. Right click in air to place a block directly in front of you. If you shift right click scaffolding on a block, it'll place it on the other side of the block (up to a certain distance) and you can climb it like ladders. Really great for getting up to the aquamarine. Just be careful, if any piece of scaffolding is broken, all connected pieces will break too
 
-* You can get throwable torches by crafting 8 regular torches with glue. This is great for handling dungeons and areas with spawners.
-
-* When you first get into the beneath, mark your spot, because it is a pain finding your way home
+* When you first get into the beneath, mark your spot on your atlas, because it is a pain finding your way back.
 
 * You can speed down a strip mine by running and jumping the whole way
 
@@ -618,7 +630,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 ## Better With Mods
 
-* Before we get into Astral Sorcery we need a Saw to get the bark off of Mulberry wood.  Here is what a Mulberry tree looks like:
+* Before we get into Astral Sorcery we need a BetterWithMods Saw to get the bark off of Mulberry wood.  Here is what a Mulberry tree looks like:
 
  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_5.png)
 
@@ -840,9 +852,9 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 ### [Optional] Tool Forge
 
-You can make a Tool forge by burning grout into seared stone and 4 tin/copper blocks.
+You can make a Tool forge by burning grout into seared stone and 4 Iron (Not copper/tin anymore) blocks (See below for getting Iron).
 
-* Bronze is the only liquid metal worth making casts for at the moment.
+* Bronze and Iron is the only liquid metal worth making casts for at the moment.
 
 * Stone on the other hand, doesn't require casts, and can be repaired easily. Recall parts can be swapped out when you get a full smeltery for better parts.
 
@@ -866,7 +878,7 @@ You can make a Tool forge by burning grout into seared stone and 4 tin/copper bl
 
 ## Getting Iron
 
-Iron is now open, but your melter isn't going to get hot enough. In addition to tracking it down and mining it, you’ll need lava in either a porcelain or seared tank (matching your melter)
+Iron (Hematite which has a brown color; Malachite (copper) is green) is now open, but your melter isn't going to get hot enough. In addition to tracking it down and mining it, you’ll need lava in either a porcelain or seared tank (matching your melter)
 
 ### Handling lava
 
@@ -878,12 +890,11 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
-* A 6 high buffalo gives you haste 3.
+* A 6 high buffalo totem gives you haste 3.
 
 * If you got a Tinker's stone hammer, you can speed up mining Hematite by placing cobble and mining that.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)
 
@@ -891,7 +902,7 @@ Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
 
-* Make a stone bucket and place in a table, then melt 2 clay and pour to make a bucket cast. Pouring 3 iron gives you a bucket. Use gold instead of clay if you think you'll need more buckets.(the watering can consumes the bucket in its recipe)
+* Make a stone bucket and place in a table, then melt 2 gold or clay and pour to make a bucket cast. Pouring 3 iron gives you a bucket. Use gold instead of clay if you think you'll need more buckets.(the watering can consumes the bucket in its recipe)
 
 ## The Between Lands
 
@@ -913,7 +924,7 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Take neither non-cooked food (berries -> rotten, hearty stew is fine), bedding, Vanilla Torches nor weak weapons (overworld diamond < between wood sword)
 
-* Totem torches work normally in the Between lands. Furthermore the torch launcher also works but this could be considered cheating as the world uses you placing torches to trigger making them damp, and the launcher doesn't hit the same codepath.
+* Totem torches work normally in the Between lands. Furthermore the torch launcher also works but this could be considered cheating as the world uses you placing torches to trigger making them damp, and the launcher doesn't hit the same codepath. Blood magic’s Sigil of the blood lamp works here as well, and lets you throw light.
 
 * Setting the spawn point with a sleeping bag apparently works.
 
@@ -1037,8 +1048,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
@@ -1101,7 +1111,6 @@ Furthermore you can link betweenlands portals with the swamp talisman
 <table>
   <tr>
     <td>Constellation</td>
-    <td></td>
     <td>Potion</td>
     <td>Weapons</td>
     <td>Armor</td>
@@ -1110,7 +1119,6 @@ Furthermore you can link betweenlands portals with the swamp talisman
   </tr>
   <tr>
     <td>Aevitus</td>
-    <td></td>
     <td>Regeneration</td>
     <td>Mending</td>
     <td>Mending</td>
@@ -1119,7 +1127,6 @@ Furthermore you can link betweenlands portals with the swamp talisman
   </tr>
   <tr>
     <td>Discidia</td>
-    <td></td>
     <td>Strength</td>
     <td>Sharpness
 Power</td>
@@ -1130,7 +1137,6 @@ Power</td>
   </tr>
   <tr>
     <td>Armara</td>
-    <td></td>
     <td>Resistance</td>
     <td>N/A</td>
     <td>Protection</td>
@@ -1139,7 +1145,6 @@ Power</td>
   </tr>
   <tr>
     <td>Vicio</td>
-    <td></td>
     <td>Speed</td>
     <td>N/A</td>
     <td>Feather Falling</td>
@@ -1148,7 +1153,6 @@ Power</td>
   </tr>
   <tr>
     <td>Evorcio</td>
-    <td></td>
     <td>Haste
 Attack Speed</td>
     <td>N/A</td>
@@ -1158,7 +1162,6 @@ Attack Speed</td>
   </tr>
   <tr>
     <td>Mineralis</td>
-    <td></td>
     <td>Haste
 Attack Speed</td>
     <td>N/A</td>
@@ -1168,7 +1171,6 @@ Attack Speed</td>
   </tr>
   <tr>
     <td>Fornax</td>
-    <td></td>
     <td>Fire Resist</td>
     <td>Fire Aspect
 Flame</td>
@@ -1180,7 +1182,6 @@ Scorching Heat</td>
   </tr>
   <tr>
     <td>Octans</td>
-    <td></td>
     <td>Water Breathing</td>
     <td>N/A</td>
     <td>Respiration</td>
@@ -1189,7 +1190,6 @@ Scorching Heat</td>
   </tr>
   <tr>
     <td>Lucerna</td>
-    <td></td>
     <td>Night Vision</td>
     <td>N/A</td>
     <td>Night Vision</td>
@@ -1198,7 +1198,6 @@ Scorching Heat</td>
   </tr>
   <tr>
     <td>Bootes</td>
-    <td></td>
     <td>Saturation</td>
     <td>N/A</td>
     <td>N/A</td>
@@ -1207,7 +1206,6 @@ Scorching Heat</td>
   </tr>
   <tr>
     <td>Pelotrio</td>
-    <td></td>
     <td>Regeneration
 Absorption</td>
     <td>Mending</td>
@@ -1217,7 +1215,6 @@ Absorption</td>
   </tr>
   <tr>
     <td>Horologium</td>
-    <td></td>
     <td>Speed
 Haste
 Atk Spd</td>
@@ -1360,6 +1357,8 @@ Looting</td>
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
+* Nether Sludge can be hand crafted to Unfired Netherbrick that can be placed into the cyclic block placer, this was changed in 3.0.7 as a way to automate the creation of nether bricks in the kiln. You can then use the Dark Utilities Ender Hopper to automatically pick the dropped Netherbrick up of the ground into a chest, just place the chest under the hopper.
+
 * In a kiln you can make Melon Pie(2 watermelon+raw egg+flour+sugar): **4% Fruit**
 
 * When you put a Better with mods Crucible above the stoked fire you can melt down armor (gold and iron) to ingots and nuggets. Combo this with the hunting dimension and a mob grinder there to get infinite gold and iron.
@@ -1448,26 +1447,31 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 * Grab the wrench made out of quartz to rotate the inscriber, allowing you to use a hopper for all 3 inputs, thus automating circuits.
 
+* Actually Additions Large Crates hold considerably more items than obsidian chests and can interact with the external interface
+
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
 * You have a few options for power generations at this point, most of which are connected to diesel.
 
-* Immersive Engineering: Having 4 garden cloche with melon seeds feeding melon slices to the fermenter melon seeds to the squeezer can maintain 2 diesel generators working, giving a constant 8192 rf/t.
+* Immersive Engineering: Having 4 garden cloche with melon seeds feeding melon slices to the fermenter and hemp fiber seeds  to the squeezer can maintain 2 diesel generators working, giving a constant 8192 rf/t, use MV connections and not LV.
 
     * For infinite water use an Immersive Engineering Pump connected to a 2x2x2 hole full of water sources, use the hammer to set input to one side facing the water and output to the side facing the pipe. Needs energy and a redstone signal to work.
 
-    * For crafting melon into melon slices, and slices into seeds use 2 Automatic Crafter from Inductive Logistics, set them to craft 4 (1 from each garden cloche)  items at a time to speed them up.
+    * Adding a tank between the refinery and the generator can give a Biodisel buffer
+
+    * For crafting melon into melon slices use an Automatic Crafter from Inductive Logistics, set them to craft 4 (1 from each garden cloche)  items at a time to speed them up.
+
+        * Alternatively a compacting drawer will also convert a melon to 9 slices. You'll need to filter the output to only the slices (easiest way is to another locked drawer with slices), and the compacting drawer is a little expensive at this stage, but might be worth considering.
 
     * The Automatic crafter takes inputs from an adjacent inventory and you need pipes to extract the output.
 
-    * Any pipe should work, I like the Inductive logistic ones (extraction. Transport and injection).
+    * Any pipe should work, I like the Inductive logistic ones (Extraction, Transport and Injection).
 
-    * Obsidian chest are fairly cheap (8 obsidian blocks and a chest) and have plenty of inventory as a buffer.
+    * The Obsidian chest is fairly cheap (8 obsidian blocks and a chest) and has plenty of inventory.
 
     * When out of energy a few watermills can "Jump Start" the setup.
 
@@ -1527,6 +1531,8 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 * Once you have decent power generation, a T1 Void miner from EnvironmentalTech is easy to make. It needs about 660RF/t.
 
+    * Note that in the 3.0.7 version, the different lens for the void miner are broken, and seem to do the opposite of what is intended. This is fixed in the latest version of EnvTech, but for now expect a LONG time getting the different crystals for each tier.
+
 ## Storage
 
 * Quantum Storage Disks (from Quantum Storage compat with Refined Storage) store 2.14B items of any types and are very cheap, it trivializes most other storage options in the pack
@@ -1545,15 +1551,17 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 * The Spawner Seeker from Cyclic can be used to find the dungeons on the planets.  It has a range of 128 blocks and will find the spawners in the dungeon.  You may have to make multiple jumps using the slime sling but it's often easier than searching for the entrances.
 
-* Radiation can become a problem.  If you are having issues with high radiation, consider making the Blood Magic Lapis Lazuli ritual (block of lapis on an Imperfect Ritual Stone).  When clicked, this will set the time to night and you can sleep to reduce radiation,  This can be repeated as necessary.  Not that sleeping will only reduce radiation by 5% of your current value.
-
 ### Moon
 
 * Can trade for the Tier 2 Rocket schematics with villagers if you don't feel dungeon crawling for one
 
+    * Note: you need the buggy schematic to get the rocket and the rocket to get the buggy schematic.
+
 * GalactiCraft ores are not staged, and therefore fake players can quarry them
 
     * For quarrying, the two best options are RFtools Builders with a storage filter module (for blacklisting) or a Mekanism Digital Miner
+
+        * Some ores (ilmenite being one) do have issues with metadata matching with ores. There are some cases where you may not be able to use a filter from RFTools and have to void off the materials you don't need. The Builder has a problem with filtering out the Ilmenite with the base rocks. Storage Drawers with void upgrades work great for this on the otherhand.
 
     * Note that the ingots are not the same as the ones you've created up till now, so you may find crafting recipes don’t work with them.
 
@@ -1567,11 +1575,19 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 Asteroid Belt
 
-* Ilmenite (titanium) is found in the asteroids along with meteoric iron.  You will have to use silk touch to pick up the ore as the current version (3.0.6) does not have processing patterns for the shards dropped normally.  As with all the planets, a silk touch quarry is recommended as the asteroids can be far apart and are typically covered with mobs.
+* Ilmenite (titanium) is found in the asteroids along with meteoric iron.  
 
 ### Mercury
 
-* One of the few GalactiCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment
+* One of the few GalactiCraft planets where you actually need the pressure suit as Armara + natural food regen cannot out heal the damage from this planet's environment.
+
+* Mercury is required, not Venus.
+
+### Venus
+
+* Venus is super corrosive, as are the other gas giants. Sadly this is the only place to get the item that counteracts the corrosion. If you don't have enough regen then you’ll die and respawn on venus forever. So before you go here plan on teching up to fast regen. Probably will need to do the Armara regen, or possibly bring an rftools env controller with remote power to do some regen, or use a nanotech beacon with regen.
+
+* The Tier 4 rocket plan say it's from Venus, but it's really from Mercury.
 
 ### Jupiter
 
@@ -1592,6 +1608,12 @@ Asteroid Belt
 * Extended crafting tables have a block to allow for automation, it does take power tho.
 
 * Automating the metal press can be done by adding one extra conveyor belt and a hopper, normally you can just use a hopper, but any recipe that takes more than one item needs an extra belt.  Keep in mind that with this change, the hopper no longer directly inserts items into the conveyor.  This will cause items to despawn when doing large batches.
+
+## Mystical Agriculture:
+
+Tier 6 seeds work in the Garden Cloche, but don't work with dirt. You'll need the appropriate Crux as the "dirt", or a block of Insanium Essence for the tier 6 Inferium seed.
+
+Garden Cloches are pretty fast with mystical agriculture/other crops, but I found that a 9x9 field surrounded by Cyclic sprinklers + 1 in the center is a bit faster. A Cyclic Harvester set to Area will do the area all at once also. Other alternatives like the AA farmer or IF Plant Gatherer can't keep up with the speed of the overlapping sprinklers. The Harvester does take RF power, even though it looks like it only takes coal as power.
 
 # Creative age
 
@@ -1616,320 +1638,199 @@ You can complete individual quests with the following command followed by one of
     <td>stage0</td>
     <td>stage1</td>
     <td>stage2</td>
-    <td>stage3</td>
-    <td>stage4</td>
-    <td>stage5
-</td>
   </tr>
   <tr>
     <td>kiln</td>
     <td>claybarrel</td>
     <td>stevescarts</td>
-    <td>crudeoil</td>
-    <td>silicon</td>
-    <td>wirelesscharger</td>
   </tr>
   <tr>
     <td>saltflats</td>
     <td>tin</td>
     <td>market</td>
-    <td>iehammer</td>
-    <td>ardite</td>
-    <td>creativemodifer</td>
   </tr>
   <tr>
     <td>horsechopper</td>
     <td>woodbasin</td>
     <td>depth</td>
-    <td>drawercontroller</td>
-    <td>rsgrid</td>
-    <td>creativeenergycube</td>
   </tr>
   <tr>
     <td>tipi</td>
     <td>gearbox</td>
     <td>smeltertank</td>
-    <td>blazerod</td>
-    <td>cobalt</td>
-    <td>emerald</td>
   </tr>
   <tr>
     <td>grill</td>
     <td>prospector</td>
     <td>lapis</td>
-    <td>projector</td>
-    <td>launchpad</td>
-    <td>diamond</td>
   </tr>
   <tr>
     <td>workblade</td>
     <td>parchment</td>
     <td>gold</td>
-    <td>rails</td>
-    <td>blockheads1</td>
-    <td>inferiumessence</td>
   </tr>
   <tr>
     <td>flintknapp</td>
     <td>cart</td>
     <td>stopwatch</td>
-    <td>steel</td>
-    <td>amadrontablet</td>
-    <td>prospectorstage5</td>
   </tr>
   <tr>
     <td>chestupgrade</td>
     <td>stepup</td>
     <td>resonatingwand</td>
-    <td>oreprospector</td>
-    <td>manyullyn</td>
-    <td>diamondjetpack</td>
   </tr>
   <tr>
     <td>fish</td>
     <td>bloodaltar</td>
     <td>mapping</td>
-    <td>circuitboard</td>
-    <td>solidendereye</td>
-    <td>t2rocket</td>
   </tr>
   <tr>
     <td>melterbase</td>
     <td>parrot</td>
     <td>paper</td>
-    <td>bauxite</td>
-    <td>printedcircuitboard</td>
-    <td>charger3</td>
   </tr>
   <tr>
     <td>atlas</td>
     <td>beneath</td>
     <td>piston</td>
-    <td>liquidplastic</td>
-    <td>endercrafter</td>
-    <td>osmium</td>
   </tr>
   <tr>
     <td>farmland</td>
     <td>astable</td>
     <td>wool</td>
-    <td>vacuumtube</td>
-    <td>certusquartz</td>
-    <td>spacesuit4</td>
   </tr>
   <tr>
     <td>woodhopper2</td>
     <td>dung</td>
     <td>starpowder</td>
-    <td>standardhull</td>
-    <td>moon</td>
-    <td>neptune</td>
   </tr>
   <tr>
     <td>lead</td>
     <td>chest</td>
     <td>skywave</td>
-    <td>netherbrick</td>
-    <td>enderalloy3</td>
-    <td>ultimateingot</td>
   </tr>
   <tr>
     <td>charcoal</td>
     <td>alloykiln</td>
     <td>extendedcraftingbasic</td>
-    <td>creosote</td>
-    <td>pressurechamberwall</td>
-    <td>creativefluidtank</td>
   </tr>
   <tr>
     <td>wheel</td>
     <td>crafting</td>
     <td>betweenlands</td>
-    <td>filteredhopper</td>
-    <td>inscriber</td>
-    <td>electrumjetpack</td>
   </tr>
   <tr>
     <td>flamehopper</td>
     <td>hoe</td>
     <td>bucket</td>
-    <td>platinum</td>
-    <td>extendedcraftingelite</td>
-    <td>scanner</td>
   </tr>
   <tr>
     <td>workstump</td>
     <td>axle</td>
     <td>enderman</td>
-    <td>iebook</td>
-    <td>spacesuit</td>
-    <td>cheese</td>
   </tr>
   <tr>
     <td>abyssalgem</td>
     <td>huntingdim</td>
     <td>twilight</td>
-    <td>conveyorbelt</td>
-    <td>machinecasing</td>
-    <td>prosperityshard</td>
   </tr>
   <tr>
     <td>weaponize</td>
     <td>furnace</td>
     <td>tcontable2</td>
-    <td>woodhull</td>
-    <td>compressor</td>
-    <td>desh</td>
   </tr>
   <tr>
     <td>upgrade</td>
     <td>turntable</td>
     <td>weedwoodsticks</td>
-    <td>galgadorian</td>
-    <td>laserassembly</td>
-    <td>mars</td>
   </tr>
   <tr>
     <td>fiber</td>
     <td>coal</td>
     <td>weedwoodsword</td>
-    <td>redstone</td>
-    <td>plasticmixer</td>
-    <td>creativecompressor</td>
   </tr>
   <tr>
     <td>woodenbarrel</td>
     <td>bucket</td>
     <td>rockcrystal</td>
-    <td>naphtha</td>
-    <td>ae2panel</td>
-    <td>skystone</td>
   </tr>
   <tr>
     <td>totemic</td>
     <td>blackquartz</td>
     <td>compass</td>
-    <td>workbench</td>
-    <td>compressediron</td>
-    <td>emeraldjetpack</td>
   </tr>
   <tr>
     <td>horsepower</td>
     <td>tchannel</td>
     <td>drawertable</td>
-    <td>amethyst</td>
-    <td>t1rocket</td>
-    <td>creativejetpack</td>
   </tr>
   <tr>
     <td>lowgradecharcoal</td>
     <td>statue</td>
     <td>biomealyzer</td>
-    <td>oreexcavation</td>
-    <td>prospector4</td>
-    <td>ultimatecraftingtable</td>
   </tr>
   <tr>
     <td>handgrind</td>
     <td>pedestal</td>
     <td>wateringcan</td>
-    <td>steam</td>
-    <td>fuelloader</td>
-    <td>marsrover</td>
   </tr>
   <tr>
     <td>collectplank</td>
     <td>plumbline</td>
     <td>dowsingrod</td>
-    <td>bellows</td>
-    <td>enderalloy1</td>
-    <td>saturn</td>
   </tr>
   <tr>
     <td>tomahawk</td>
     <td>stoneanvil</td>
     <td>iron</td>
-    <td>propene</td>
-    <td>blockheads3</td>
-    <td></td>
   </tr>
   <tr>
     <td>melter</td>
     <td>aqueduct</td>
     <td>conpaper</td>
-    <td>sampledrill</td>
-    <td>enderalloy2</td>
-    <td></td>
   </tr>
   <tr>
     <td>abyssalbiome</td>
     <td>necro</td>
     <td>lightwell</td>
-    <td>windmill</td>
-    <td>blockheads2</td>
-    <td></td>
   </tr>
   <tr>
     <td>mill</td>
     <td>leafbed</td>
     <td>glass</td>
-    <td>modularmachinery</td>
-    <td>theend</td>
-    <td></td>
   </tr>
   <tr>
     <td>buffalo</td>
     <td>extension</td>
     <td>tcontable1</td>
-    <td>hibachi</td>
-    <td>nasaworkbench</td>
-    <td></td>
   </tr>
   <tr>
     <td>firsttool</td>
     <td>aquamarine</td>
     <td>controller</td>
-    <td>silverlead</td>
-    <td>presses</td>
-    <td></td>
   </tr>
   <tr>
     <td>saddle</td>
     <td>journal</td>
     <td>tcontable3</td>
-    <td>distillation2</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>firepit</td>
     <td>bronze</td>
     <td>astable2</td>
-    <td>extendedcrafting1</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>spear</td>
     <td>waterwheel</td>
     <td>weird</td>
-    <td>netherexbiome</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>firstbreak</td>
     <td>copper</td>
     <td></td>
-    <td>viescraft</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>baykok</td>
-    <td></td>
-    <td></td>
-    <td>waterwheel</td>
     <td></td>
     <td></td>
   </tr>
@@ -1937,15 +1838,9 @@ You can complete individual quests with the following command followed by one of
     <td>firstchest</td>
     <td></td>
     <td></td>
-    <td>stevescartsassembler</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>mesh</td>
-    <td></td>
-    <td></td>
-    <td>potash</td>
     <td></td>
     <td></td>
   </tr>
@@ -1953,15 +1848,9 @@ You can complete individual quests with the following command followed by one of
     <td>fluidbladder</td>
     <td></td>
     <td></td>
-    <td>plastic</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>mat</td>
-    <td></td>
-    <td></td>
-    <td>bonehoe</td>
     <td></td>
     <td></td>
   </tr>
@@ -1969,15 +1858,9 @@ You can complete individual quests with the following command followed by one of
     <td>leather</td>
     <td></td>
     <td></td>
-    <td>compactmachines</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>woodhopper1</td>
-    <td></td>
-    <td></td>
-    <td>netherwart</td>
     <td></td>
     <td></td>
   </tr>
@@ -1985,15 +1868,9 @@ You can complete individual quests with the following command followed by one of
     <td>fire</td>
     <td></td>
     <td></td>
-    <td>nether</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>gear</td>
-    <td></td>
-    <td></td>
-    <td>buildcraft</td>
     <td></td>
     <td></td>
   </tr>
@@ -2001,7 +1878,9 @@ You can complete individual quests with the following command followed by one of
     <td>stonetools</td>
     <td></td>
     <td></td>
-    <td>nickel</td>
+  </tr>
+  <tr>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -2009,6 +1888,262 @@ You can complete individual quests with the following command followed by one of
     <td></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>stage3</td>
+    <td>stage4</td>
+    <td>stage5</td>
+  </tr>
+  <tr>
+    <td>crudeoil</td>
+    <td>silicon</td>
+    <td>wirelesscharger</td>
+  </tr>
+  <tr>
+    <td>iehammer</td>
+    <td>ardite</td>
+    <td>creativemodifer</td>
+  </tr>
+  <tr>
+    <td>drawercontroller</td>
+    <td>rsgrid</td>
+    <td>creativeenergycube</td>
+  </tr>
+  <tr>
+    <td>blazerod</td>
+    <td>cobalt</td>
+    <td>emerald</td>
+  </tr>
+  <tr>
+    <td>projector</td>
+    <td>launchpad</td>
+    <td>diamond</td>
+  </tr>
+  <tr>
+    <td>rails</td>
+    <td>blockheads1</td>
+    <td>inferiumessence</td>
+  </tr>
+  <tr>
+    <td>steel</td>
+    <td>amadrontablet</td>
+    <td>prospectorstage5</td>
+  </tr>
+  <tr>
+    <td>oreprospector</td>
+    <td>manyullyn</td>
+    <td>diamondjetpack</td>
+  </tr>
+  <tr>
+    <td>circuitboard</td>
+    <td>solidendereye</td>
+    <td>t2rocket</td>
+  </tr>
+  <tr>
+    <td>bauxite</td>
+    <td>printedcircuitboard</td>
+    <td>charger3</td>
+  </tr>
+  <tr>
+    <td>liquidplastic</td>
+    <td>endercrafter</td>
+    <td>osmium</td>
+  </tr>
+  <tr>
+    <td>vacuumtube</td>
+    <td>certusquartz</td>
+    <td>spacesuit4</td>
+  </tr>
+  <tr>
+    <td>standardhull</td>
+    <td>moon</td>
+    <td>neptune</td>
+  </tr>
+  <tr>
+    <td>netherbrick</td>
+    <td>enderalloy3</td>
+    <td>ultimateingot</td>
+  </tr>
+  <tr>
+    <td>creosote</td>
+    <td>pressurechamberwall</td>
+    <td>creativefluidtank</td>
+  </tr>
+  <tr>
+    <td>filteredhopper</td>
+    <td>inscriber</td>
+    <td>electrumjetpack</td>
+  </tr>
+  <tr>
+    <td>platinum</td>
+    <td>extendedcraftingelite</td>
+    <td>scanner</td>
+  </tr>
+  <tr>
+    <td>iebook</td>
+    <td>spacesuit</td>
+    <td>cheese</td>
+  </tr>
+  <tr>
+    <td>conveyorbelt</td>
+    <td>machinecasing</td>
+    <td>prosperityshard</td>
+  </tr>
+  <tr>
+    <td>woodhull</td>
+    <td>compressor</td>
+    <td>desh</td>
+  </tr>
+  <tr>
+    <td>galgadorian</td>
+    <td>laserassembly</td>
+    <td>mars</td>
+  </tr>
+  <tr>
+    <td>redstone</td>
+    <td>plasticmixer</td>
+    <td>creativecompressor</td>
+  </tr>
+  <tr>
+    <td>naphtha</td>
+    <td>ae2panel</td>
+    <td>skystone</td>
+  </tr>
+  <tr>
+    <td>workbench</td>
+    <td>compressediron</td>
+    <td>emeraldjetpack</td>
+  </tr>
+  <tr>
+    <td>amethyst</td>
+    <td>t1rocket</td>
+    <td>creativejetpack</td>
+  </tr>
+  <tr>
+    <td>oreexcavation</td>
+    <td>prospector4</td>
+    <td>ultimatecraftingtable</td>
+  </tr>
+  <tr>
+    <td>steam</td>
+    <td>fuelloader</td>
+    <td>marsrover</td>
+  </tr>
+  <tr>
+    <td>bellows</td>
+    <td>enderalloy1</td>
+    <td>saturn</td>
+  </tr>
+  <tr>
+    <td>propene</td>
+    <td>blockheads3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>sampledrill</td>
+    <td>enderalloy2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>windmill</td>
+    <td>blockheads2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>modularmachinery</td>
+    <td>theend</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>hibachi</td>
+    <td>nasaworkbench</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>silverlead</td>
+    <td>presses</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>distillation2</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>extendedcrafting1</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>netherexbiome</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>viescraft</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>waterwheel</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>stevescartsassembler</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>potash</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>plastic</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>bonehoe</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>compactmachines</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>netherwart</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>nether</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>buildcraft</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>nickel</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>soundmuffler</td>
     <td></td>
     <td></td>
@@ -2017,14 +2152,8 @@ You can complete individual quests with the following command followed by one of
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
