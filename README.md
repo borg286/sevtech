@@ -1,6 +1,14 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
-Sevtech is currently 3.0.7 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2560173)
+Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
@@ -12,11 +20,13 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
+1. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
 
-2. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+2. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-3. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+3. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+4. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -620,6 +630,8 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * If you have a problem in finding caves on bottom of beneath while searching for black quartz just dig down below y=20 and do the normal branch mining. You can save some digging if you use your dowsing rod to target your branch mining.
 
+* In age 2 you'll have access to the Astral Sorcery Cave Illuminator (doesn’t require anything more than the luminous crafting table and some resources). It places light source with some radius, which don’t go away if the illuminator gets moved.
+
 ## Better With Mods
 
 * Before we get into Astral Sorcery we need a BetterWithMods Saw to get the bark off of Mulberry wood.  Here is what a Mulberry tree looks like:
@@ -882,8 +894,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1005,6 +1016,8 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * Cave Illuminators (from Astral Sorcery) allow you to clear Mazes, Hollow Hills, Labyrinths, and Goblin Knight Strongholds much more easily.
 
+* In the Twilight Forest, many ores tend to spawn in the South East corner of a chunk near bedrock regardless of standard Y level spawning tendencies. (This is especially useful in Age 5 when you need diamonds to craft the Prospector to help find diamonds)
+
 ## Teleportation
 
 There's some methods of teleportation available.
@@ -1031,56 +1044,81 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 ## Astral sorcery
 
-* Star light increases with Y level, up to 120. Higher than that doesn't matter. Once you get more advanced altars this benefit doesn't matter.
-
 * Need bronze tier pickaxe or claw paxel to pick up the luminous crafting table
 
+* Some recipes seem like it requires the Luminous Crafting Table, but actually don't. If you see a starlight indicator at the bottom then they do. If attempting the recipe doesn’t result in the item showing up on the right hand side of the crafting table then either you have the wrong items, crafting can’t be done during daylight, or there is insufficient starlight. Star light increases with Y level, up to 120. Use a bronze or claw pickaxe to pick up the luminous crafting table and find a higher place or different chunk. Higher than 120 doesn't matter. Once you get more advanced altars this benefit doesn’t matter.
+
 * Mischief of Mice's [top tips](https://www.youtube.com/watch?v=i22YPsbfego) and a [playlist of astral sorcery - bit by bit](https://www.youtube.com/watch?v=9uU67eYK_Mc&list=PLQzDSnrhrcyyZKmHp1zdj03jRbuZN7NOh)
+
+### Finding Rock Crystals
 
 * The Resonating Wand does not make the Crystal Rock Samples more visible, like it does in the standard mod with Starmetal Ore.
 
 * Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
+
+* Once you find a Rock Crystal Sample, you need to look at the outer corner the chunk it's in (just outside of it). Press F9 to see the limit of the chunk. Unlike the vanilla version it will be a big cluster of crystal and it can be hidden under lava (mine was). The Tough Dousing Rod will detect it if you are lower than y 48.
+
+* Getting lapis on a tinkers pickaxe before mining rock crystal is nice, as looting works on Rock Crystal Ore,
+
+### Starlight Generation and rock crystal stats
+
+* The following items can be placed in a lightwell, which locks it into melting into liquid starlight: Aquamarine < Resonant Aquamarine < Rock Crystal < Celestial Crystal < Attuned Rock Crystal < Attuned Celestial Crystal
+
+* When siphoning starlight from rock crystals into lightwells start this process at nightfall, as daylight reduces the amount of liquid starlight generated.
+
+* Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track.
+
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+
+* Growing crystals and rock crystal tools by soaking in starlight grows durability while decreasing the cutting. Place in a grindstone to increase cutting at the cost of durability. Purity makes the durability fee cost less. Using a tool doesn't use up durability but rather the cutting.
 
 * When making a rock or celestial crystal grow by soaking it in starlight, if you continue past the maximum size there is a 1/6th chance that a second crystal will form with higher purity (this is also the only way to increase purity). See [here](https://youtu.be/i22YPsbfego?t=5m23s) for example
 
 * You ALWAYS want to use perfect crystals for rituals and collector crystals, and preferably celestial crystals
 
-* Place your lightwells near your tier 1 altar to speed up production of starlight, as well as providing more light to the altar.
-
 * For the most part ones with poor stats are garbage and only really useful in lightwells and things that don't care about quality (which you can tell by checking if the output item has stats in the tooltip, eg. Mantle of Stars or Altars do not care about crystal stats as a part of their crafting component)
 
 * Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
-* Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
+* Fluid Hoppers into a Tinker's Tank makes for a great way to store all that precious Liquid Starlight. Later a containment chalice can be used. Putting a chalice near a infusion structure **drastically reduces** starlight usage.
 
-* Once you find a Rock Crystal Sample, you need to look at the outer corner the chunk it's in (just outside of it). Press F9 to see the limit of the chunk. Unlike the vanilla version it will be a big cluster of crystal and it can be hidden under lava (mine was). The Tough Dousing Rod will detect it if you are lower than y 48.
+* Crystal tools are very effective, for example the highest quality sword does 7 full hearts of damage, (double that of a diamond sword). The quality of a tool depends on the stats of the crystals used. Higher size/cutting means more efficiency. However they slowly decrease these stats over time when used. These can be gained back by putting them in liquid starlight or on a grinding stone. Later they can be infused to make them more durable and effective.
 
-* In regards to liquid starlight generation in a lightwell: Aquamarine < Resonant Aquamarine < Rock Crystal < Celestial Crystal < Attuned Rock Crystal < Attuned Celestial Crystal
+### Tier 1 alter
 
-* Celestial Gateways allow for inter-dimensional transport, you can set up gateways to travel to the end, nether , or even other GalaticCraft planets - the multiblocks can be built in stage 2
+* Use a Skywave resonator to find patches of dark blue mist. Must be within ~3 chunks to see it and somewhat close to the ground, so don't go too high on your slimesling. These areas are great for starlight. Pillar up and build your altars there.
 
-* Crystal tools are very effective, for example the highest quality sword does 7 full hearts of damage, (double that of a diamond sword) The quality of a tool depends on the stats of the crystals used. Higher size/cutting means more efficiency. However they slowly decrease these stats over time when used. These can be gained back by putting them in liquid starlight or on a grinding stone. Later they can be infused to make them more durable and effective.
+* Place your lightwells near your tier 1 altar to speed up production of starlight, as well as providing more light to the altar.
+
+* Spectral Relay bases can share blocks, allowing you to pack the relays in a smaller area. The Relay simply needs line of sight to its nearest alter crafting table.
+
+* When creating Lenses ignore the cutting. Purity affects how much starlight passes through. Size impacts the yield of the recipe (5 for size 400 ).
+
+### Other alters
+
+* Celestial Gateways allow for inter-dimensional transport, you can set up gateways to travel to the end, nether , or even other GalaticCraft planets - the multiblocks can be built in stage 2. Even if the destination is at a lower Y value the "star" won't go below the horizon.
+
+### Attunement
+
+Attunement is learning about the constellations, constructing the attunement altar area and table, and imbuing yourself when desired constellations are out. This imbues you with powers and starts you on a progression tree to get more perks.  You can use a shifting star item to reset your attunement, thus losing all progress. Crystals can also be attuned required for special items later. You are limited the the following 5, but crystals have more.
+
+* The hand telescope sucks. Upgrade to the normal telescope ASAP. You don't need to fine tune centering on the constellation. Keep it near the attunement area. Note that not all constellations show up all the time.
+
+* Put the Constellation paper in your offhand so the attunement area stays lit up while you place the relays with your main hand.Spots where to place the spectral relays glow blue.
 
 * You can attune yourself to a constellation for all kinds of bonuses. This requires the attunement altar and a rather large multi block structure (using 225 sooty marble alone) it also requires some spectral relays.
 
-    * Discida gives all kinds of damage buffs
+    * **Discida** gives all kinds of damage buffs
 
-    * Armara provides a multitude of damage reducing buffs
+    * **Armara** provides a multitude of damage reducing buffs. Progress by taking damage.
 
-    * Vicio increases speed, places lights, reduces hunger and grants temporary lava immunity.
+    * **Vicio** increases speed, places lights, reduces hunger and grants temporary lava immunity. Progress by moving.
 
-    * Aevitas provides increased reach, natural armor regen and turning stone around you into ore. However turning stone into ores will break the progression of the pack by giving you many ores before you can normally find them.
+    * **Aevitas** provides increased reach, natural armor regen and turning stone around you into ore. However turning stone into ores will break the progression of the pack by giving you many ores before you can normally find them. Animals are frisky and plants grow faster. Progress by having things grow around you.
 
-    * Evorsio gives mixed mining speed and damage increases as well as disarming your opponent's armor.
-
-    * To find where to place spectral relays for a constellation. Hold the paper of that constellation in your offhand (shift right click your astral tome to take the papers out). Spots where to place the spectral relays glow blue.
-
-* Fluid Hoppers into a Tinker's Tank makes for a great way to store all that precious Liquid Starlight. Later a containment chalice can be used. Putting one near a infusion structure drastically reduces starlight usage.
-
-* Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression, same goes with Aevitas perk. Mining with this method results in a break in progression, as it can provide ores from GalactiCraft planets / Asteroids, this nullifying most of intended GalactiCraft methods.
+    * **Evorsio** gives mixed mining speed and damage increases as well as disarming your opponent's armor.
 
 * The Armara perks make you extremely hard to kill, and several of the perks work on damage that doesn't seem to be affected by armor. For example, the Dread Plague from Abyssalcraft is reduced in damage significantly by the 'No armor is more armor’ perk, making the Dreadlands much easier than otherwise. Armara also almost reduces fall damage to 0, allowing you to use the slimesling without the boots.
 
@@ -1091,6 +1129,14 @@ Furthermore you can link betweenlands portals with the swamp talisman
 * A mineralis cloak allows for easier ore finding once you get silk touch as it highlights any ores you are holding.
 
 * Vicio attuned Mantle of Stars and Resonating Wand allow infinite flight (elytra style flight).
+
+### Rituals
+
+* The Attunement, Size and Purity of the crystal are all that matter. Cutting doesn't matter.
+
+* Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression, same goes with Aevitas perk. Mining with this method results in a break in progression, as it can provide ores from GalactiCraft planets / Asteroids, this nullifying most of intended GalactiCraft methods.
+
+### Misc
 
 * Having two Chalice of Containments one with lava and one with starlight will mostly make sand, but will also give you aquamarine shale and the rare rock crystal. While the aquamarine found in the beneath is not affected by luck, aquamarine shale made this way is. You average 3 shale per bucket of lava and starlight and if you use resonating gems you typically get more than a bucket of starlight. Recommend using an ender hopper or similar to collect items. Note if your server is using Sponge, the two chalice thing is bugged. Blood magic Senade of the nether is a great way to get lava.
 
@@ -1269,7 +1315,7 @@ Looting</td>
 
 ## Astral Sorcery
 
-* Now that you have easier access to Obsidian the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
+* Now that you have easier access to Obsidian, the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
@@ -1286,6 +1332,8 @@ Looting</td>
 * Blood Magic's Sigil of the Phantom Bridge lets you get around easily, avoiding Thornstalks and Soul Sand
 
 * Spawners can normally be picked up with the Carry On mod (shift+right click with an empty hand)
+
+    * The Sack of Holding can also be used to pick up and move spawners without the drawbacks of Carry On
 
 ## Food
 
@@ -1419,6 +1467,12 @@ Looting</td>
 
 * Remember a parachute when traveling in the rocket, this isn't advance rocketry where the engine control the landing. You need a parachute or you will crash land. Note that when you travel to the moon it resets your spawn and you’ll be in a death loop as you respawn without your spacesuit.
 
+* To get a very cheap and easy supply of wood, sticks, and fruit, set up a Bonsai Hopper with your choice of sapling.
+
+    * Bonsai trees void all surplus production, so if you don't want a specific product (like leaves or sticks), put a drawer under a bonsai hopper and place in the materials you want to keep
+
+    * You can use both Oak and Menril saplings to get an infinite and cheap supply of Fruit nutrition with apples or Menril Berries
+
 ## Storage
 
 There are 3 main ME systems available: Refined Storage, Applied Energistics, and Simple Storage.
@@ -1445,8 +1499,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
@@ -1526,8 +1579,6 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 * Once you have decent power generation, a T1 Void miner from EnvironmentalTech is easy to make. It needs about 660RF/t.
 
-    * Note that in the 3.0.7 version, the different lens for the void miner are broken, and seem to do the opposite of what is intended. This is fixed in the latest version of EnvTech, but for now expect a LONG time getting the different crystals for each tier.
-
 ## Storage
 
 * Quantum Storage Disks (from Quantum Storage compat with Refined Storage) store 2.14B items of any types and are very cheap, it trivializes most other storage options in the pack
@@ -1545,6 +1596,8 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 * Living armor with Elytra upgrade and air sigil is also great transport
 
 * The Spawner Seeker from Cyclic can be used to find the dungeons on the planets.  It has a range of 128 blocks and will find the spawners in the dungeon.  You may have to make multiple jumps using the slime sling but it's often easier than searching for the entrances.
+
+* If you get stuck on a planet in a death loop or no way to get home, you can type /gchouston in the chat twice to be sent back to world spawn
 
 ### Moon
 
@@ -1603,6 +1656,12 @@ Asteroid Belt
 * Extended crafting tables have a block to allow for automation, it does take power tho.
 
 * Automating the metal press can be done by adding one extra conveyor belt and a hopper, normally you can just use a hopper, but any recipe that takes more than one item needs an extra belt.  Keep in mind that with this change, the hopper no longer directly inserts items into the conveyor.  This will cause items to despawn when doing large batches.
+
+Astral Sorcery
+
+* To automate getting star metal and stardust, use Refined Storage (or Applied Energistics) Constructors and Destructors with Vanilla Iron Ore linked to a Collector Crystal.
+
+    * You can change Iron Ore Clusters/Space Iron/Abyssalcraft Iron into Vanilla Iron Ore with the Oredictionificator.
 
 ## Mystical Agriculture:
 
