@@ -1,11 +1,3 @@
----
-title: SevTech Tips and Tricks
-layout: post
-author: borg286
-permalink: /sevtech-tips-and-tricks/
-source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
-published: true
----
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
@@ -922,7 +914,8 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
+Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1142,7 +1135,8 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track.
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
+ ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 * Growing crystals and rock crystal tools by soaking in starlight grows durability while decreasing the cutting. Place in a grindstone to increase cutting at the cost of durability. Purity makes the durability fee cost less. Using a tool doesn't use up durability but rather the cutting.
 
@@ -1571,7 +1565,8 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
+ 	
 
 ## Power Generation
 
