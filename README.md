@@ -1,8 +1,16 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)--
 
 Here is the web view [https://borg286.github.io/sevtech/](https://borg286.github.io/sevtech/) 
 
@@ -12,13 +20,15 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
+1. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
 
-2. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
+2. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
 
-3. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+3. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-4. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+4. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+5. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -338,6 +348,8 @@ Start with the totem base on the bottom, and your choice for wood placed on top.
 
 * The press and grindstone are needed much less often than a heavy supply of planks and sticks. Prioritize the chopper with hopper input and extraction. 
 
+* Leather gets a bit faster with the stiring basins(?) But is still manual. But you can do 6 basins in parallel while you wait for each to go through the stirring animation.
+
 ## Nutrition
 
 The Nutrition mod encourages you to eat a balanced diet, giving you relevant buffs for eating food. See farming and homesteading for how to get a healthy supply of ingredients.
@@ -536,6 +548,12 @@ Blood magic mod is based on Life Points earned through sacrifice by blood. Initi
 
 * If you want to continue further in Blood Magic follow the steps in this [lets player's video](https://youtu.be/Q0GNRxIy-1Y?t=27m57s)
 
+* To automate crafting blank slates place a wooden hopper under the altar feeding into a primal chest where all slots are filled with other things (cobble for example) other than 1 slot which has a blank slate. Thus when you place stone in the altar the hopper fails to pull the smooth stone out, and instead only pulls blank slates. You can now feed the altar with a chest+hopper that inserts smooth stone. Know that the altar has a cap on blood but it is automation nonetheless.
+
+* Advancing into Blood magic requires having tartaric gems with lots of will. You'll want to make a sentient sword which acts like a snare to capture will. This sword does more damage when you have captured more will, so expect a bit of investment at first. 
+
+* The Beneath is a great place to farm mobs. Use totems to offset their doubled health.
+
 ## AbyssalCraft
 
 AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the great old gods. As you progress through the mod item's names will unlock. Its power source is received from statues that direct power into firstly your necronomicon, then later you can store it into containers.
@@ -579,6 +597,8 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 * Regarding Corallium, You do not *need *to find the Corallium biome, they spawn, albeit rarely in Swamp and Ocean biomes. Strip mining such is a slow but surefire way to get early Corallium.
 
 * When progressing in Abyssalcraft, beware the second dimension, the Dreadlands. Mobs there apply Dread Plague on hit, which while painful, will also convert the biome of the x/z point you are standing on to Dreadlands whenever it does damage to you. It also likes to refresh itself often. Try to avoid bringing the Dread Plague out of the Dreadlands, as if you bring it to the overworld and dreadlands enemies spawn in an un-torched spot, you might have a problem. For this reason, I would not recommend making Tinker's weapons out of dreadium, as that’ll spread the plague to enemies on a critical hit.
+
+* The dreadlands infused powerstone require a refined corralium pickaxe to mine.
 
 ## The Beneath
 
@@ -684,6 +704,10 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Once you unlock JourneyMap, which is possible this Age, you can shift+right click  (NOT WITH AN EMPTY HAND, BUT WITH SOMETHING IN IT) on an ore sample to automatically create a waypoint. No more marking your veins manually in the atlas!
 
+* Sludge jello + pairs (both betweenlands) makes amazing food(5% fruit, full saturation)
+
+* A feeding trough (see if it can be fed with a hopper) will automatically breed animals until it is somewhat crowded(see if there is a way to use flowing water to push babies away but keep the parents, allowing for a slaughter house) allowing easier homesteading.
+
 ### Things to look out for
 
 * If you see an Enderman you should absolutely try to kill him. Ender pearls are important.  Endermen will only drop ender dusts.  You can smelt these in the melter and cast them to ender pearls using the pan cast.
@@ -698,13 +722,15 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Slime Sling, and obviously the Slime boots you had available in age 1, so you don't die from flinging yourself
 
+* Poor-mans flight via slime boots bounce + the charge ability from the tinkers longsword.
+
 * Quartz Grindstone [Applied Energistics 2]
 
 * Framed Storage Drawer
 
 * Mine Iron, Gold, Lapis
 
-* Ranged weapon, See Tinkers construct right below
+* Ranged weapon, See Tinkers construct below
 
 * Transport NPCs (excluding most mounts) without leads [Interdimensional Cage]
 
@@ -732,7 +758,7 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 
 * Chunker : The Chunk's X and Y coordinate
 
-* Calendar : 
+* Calendar : Month, day and year of the world
 
 * Biomealyzer : Displays the name of the biome you're in.
 
@@ -745,6 +771,16 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 * Get a Liquid Hopper to pull molten metal from the Melter
 
 * Use a Lever to control multiple hoppers feeding into dedicated casts
+
+## Liquid management
+
+* A tower of clay barrels can hold 20 buckets
+
+* A wooden barrel can hold 8. Place a lid and shift right click to put in your inventory. Doing so without a lid falls back to carry-on. It will collect rain water if left open to the rain. Breaking it empties the liquid.
+
+* Liquid hopper has a 16 bucket buffer and retains liquid.
+
+* Seared tank holds 4 buckets
 
 ## Which pickaxe to pick
 
@@ -886,8 +922,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -939,7 +974,9 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png).
 
-* To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one, they glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
+* To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one. They glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
+
+* The Betweenlands boat is tricky to operate. Left and right arrows operate each oar, similar to QWOP. In other words you must hold both left and right arrows to row forward. Holding only 1 lets you turn. Don't get stuck in the cavity of a tree, as you will suffocate if your head is not in open space.
 
 * You can avoid using glass by using the silt glass from betweenlands instead. Its crafting recipe to glass and panes aren't modified. This avoids having to use the smeltery to create glass and glass panes.
 
@@ -948,6 +985,42 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 * Syrmorite armor and weapons are just as good as iron ones.
 
 * For easier travel, you can tame a [Harlequin Toad](http://the-betweenlands.wikia.com/wiki/Harlequin_Toad) with Dragonfly Wings. As with other minecraft mounts, they require a lead and fencepost when you aren't riding them. The toad is able to swim and traverse Sludge Plains.
+
+* Don't forget to craft a betweenlands bow before venturing into the fortress as you'll face ranged mobs in there.
+
+* Life crystals are harvested from stalactites that have a white band on them.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+
+* Middle gems (red, green, and blue) can be applied to weapons and armor to enhance them, even stuff from other mods, just not tinkers. You can stack the same gem to make the chance the gem activates greater. Be aware that mobs spawn enhanced with these gems. If you have green enhanced armor a red swamp hag will do more damage to you. The tables are turned if you wore a blue gem. Blue imbued swords would do more damage to red mobs.
+
+* Farming Lurkers gives Lurker skin. The full armor set gives awesome water-focused perks. Movement, mining speed, sight and greatly extended breathing boosts makes farming middle gems much easier.
+
+* Lurker skin also gives you a pouch, which is a backpack that doesn't take a hotbar slot
+
+* Sneaking near wights makes you undetectable by them as they use echolocation for targeting.
+
+* Betweenlands armor, tools, and weapons corrode while in your inventory and simply moving around in the betweenlands (haven't tested in overland). Water corrodes it faster. Moving it into a backpack blocks the corrosion.
+
+* The Blue Middle Gem is great for ranged weapons (chance to weaken).
+
+* Green Middle Gem is great for Armor (absorb damage)
+
+* Valenite sword(2500 durability, 7 damage, 1.6 speed) can heal you when you attack.
+
+* The end boss has a nasty wight attack. Run in circles and wait it out.
+
+* The voodoo dolls are really OP, bypassing armor and do damage in an AoE. Really helpful for abyssalcraft bosses
+
+### Betweenlands alchemy
+
+Potion brewing is more complex, versatile and powerful than vanilla. [Here](https://youtu.be/b5FxMjufCtw) is a great tutorial for how to get into alchemy.
+
+* Alchemy is gated on having a sickle from valenite (diamond equivalent) to harvest the various plants.
+
+* Dedicate a gold backpack for gathering the ingredients
+
+* You can stack power 5 potion and haste 3 potion and do 18 damage with your fist or a tcon dagger, which has no cool down, resulting in absurdly high DPS
+
+* To help organize your alchemy research have 1 chest with a sample of your ingredients and a primal shelf holding your stock. This let's you hold shift to see the quantity. Do alphabetize the shelf to make finding the ingredient faster.
 
 ## Tinkers Construct Smeltery
 
@@ -973,7 +1046,7 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * The pictured smeltery is fed by an upper from the ironwood crate. The basin/table are using wooden hoppers to extract items and blocks into an upper below the gold chest.The fluid hoppers are set to work on a high redstone signal from a lever above them.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
 
 ## Twilight Forest
 
@@ -984,6 +1057,8 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 * Same applies to progression breaking bug: for example, if you've killed Twilight Lich, but still you’re getting Hunger in Swamp biome, just Save, quit and reload inside Swamp.
 
 * Vanilla ore veins spawn in the Twilight Forest, and due to the dimension's lower surface height can be a lot easier to reach, or in some cases even be found right at the surface.
+
+* Redstone is available but you can't make redstone torches nor comparitors. While you can craft redstone blocks, placing them makes it look like granite, but rest assured it functions as a redstone block, giving you a poor-mans redstone torch. Mining it returns granite.
 
 * If you notice a lot of FPS lag while in Twilight Forest, try reducing your view distance.  This kind of stuttering is usually related to minecraft trying to render too many textures.
 
@@ -1010,6 +1085,10 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 * Cave Illuminators (from Astral Sorcery) allow you to clear Mazes, Hollow Hills, Labyrinths, and Goblin Knight Strongholds much more easily.
 
 * In the Twilight Forest, many ores tend to spawn in the South East corner of a chunk near bedrock regardless of standard Y level spawning tendencies. (This is especially useful in Age 5 when you need diamonds to craft the Prospector to help find diamonds)
+
+* The knights in the urghast tower give awesome loot including a chance to get excavation on a knightly pick. Use an anvil to join it with mending.
+
+* When facing the urghast you might want to replace the pressure plate near the ghost busters traps with a lever so that it activates when you want it not by accident.
 
 ## Teleportation
 
@@ -1047,7 +1126,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * The Resonating Wand does not make the Crystal Rock Samples more visible, like it does in the standard mod with Starmetal Ore.
 
-* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_19.png)
+* Crystal rock samples look like:![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
 
 * Rock Crystal ore is not mineable with a stone pickaxe, you need something with mining level diamond to harvest it (like an iron or bronze pickaxe from tinkers or claw paxel available starting from Age 0).
 
@@ -1063,8 +1142,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track.
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_20.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight.  This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
 
 * Growing crystals and rock crystal tools by soaking in starlight grows durability while decreasing the cutting. Place in a grindstone to increase cutting at the cost of durability. Purity makes the durability fee cost less. Using a tool doesn't use up durability but rather the cutting.
 
@@ -1074,7 +1152,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * For the most part ones with poor stats are garbage and only really useful in lightwells and things that don't care about quality (which you can tell by checking if the output item has stats in the tooltip, eg. Mantle of Stars or Altars do not care about crystal stats as a part of their crafting component)
 
-* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_21.png)
+* Liquid hoppers can pull from all 6 sides, helpful for automating extraction from lightwells: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
 
 * Fluid Hoppers into a Tinker's Tank makes for a great way to store all that precious Liquid Starlight. Later a containment chalice can be used. Putting a chalice near a infusion structure **drastically reduces** starlight usage.
 
@@ -1136,7 +1214,7 @@ Attunement is learning about the constellations, constructing the attunement alt
 
 * You can build yourself an indestructible chamber with the Illumination wand. Inside you place any kind of stone. When you wear Mantle of Stars attuned to Fornax and set yourself on fire (e.g. with flint & steal) you melt the stone to lava source blocks.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_22.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 ### Stellar Refraction Table Constellation Effects source
 
@@ -1311,11 +1389,11 @@ Looting</td>
 
 * Now that you have easier access to Obsidian, the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
 
 ## Nether
 
-* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_24.png)
+* You can cast yourself a nether portal out of lava: ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
 
 * When turning into hellfire dust know that the 8th dust spawns a ghast if you don't have a urn under the hopper. If the hopper is receiving mechanical power, it also wont spawn a ghast or break when trying to create large amounts of hellfire dust.
 
@@ -1329,7 +1407,7 @@ Looting</td>
 
     * The Sack of Holding can also be used to pick up and move spawners without the drawbacks of Carry On
 
-## Food
+## /Food
 
 * Fish n' chips. This food restores 9+ full hunger bars and saturation. It requires the knife which costs 2 iron, 1 leather, 1 flint and 1 stick (very cheap). Every fish n’ chips also requires one cooked potato cut up into fries, 1 cooked fish and 1 paper cone made of 3 paper. You get the cone back after eating it. Note, this recipe uses only age 2 and lower materials but is only obtainable in age 3
 
@@ -1387,9 +1465,9 @@ Looting</td>
 
     * crucible for one which lets you melt iron/gold armor and weapons into bars and nuggets. 
 
-    * The kiln is also another required machine
+    * The kiln is also another required machine. Note that to cook the unfired crucible the fire under the kiln needs to be red, not blue. Simply turn off the bellows and the crucible will start to cook.
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)
+* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_26.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_27.png)
 
 * When you put [4 bricks above the stoked fire](http://sargunster.com/btw/index.php?title=Kiln) you will get a Kiln. You can make nether bricks in it - this unlocks the blast furnace from Immersive Engineering, therefore Steel and this will unlock doing most of the IE things in this Age.
 
@@ -1493,8 +1571,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
@@ -1518,7 +1595,9 @@ See refined storage above. SevTech has both mods with enough item gating that bo
 
     * When out of energy a few watermills can "Jump Start" the setup.
 
-     ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_27.jpg)      ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_28.png)
+* An alternative source is a Steam Turbine + Alternator connected to a solar tower (or more than one). With the only input being water, you get a steady stream of RF and a peak output of 24kRF/t (6 4kRF HV lines). A 512B tank holds enough steam to run an arc furnace through 24 stacks of steel (12 at a time). Once setup, there is no upkeep required. Each bucket of steam produces about 1.25MRF, or 2.6 seconds of 24kRF/t.
+
+     ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_28.jpg)      ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_29.png)
 
 * Advanced Generators: A Gas turbine feed with Kerosene and with an Air/Gas Mixer for efficiency can give nice power output.
 
@@ -1532,7 +1611,7 @@ You need to get your hands on compressed iron. The metal press has a plate for t
 
 Warning pressure has a max and you can have machine blow up if they go into the red. This is why its important to be able to shut off the compressor. Safety valves and security upgrades can be useful in preventing explosions, and you can shut off the compressor using a simple redstone + pressure gauge system.
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_29.jpg)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_30.jpg)
 
 You will need a plastic mixer to get colored plastic (note this plastic is different from the Industrial Foregoing plastic) The mixer requires heat, a torch is very slow to heat, lava is slow and will turn to obsidian after a while. You can use blood magic's serenade of the nether to get lava and place it all around the mixer to speed up the heat. Or you can just use a vortex heater. Using molten plastic from Modular Machines bypasses the need to be heated. It uses red,green, and blue dye powder to color the plastic and if heated high enough can remelt unused plastics.
 
@@ -1636,7 +1715,7 @@ Asteroid Belt
 
 * The dungeon is a little bit harder to find due to the fog, lightning storm, and monotone color palette of Jupiter, this was a screenshot of the dungeon entrance that I almost missed
 
-![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_30.png)
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_31.png)
 
 * Saturn, Uranus, Neptune
 
