@@ -1,4 +1,4 @@
-**SevTech Tips and Tricks** 
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
 
