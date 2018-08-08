@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks** 
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
 
@@ -136,7 +144,7 @@ Here are are a few things that step assist fixes over auto-jump:
 
 * It doesn't use more hunger than walking
 
-* When digging diagonally down you don't have to make the pathway 3 tall. A 2 tall stairway allows for fast travel up. Still the same jerkyness going down. But now you don’t have to jump going up.
+* When digging diagonally down you don't have to make the pathway 3 tall. A 2 tall stairway allows for fast travel up. Still the same jerkiness going down. But now you don’t have to jump going up.
 
 If this feature is game-breaking and you have control over the configs, go to cyclic's configs and disable stepheightdefault and create a new character. If you’re already established see if the admin can cheat the apple to you.
 
@@ -366,7 +374,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
 ### Good foods to make:
 
-* Hearty Stew(Baked Potato+Cooked Meat+5 bowls+4 mushroom+Barley/Wheat flour) cooked in a cauldron: **3.5% Grain Protein and Vegetable**
+* Hearty Stew(Baked Potato+Baked Carrot+Cooked Meat+5 bowls+4 mushroom+Barley/Wheat flour) cooked in a cauldron: **3.5% Grain Protein and Vegetable**
 
     * Be careful to only put in the minimum carrots as the cauldron cooks any spare carrots. 
 
@@ -424,7 +432,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
     * Attach to a horse with astikoor hotkey, R by default.
 
-    * Note that Cart is **not protected** by claim protection in multiplayer.
+    * Note that Carts are **not protected** by claim protection in multiplayer.
 
 * You can deposit items in your inventory that are already in chests nearby by holding shift and clicking the drop-off button in your inventory. See Dropoff Button here: https://quark.vazkii.us/ This is great after an expedition to clear out things in your inventory you've already found a place for in your chests.
 
@@ -608,7 +616,7 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 *  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
 
-* Regarding Corallium, You do not *need *to find the Corallium biome, they spawn, albeit rarely in Swamp and Ocean biomes. Strip mining such is a slow but surefire way to get early Corallium.
+* Regarding Corallium, You do not *need *to find the Corallium biome, because as of 3.0.8 (?) Corallium can be found in all biomes near bedrock.
 
 * When progressing in Abyssalcraft, beware the second dimension, the Dreadlands. Mobs there apply Dread Plague on hit, which while painful, will also convert the biome of the x/z point you are standing on to Dreadlands whenever it does damage to you. It also likes to refresh itself often. Try to avoid bringing the Dread Plague out of the Dreadlands, as if you bring it to the overworld and dreadlands enemies spawn in an un-torched spot, you might have a problem. For this reason, I would not recommend making Tinker's weapons out of dreadium, as that’ll spread the plague to enemies on a critical hit.
 
@@ -896,6 +904,8 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 * Note that sharpening kits only repair. **Don't plan on getting obsidian sharpening kits** to upgrade your mining level
 
+* Craft a battlesign with **cactus **as the tool rod to deal damage while blocking. Pair this with a **steelleaf** sign and a stack of steelleaf in your hotbar to become almost invincible to any attack.
+
 ### [Optional] Tool Forge
 
 You can make a Tool forge by burning grout into seared stone and 4 Iron/Copper/Tin/Bronze blocks (Note: JEI only lists recipe with iron blocks, but the other metals do work).
@@ -903,6 +913,8 @@ You can make a Tool forge by burning grout into seared stone and 4 Iron/Copper/T
 * Bronze and Iron is the only liquid metal worth making casts for at the moment.
 
 * Stone on the other hand, doesn't require casts, and can be repaired easily. Recall parts can be swapped out when you get a full smeltery for better parts.
+
+* Once in the twilight forest, steleaf is a good material to use as it gives the tool a self repair when you have stealeaf on your hotbar with the tool (working for arrows as well). The speed of this increases as you gave more steeleaf on your hotbar, getting to the point where the tool can repair faster than you can damage it at this age.
 
 * Make a **Bronze-Stone Hammer** and Stone Lumber Axe for quick mining and felling.
 
@@ -936,8 +948,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -957,7 +968,7 @@ Before we can make a smeltery (required for age 3 alloys, useful for efficient a
 
 Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
-* Ring of Ascent to 100% chance drop from Betweenlands Bosses
+* Ring of Ascent to 100% chance drop from Betweenlands Bosses & will help you if you get overwhelmed by a swarm of mobs later on, especially wights. It basically provides creative-mode-flying but if you jump off a high ledge, gravity forces you downwards like a chicken, and you slowly float to the ground but with a cool leafy effect around you. You can also slowly float upwards but this is counter productive if you've kept the step-up ability to move up one block steps instead of jumping. **The Ring of Ascent relies on XP levels to function**, so if you have none, you will not fly. If you have many levels, you will fly for a while but it gets used up fast.
 
 * The druids spawn when you enter the ritual area, giving you time to prep before the battle.
 
@@ -1005,6 +1016,8 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Life crystals are harvested from stalactites that have a white band on them.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
 
+* Life crystals are found by some to be underwater in the cave system, so if you are able to acquire sea lanterns, use them to light your way as you swim around to find them, as the caves are dark, but the water in the caves is darker.
+
 * Middle gems (red, green, and blue) can be applied to weapons and armor to enhance them, even stuff from other mods, just not tinkers. You can stack the same gem to make the chance the gem activates greater. Be aware that mobs spawn enhanced with these gems. If you have green enhanced armor a red swamp hag will do more damage to you. The tables are turned if you wore a blue gem. Blue imbued swords would do more damage to red mobs.
 
 * Farming Lurkers gives Lurker skin. The full armor set gives awesome water-focused perks. Movement, mining speed, sight and greatly extended breathing boosts makes farming middle gems much easier.
@@ -1013,7 +1026,15 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Sneaking near wights makes you undetectable by them as they use echolocation for targeting.
 
+    * However, beware that the wight's 'special attack’ (becoming a mist and attacking you) deals **magic damage**, bypassing armour. Either eat food to combat with regen or drink cider from Rustic to gain magic resistance.
+
 * Betweenlands armor, tools, and weapons corrode while in your inventory and simply moving around in the betweenlands (haven't tested in overland). Water corrodes it faster. Moving it into a backpack blocks the corrosion.
+
+* It's extremely useful to purify your weapons & tools often, especially if you cannot find any scabist to coat them. Purification requires buckets of water and sulfur to power it.
+
+* The purifier helps with keeping your tools working in top notch order. Finding **Scabyst** while mining will help stave off the corrosion for a long period of time.
+
+* It is also extremely useful to put to work an animator, especially if you have found at least one life crystal in your travels, which can have its power replenished with wight hearts in the same way you use scabyst. Use the animator to animate any item scrolls you find (this requires a LOT of sulfur) to acquire any item like the swift pick, hag hacker, critter cruncher, and wight's bane. The chance of receiving these items is random but these weapons one-hit mobs in this dimension when they are fully charged, and even after they’re broken, as long as you purify them of their corrosion, it still only takes at least 2 hits with the weapon of its respective mob to kill it, which is a lot easier than with other tools.
 
 * The Blue Middle Gem is great for ranged weapons (chance to weaken).
 
@@ -1021,29 +1042,35 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Valenite sword(2500 durability, 7 damage, 1.6 speed) can heal you when you attack.
 
-* The end boss has a nasty wight attack. Run in circles and wait it out.
+* The end boss has a nasty wight attack. Run in circles and wait it out. Especially make sure you have a wight's bane for this fight, as it will save you a lot of headache even with a sword as useful as the Shockwave Sword.
 
 * The voodoo dolls are really OP, bypassing armor and do damage in an AoE. Really helpful for abyssalcraft bosses
 
 * Sulfur torches provide a great source of light, much like totem torches, so be sure to bring them with you even when you're done with the Betweenlands.
 
-* Angry pebbles are something you can find while exploring, and in pots. You right click with it in your hand to charge it up, and then throw it somewhere, causing an explosion somewhat like a throwable TNT.
+* If you can handle the stress of looking for, and fighting a few Wight Fortress buildings, the Shockwave Sword is especially useful for fighting Naga in the Twilight Forest, and lasts a heck of a long time, and would be great to have a few more of when one runs out, if it doesn't act like the other betweenlands weapons and continue working after being broken.
+
+* Angry pebbles are something you can find while exploring, activating some item scrolls, and in pots. You right click with it in your hand to charge it up, and then throw it somewhere, causing an explosion somewhat like a throwable TNT.
 
 * Always keep balls of sap or weeping blue petals on you to decrease the decay. Once the bar is empty, your health bar will decrease and you will die.
 
-* The purifier helps with keeping your tools working in top notch order. Finding **Scabyst** while mining will help stave off the corrosion for a long period of time.
+* Peat mummies are terrifying and when they roar it will shake your screen. If you happen to have a ring of ascent, it will help you fight them from above, and if you have a shimmerstone, you can throw that to distract them. You will be able to retrieve the shimmer stone back from the mummy once it is defeated.
+
+* To get weedwood sticks faster for tool making and recipes, get as much as you can of it, bring it back into the overworld and place it in a horse chopper. It will make weedwood planks and sticks for you like normal planks and sticks so you can focus on other stuff. Unfortunately despite being a mountable creature, you cannot use Harlequin toads as horses to a chopper (leads break after a few seconds if you attach them to a post, but you can lead them around), or any other mob in the betweenlands unfortunately.
 
 Betweenlands Farm
 
 * It makes sense when you enter the betweenlands to create a farm for what you may need the most. Reeds are most needed, especially if you want to make caving ropes. 
 
-* Invest time into the purifier, to purify your farmland so that it doesn't decay and need to be redone later on. 
+* Invest time into the purifier for your farm, to purify your farmland so that it doesn't decay and need to be redone later on. 
 
 * You cannot automate compost bins but everything around you is most likely compostable whether punched or collected with the sickle. 
 
 * Almost any item you may need or want more of can be farmed; all you really need is a few pieces of farmland and to place the item you want more of on it. An example would be the blue petal flower; harvest it with shears (to get the 3D version of it) and place on one piece of farmland, and then over time it will spread to the blocks around it.
 
 * White pear seeds can only be harvested from the hangers that hang from a giant weedwood tree, so if you find one early on, that's a great fruit source.
+
+* Sometimes when you travel between the overworld and the betweenlands, your crops may disappear. So if you don't want to go through the trouble of searching for seeds to the stuff you want to grow more of in the future, think ahead and save some in a chest, just in case the plants do decay over time.
 
 ### Betweenlands alchemy
 
@@ -1101,7 +1128,7 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * Vanilla ore veins spawn in the Twilight Forest, and due to the dimension's lower surface height can be a lot easier to reach, or in some cases even be found right at the surface.
 
-* Redstone is available but you can't make redstone torches nor comparators. While you can craft redstone blocks, placing them makes it look like granite, but rest assured it functions as a redstone block, giving you a poor-mans redstone torch. Mining it returns granite.
+* Redstone is available but you can't make redstone torches nor comparators. While you can craft redstone blocks, placing them makes it look like granite, but rest assured it functions as a redstone block, giving you a poor-man's redstone torch. Mining it returns granite.
 
 * If you notice a lot of FPS lag while in Twilight Forest, try reducing your view distance.  This kind of stuttering is usually related to minecraft trying to render too many textures.
 
@@ -1131,9 +1158,11 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * The knights in the urghast tower give awesome loot including a chance to get excavation on a knightly pick. Use an anvil to join it with mending.
 
-* When facing the urghast you might want to replace the pressure plate near the ghost busters traps with a lever so that it activates when you want it not by accident.
+* When facing the urghast you might want to replace the pressure plate near the ghast buster traps with a lever so that it activates when you want it not by accident.
 
 * Twilight Forest chest loot can contain tools with enchantments such as Excavation and Silk touch 
+
+* The Hydra is a fierce foe who may break your grave. The easiest way to kill it is to break cobble into stones, and throw them nonstop at the Hydra's open mouths. Bonus damage for hitting the incoming fireballs back into the beast.
 
 ## Teleportation
 
@@ -1173,6 +1202,8 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * All Astral Sorcery recipes require a minimum amount of starlight. Early items often need so little starlight that you can craft them during the day. Upgrading your alter probably needs to wait till nightfall. Star light increases with Y level, up to y=120. If making the next item in AS needs more starlight than you have at your base then move your AS stuff into the mountains. Use a bronze or claw pickaxe to pick up the luminous crafting table and find a higher place or different chunk. Higher than 120 doesn't matter. Once you get more advanced altars this benefit doesn't matter.
 
+    * If you are struggling to get a bit more starlight for the altar, you can craft **spectral relays** to boost the altar. When placed in a multiblock structure (look in the book) with a clear view of the sky and a **Glass lens** put into it, the Spectral Relay will bring more starlight to the closest Luminous Crafting Table (or any upgraded altar) in a **16 blocks radius** around itself. However, multiple Relays in a 16 block radius will have **diminishing **effects.
+
 * Mischief of Mice's [top tips](https://www.youtube.com/watch?v=i22YPsbfego) and a [playlist of astral sorcery - bit by bit](https://www.youtube.com/watch?v=9uU67eYK_Mc&list=PLQzDSnrhrcyyZKmHp1zdj03jRbuZN7NOh)
 
 ### Finding Rock Crystals
@@ -1207,8 +1238,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track. It is also great for the heat generator in Age 3.
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 * Use the stardust to turn more of your rock crystals into celestial rock crystals, which produce more liquid starlight, and letting you roll again on getting a high purity celestial rock crystal. You'll end up with an overabundance of liquid starlight, so just toss the celestial crystals back in with stardust to get more dust and trying to get a better crystal.
 
@@ -1282,7 +1312,7 @@ Attunement is learning about the constellations, constructing the attunement alt
 
 * Having two Chalice of Containments one with lava and one with starlight will mostly make sand, but will also give you aquamarine shale and the rare rock crystal. While the aquamarine found in the beneath is not affected by luck, aquamarine shale made this way is. You average 3 shale per bucket of lava and starlight and if you use resonating gems you typically get more than a bucket of starlight. Recommend using an ender hopper or similar to collect items. Note if your server is using Sponge, the two chalice thing is bugged. Blood magic Senade of the nether is a great way to get lava.
 
-* You can build yourself an indestructible chamber with the Illumination wand. Inside you place any kind of stone. When you wear Mantle of Stars attuned to Fornax and set yourself on fire (e.g. with flint & steal) you melt the stone to lava source blocks.
+* You can build yourself an indestructible chamber with the Illumination wand. Inside you place any kind of stone. When you wear Mantle of Stars attuned to Fornax and set yourself on fire (e.g. with flint & steel) you melt the stone to lava source blocks.
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
 
@@ -1623,6 +1653,8 @@ Looting</td>
 
 * Alien Villagers use Lunar Sapphires as currency. You can find these in dungeon chests, or trade them for Jungle Saplings.
 
+* As of Version 3.0.8, currently unresolved, the Mechanical Squeezer will drain an infinite amount of power constantly. To counter this, use a LV or MV capacitor to reduce the power transfer rate and a breaker switcher or switchable aluminium wire to turn it on and off as required. 
+
 ## Storage
 
 There are 3 main ME systems available: Refined Storage, Applied Energistics, and Simple Storage.
@@ -1649,8 +1681,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
@@ -1658,9 +1689,9 @@ See refined storage above. SevTech has both mods with enough item gating that bo
 
 * Immersive Engineering: Having 4 garden cloche with melon seeds feeding melon slices to the fermenter and hemp fiber seeds  to the squeezer can maintain 2 diesel generators working, giving a constant 8192 rf/t, use MV connections and not LV.
 
-    * For infinite water use an Immersive Engineering Pump connected to a 2x2x2 or 1x3x1 hole full of water sources, use the hammer to set input to one side facing the water and output to the side facing the pipe. Needs energy and a redstone signal to work.
+    * For infinite water use an Immersive Engineering Pump connected to a 2x2x2 or 1x3x1 hole full of water sources, use the hammer to set input to one side facing the water and output to the side facing the pipe. Needs energy and a redstone signal to work. A well next to a single water source block will also provide enough water for around 9-10 Garden Cloches without a problem, and doesn't require power.
 
-    * Adding a tank between the refinery and the generator can give a Biodisel buffer
+    * Adding a tank between the refinery and the generator can give a Biodiesel buffer
 
     * For crafting melon into melon slices use an Automatic Crafter from Inductive Logistics, set them to craft 4 (1 from each garden cloche)  items at a time to speed them up.
 
@@ -1694,7 +1725,7 @@ Warning pressure has a max and you can have machine blow up if they go into the 
 
 You will need a plastic mixer to get colored plastic (note this plastic is different from the Industrial Foregoing plastic) The mixer requires heat, a torch is very slow to heat, lava is slow and will turn to obsidian after a while. You can use blood magic's serenade of the nether to get lava and place it all around the mixer to speed up the heat. Or you can just use a vortex heater. Using molten plastic from Modular Machines bypasses the need to be heated. It uses red,green, and blue dye powder to color the plastic and if heated high enough can remelt unused plastics.
 
-Compressed iron and green plastic makes a circuit board, which then you place in the UV light (which does require pressure) after it hits 100% through it in some etching acid (made in the pressure chamber) Note with items floating in this pack make sure you block in your acid completely, half stabs on the bottom will let the board flow out of the acid. 
+Compressed iron and green plastic makes a circuit board, which then you place in the UV light (which does require pressure) after it hits 100% throw it in some etching acid (made in the pressure chamber) Note with items floating in this pack make sure you block in your acid completely, half stabs on the bottom will let the board flow out of the acid. 
 
 The tablet needs a charging station like the wrench and when you have a charge, you will need to shift right click on the tank that contains the fluid to sell, or on the chest with the item to sell. And then shift right click on the tank/chest for the sold item to go into. Right click with the tablet, right click to add to your order. Then click the order button for the drones to first take the item, then delivery the item.
 
@@ -1714,19 +1745,21 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 * RFTools Powercells transport power interdimensionally
 
-* Mekanism Universal Cables are probably the best early stage 5 power transfer option.
-
 * Aluminium wires have an unlimited transfer rate and are extremely cheap to make. One of the best power transfer options, especially late game.
 
 * A great early Age 5 power generation is Advanced Generators. You can make Low Grade Charcoal in Kilns, mill it up with a horse powered millstone and then pump into a Syngas producer, use the Syngas in a Gas Turbine Generator and you get 1k+ RF/t easily.
 
-* Alternately, an Advanced Generators Heat Exchanger with a single heat exchanger is sufficient to power an Immersive Tech Steam Turbine/Alternator setup with little water/lava required.  At this stage, the RFTools pump is available which can pump large amounts of fluids which can easily supply the setup.  The Alternator can only connect to IE wiring but IE connectors can connect to Mekanism Universal power cables.  The major cost for the setup is the amount of steel required for the turbine/alternator setup. You can connect universal cables to HV capacitors for maximum power output from the alternators.
+* Alternately, an Advanced Generators Heat Exchanger with a single heat exchanger is sufficient to power an Immersive Tech Steam Turbine/Alternator setup with little water/lava required.   The Alternator can only connect to IE wiring but IE connectors can connect to Mekanism Universal power cables.  The major cost for the setup is the amount of steel required for the turbine/alternator setup. You can connect universal cables to HV capacitors for maximum power output from the alternators.
+
+    * A lava fabricator connected to a MV capacitor to reduce power draw will happily provide a Advanced Generators heat exchanger with enough lava to keep up with steam production demand, and produce a little extra lava on the side. You can increase the power drain by using HV Capacitor or alternate power method to create a supply of lava. A turbine will produce 26k rf/t, and the HV capacitor will only draw 4096 maximum.
+
+    * 3 or 4 wells around a single water source block will provide a heat exchanger with enough water to produce plenty of steam to happily power two Steam Turbines. Very low cost to set up and, doesn't require redstone or power. A basic mechanical pipe from Mekanism set to pull will suck out the water from the well in to the heat exchanger. 
 
 ## Ore Processing
 
 * Mekanism Metallurgic infusers have a 1:5 tin to copper ratio for making bronze
 
-* Putting a diamond into the enrichment chamber can get you 8 times the diamonds for the infuser
+* Putting a diamond into the enrichment chamber can get you 8 times the diamonds for the infuser. This is true of any recipe in the infuser that can accept a compressed variety of the item. E.G. Carbon (coal), Redstone, and Refined Obsidian.
 
 * Mekanism Ore quintupling is now available, though very expensive. To get started, you will need a Purification Chamber, Crusher, Enrichment Chamber, and the other machines necessary to get them and to maintain them (P.C. requires Oxygen, created by the electrolytic separator when water is processed). Note that you cannot ore double with Mekanism, as it creates a different type of iron dust that cannot be processed. This forces you to go straight for Ore tripling. After getting this, you can slowly progress towards upgrading your machines and power gen, while working towards ore quadrupling and quintupling (4x and 5x).
 
@@ -2474,7 +2507,7 @@ You can complete individual quests with the following command followed by one of
   <tr>
     <td>Lapis</td>
     <td>10</td>
-    <td>24</td>
+    <td>38</td>
     <td>Overworld & Twilight Forest</td>
   </tr>
   <tr>
