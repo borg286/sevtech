@@ -20,19 +20,21 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
+1. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
 
-2. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
+2. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
 
-3. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
+3. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
 
-4. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
+4. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
 
-5. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
+5. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
 
-6. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+6. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-7. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+7. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+8. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
