@@ -1,4 +1,12 @@
-**SevTech Tips and Tricks**
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
+s**SevTech Tips and Tricks**
 
 Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
 
@@ -12,27 +20,29 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
+1. Diff between [August 8 and October 7](https://drive.google.com/open?id=1vHraaoosT4qYSL5fPMntIgqf94a89YIJ)
 
-2. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
+2. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
 
-3. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
+3. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
 
-4. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
+4. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
 
-5. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
+5. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
 
-6. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
+6. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
 
-7. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+7. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-8. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+8. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+9. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
 * The modpack creator intended only needing 4 GB of ram allocated, but YMMV.
 
-* Custom java arguments for garbage collection: -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+* Custom java arguments for garbage collection: -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=51 -XX:G1HeapRegionSize=32M
 
 * Disabling certain mods can improve performance:
 
@@ -78,6 +88,8 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * Quark's inventory drop-off button allows you to bypass the Stage’s restriction by letting you put unfamiliar items into nearby chests/hoppers
 
+* You can keep items from being [dropped off](https://quark.vazkii.us/#module-management) by favoriting them. Alt+right clicking an item will make it a "Favorite Item". Go to Inventory tweaks settings (3 dots at top right) and turn off shortcuts.
+
 * The world generates in a **logical heat map**. Need snow or a desert? Travel North or South until you find it! See the Heatmap section below
 
 * The carrot in your inventory is where you can view your **nutrition levels**. If you raise the nutrition levels high enough you will get **buffs**. Let them drop too low and you'll have debuffs. See nutrition below for healthy meals below
@@ -114,11 +126,13 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * Having trouble to orientate yourself? Use the Sun! The sun and moon rise in the east and set in the west. This makes a good early compass to find yourself which way you are traveling.
 
-* The dropoff button merges stuff in your inventory into nearby chests. Ie. if you have a nearby chest with cobble this dropoff button will push any cobble you have into that chest. If you're not already storing it then it should remain in your inventory.
+* The drop off button merges stuff in your inventory into nearby chests. Ie. if you have a nearby chest with cobble this dropoff button will push any cobble you have into that chest. If you're not already storing it then it should remain in your inventory.
 
 * FindMe lets you hover your mouse over an item in JEI, press 'Y' and any nearby chest with that item will smoke.
 
 * The Atlas (map) is now craftable for cases when you can't find a librarian, completing the quest at the same time.
+
+* You can place Wood/Planks in your off-hand slot and right click a chopping block to place it, making chopping much faster. This works for the stone anvil later.
 
 ## Step assist vs. auto-jump
 
@@ -372,7 +386,7 @@ The Nutrition mod encourages you to eat a balanced diet, giving you relevant buf
 
     * Be careful to only put in the minimum carrots as the cauldron cooks any spare carrots. 
 
-    * Some youtubers show that you need a blue flame to stoke the cauldron.  This in fact not needed for (most?/any?) recipes.
+    * Some youtubers show that you need a blue flame to stoke the cauldron.  This in fact not needed for (most?/any? ( This is needed for the potash recipe - at least the one with logs-) ) recipes.
 
 * Pork dinner: Cooked Pork+Baked Potato + raw Carrots gives **3% Vegetable, Protein**
 
@@ -638,8 +652,6 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Before digging to a set Y area dig up till you see a cave. On the top of the caves you have a good chance of finding a few patches of ores. Aquamarine comes in veins of 12. Use a Night Vision totem to more easily see the patches on the ceiling.
 
-* Craft 1 dirt with 1 stick to make 64 Responsive Scaffolding. Right click in air to place a block directly in front of you. If you shift right click scaffolding on a block, it'll place it on the other side of the block (up to a certain distance) and you can climb it like ladders. Really great for getting up to the aquamarine. Just be careful, if any piece of scaffolding is broken, all connected pieces will break too
-
 * When you first get into the beneath, mark your spot on your atlas, because it is a pain finding your way back.
 
 * You can speed down a strip mine by running and jumping the whole way
@@ -690,7 +702,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 ### Astral Sorcery beginnings
 
-Astral sorcery is based on star light feeding into bigger and bigger altars and actual star gazing. Getting the luminous crafting table opens the next age. This mod is gated on aquamarine whis is configured to come only from the top of the Beneath world, and Mulberry bark which can only be scraped off with a Better with Mods Saw, and a Necronomicon Ritual taking 1000 PE (waiting in front of statue with book in hand for 15 minutes, or with a Energy Pedestal).
+Astral sorcery is based on star light feeding into bigger and bigger altars and actual star gazing. Getting the luminous crafting table opens the next age. This mod is gated on aquamarine which is configured to come only from the top of the Beneath world, and Mulberry bark which can only be scraped off with a Better with Mods Saw, and a Necronomicon Ritual taking 1000 PE (waiting in front of statue with book in hand for 15 minutes, or with a Energy Pedestal).
 
 * Need bronze tier pickaxe or claw paxel to pick up the luminous crafting table.
 
@@ -715,8 +727,6 @@ Astral sorcery is based on star light feeding into bigger and bigger altars and 
 * Think big, plan ahead, don't get stuck in a small base in ages 1 and 2 since age 3 involves a lot of multiblock machines that will require a lot of space.
 
 * Save your iron, you will need a lot of it and it's not as common as in regular modded mc.
-
-* You can make glass panes quickly by first dying glass, then crafting 6 of them like normal.
 
 * Once you unlock JourneyMap, which is possible this Age, you can shift+right click  (NOT WITH AN EMPTY HAND, BUT WITH SOMETHING IN IT) on an ore sample to automatically create a waypoint. No more marking your veins manually in the atlas!
 
@@ -870,7 +880,7 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 * The crafting station is the block that allows the rest to be accessed as tabs in one UI.
 
-* You can make **one-use-****casts by Melting clay** and pouring it over astone part. Melting metal, and pouring it onto a  clay cast, consumes the cast in the process.
+* You can make **one-use-****casts by Melting clay** and pouring it over a stone part. Melting metal, and pouring it onto a  clay cast, consumes the cast in the process.
 
 * Lasting casts can be made by pouring gold over a stone part.  These casts won't be consumed by future use.
 
@@ -880,7 +890,7 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 * Best bow
 
-    * Crossbows and longbows can't be created until age 3 so shortbows are the only solution.
+    * Crossbows and longbows can't be created until age 3 so short bows are the only solution.
 
     * Wood bows have nerfed durability, so Iron arms are the way to go. 
 
@@ -900,6 +910,14 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 * Craft a battlesign with **cactus **as the tool rod to deal damage while blocking. Pair this with a **steelleaf** sign and a stack of steelleaf in your hotbar to become almost invincible to any attack.
 
+### Twilight Forest Materials
+
+In the middle of this age you pass through the Twilight Forest, which has some amazing materials to make parts from.
+
+* While we can't apply modifiers in this age, like Mending Moss, Instead we can have a part made of Steeleaf, from The Twilight Forest. It’s got great stats for Bows and Bolts, and it adds the Modifiers Twilit and Synergy. Twilit buffs damage outside of the Twilight Forest, and Synergy auto-repairs the tool for free as long as there are Steeleafs in your hotbar, with faster repair on how large your stack is. It doesn’t consume them and saves you a modifier slot
+
+* Knightsteel allows for Cobalt mining level[citation needed], and Fiery, albeit late twilight forest game, has best damage.
+
 ### [Optional] Tool Forge
 
 You can make a Tool forge by burning grout into seared stone and 4 Iron/Copper/Tin/Bronze blocks (Note: JEI only lists recipe with iron blocks, but the other metals do work).
@@ -908,7 +926,7 @@ You can make a Tool forge by burning grout into seared stone and 4 Iron/Copper/T
 
 * Stone on the other hand, doesn't require casts, and can be repaired easily. Recall parts can be swapped out when you get a full smeltery for better parts.
 
-* Once in the twilight forest, steleaf is a good material to use as it gives the tool a self repair when you have stealeaf on your hotbar with the tool (working for arrows as well). The speed of this increases as you gave more steeleaf on your hotbar, getting to the point where the tool can repair faster than you can damage it at this age.
+* Once in the twilight forest, steeleaf is a good material to use as it gives the tool a self repair when you have stealeaf on your hotbar with the tool (working for arrows as well). The speed of this increases as you gave more steeleaf on your hotbar, getting to the point where the tool can repair faster than you can damage it at this age.
 
 * Make a **Bronze-Stone Hammer** and Stone Lumber Axe for quick mining and felling.
 
@@ -942,8 +960,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -987,13 +1004,13 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.jpg)
 
-* Instead of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
+* Insteajakd of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
 
 * Upon death, you will respawn near the portal unless you have reset your spawn point using the Moss Bed.
 
 * Food is hard. Cook Swamp Reed ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_14.png) into donuts for 6 hunger bars.
 
-* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) in pot![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png).
+* Be on the lookout for Syrmorite ingots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_15.png) in pots![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_16.png) inside Fortresses to get early access to lava-capable Syrmorite Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_17.png).
 
 * To make a full smeltery, you will need to go to the Betweenlands and find a Aqua Middle Gem. To find it easily craft a betweenlands boat and row around until you find one. They glow in the dark and the boat bugs the water texture to be see-through. Remember to take a bucket of swamp water with you. The purifier needs it and the normal fuel to run.
 
@@ -1012,6 +1029,8 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 * Life crystals are harvested from stalactites that have a white band on them.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_18.png)
 
 * Life crystals are found by some to be underwater in the cave system, so if you are able to acquire sea lanterns, use them to light your way as you swim around to find them, as the caves are dark, but the water in the caves is darker.
+
+    * Can also use jack'o'lanterns underwater, and harvest glowing betweenstone or cragrock tiles from dungeons for underwater lighting
 
 * Middle gems (red, green, and blue) can be applied to weapons and armor to enhance them, even stuff from other mods, just not tinkers. You can stack the same gem to make the chance the gem activates greater. Be aware that mobs spawn enhanced with these gems. If you have green enhanced armor a red swamp hag will do more damage to you. The tables are turned if you wore a blue gem. Blue imbued swords would do more damage to red mobs.
 
@@ -1155,7 +1174,9 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * When facing the urghast you might want to replace the pressure plate near the ghast buster traps with a lever so that it activates when you want it not by accident.
 
-* Twilight Forest chest loot can contain tools with enchantments such as Excavation and Silk touch 
+* Twilight Forest chest loot can contain tools with enchantments such as Excavation and Silk touch
+
+* You can mine the glass from the snow queen's biome and craft the shards into glass, helpful for liquid hoppers.
 
 * The Hydra is a fierce foe who may break your grave. The easiest way to kill it is to break cobble into stones, and throw them nonstop at the Hydra's open mouths. Bonus damage for hitting the incoming fireballs back into the beast.
 
@@ -1233,8 +1254,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track. It is also great for the heat generator in Age 3.
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 * Use the stardust to turn more of your rock crystals into celestial rock crystals, which produce more liquid starlight, and letting you roll again on getting a high purity celestial rock crystal. You'll end up with an overabundance of liquid starlight, so just toss the celestial crystals back in with stardust to get more dust and trying to get a better crystal.
 
@@ -1284,13 +1304,11 @@ Attunement is learning about the constellations, constructing the attunement alt
 
     * **Vicio** increases speed, places lights, reduces hunger and grants temporary lava immunity. Progress by moving.
 
-    * **Aevitas** provides increased reach, natural armor regen and turning stone around you into ore. However turning stone into ores will break the progression of the pack by giving you many ores before you can normally find them. Animals are frisky and plants grow faster. Progress by having things grow around you.
+    * **Aevitas** provides increased reach, natural armor regen and turning stone around you into ore. Animals are frisky and plants grow faster. Progress by having things grow around you.
 
     * **Evorsio** gives mixed mining speed and damage increases as well as disarming your opponent's armor.
 
 * The Armara perks make you extremely hard to kill, and several of the perks work on damage that doesn't seem to be affected by armor. For example, the Dread Plague from Abyssalcraft is reduced in damage significantly by the 'No armor is more armor’ perk, making the Dreadlands much easier than otherwise. Armara also almost reduces fall damage to 0, allowing you to use the slimesling without the boots.
-
-* Get an aevitas astral sorcery cloak and you'll never have to worry about hunger again (or health for that matter because of saturation). This also makes filling your blood altar trivial.
 
 * The aevitas skill tree has a natural armor regen perk. Take it, get your strongest armor and put some middle gems from betweenlands on them for maximum power. Don't forget to put some on your weapon as well and take a amulet.
 
@@ -1302,7 +1320,7 @@ Attunement is learning about the constellations, constructing the attunement alt
 
 * The Attunement, Size and Purity of the crystal are all that matter. Cutting doesn't matter.
 
-* Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression, same goes with Aevitas perk. Mining with this method results in a break in progression, as it can provide ores from GalactiCraft planets / Asteroids, this nullifying most of intended GalactiCraft methods.
+* Don't waste time on a Mineralis ritual yet, it’s been reported and the configs need to be altered so it doesn’t break pack progression. Mining with this method results in a break in progression, as it can provide ores from GalactiCraft planets / Asteroids, this nullifying most of intended GalactiCraft methods.
 
 ### Misc
 
@@ -1517,8 +1535,6 @@ Looting</td>
 
     * **Important**, eating ghast meat gives levitation 2 for 10 seconds, this could be beneficial or not depending on the situation
 
-* Astral sorcery aevitas cloak. This cloak is available in stage 2 but requires the highest tier altar and by that time most players would have reached at age 3, this cloak rapidly regenerates your hunger and saturation while equipped to the point where the player never has to eat again, gaining lots of health regen in the meantime due to the saturation. Just beware for reaching low nutrient levels.
-
 ## Storage
 
 * Obsidian chests are the best one block storage options for its price, each having enough space equal to 3 large chests (108 slots)
@@ -1621,6 +1637,8 @@ Looting</td>
 
 ## Uncategorized Tips
 
+* In Age 4 you unlock the Large Storage Crate from Actually Additions, which gives you three pages of 13x9 storage (351 stacks in total) in a single block. This is just over 3 times as efficient as the obsidian chests, and the best part is that they still work with crafting stations for easy one-click recipe crafting. Until you have a decent gui storage method, this is a very viable solution to overly complicated chest layouts.
+
 * IF's Rancher gets around BWA’s Fleece and harvests wool from sheep directly, this can also occasionally be a source of powdered dye production from further processing the coloring byproducts from crushing wool
 
 * IF's Water Condenstator produces about 100mb/t of water per water source block adjacent to it
@@ -1677,8 +1695,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
@@ -1716,7 +1733,7 @@ See refined storage above. SevTech has both mods with enough item gating that bo
 
 You need to get your hands on compressed iron. The metal press has a plate for that, but it's much more efficient to use TNT for it (Only 20% loss compared to 55%). It’s easy to assemble the pressure chamber 3x3x3. Remember to make 2 interfaces and a valve. The interfaces has an "I" or input side and an “O” side or output. Make sure you have one input and one output on the outside of the chamber. Hook up an air compressor with pipes to the valve and use a lever on the compressor to turn it on and off (you will need to configure it). Place a chest on the output interface and a hopper going into the input interface. You are still able to click on the output interface and you need to setup filters so it won’t pull out the items you are trying to process. Start with filtering for compressed iron and then throwing in iron ingots into the hopper. With pressure adding to the system you should be able to get compressed iron much easier.
 
-Warning pressure has a max and you can have machine blow up if they go into the red. This is why its important to be able to shut off the compressor. Safety valves and security upgrades can be useful in preventing explosions, and you can shut off the compressor using a simple redstone + pressure gauge system.
+**Warning:** pressure has a max and you can have machine blow up if they go into the red. This is why its important to be able to shut off the compressor. Safety valves and security upgrades can be useful in preventing explosions, and you can shut off the compressor using a simple redstone + pressure gauge system.
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_32.jpg)
 
@@ -1786,7 +1803,7 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 * If you get stuck on a planet in a death loop or no way to get home, you can type /gchouston in the chat twice to be sent back to world spawn
 
-* Mercury is the same tier as Asteroids, but offers Solid Meteoric Iron much more easily. You can find both Solid Desh and Solid Meteoric Iron asteroids on the surface of Mars, each yielding over a stack of the solid block. 
+* Mercury is the same tier as Asteroids, but offers Solid Meteoric Iron much more easily. You can find both Solid Desh and Solid Meteoric Iron asteroids on the surface of Mercury, each yielding over a stack of the solid block. 
 
 ### Moon
 
@@ -1796,9 +1813,9 @@ Mob duplicator and Mob Crusher can be your friend on getting hard to find mob dr
 
 * GalactiCraft ores are not staged, and therefore fake players can quarry them
 
-    * For quarrying, the two best options are RFtools Builders with a storage filter module (for blacklisting) or a Mekanism Digital Miner
+    * For quarrying, the two best options are RFtools Builders with a storage filter module (for blacklisting)
 
-        * Some ores (ilmenite being one) do have issues with metadata matching with ores. There are some cases where you may not be able to use a filter from RFTools and have to void off the materials you don't need. The Builder has a problem with filtering out the Ilmenite with the base rocks. Storage Drawers with void upgrades work great for this on the otherhand.
+        * Some ores (ilmenite being one) do have issues with metadata matching with ores. There are some cases where you may not be able to use a filter from RFTools and have to void off the materials you don't need. The Builder has a problem with filtering out the Ilmenite with the base rocks. Storage Drawers with void upgrades work great for this on the other hand.
 
     * Note that the ingots are not the same as the ones you've created up till now, so you may find crafting recipes don’t work with them.
 
@@ -1857,6 +1874,8 @@ Astral Sorcery
 Tier 6 seeds work in the Garden Cloche, but don't work with dirt. You'll need the appropriate Crux as the "dirt", or a block of Insanium Essence for the tier 6 Inferium seed.
 
 Garden Cloches are pretty fast with mystical agriculture/other crops, but I found that a 9x9 field surrounded by Cyclic sprinklers + 1 in the center is a bit faster. A Cyclic Harvester set to Area will do the area all at once also. Other alternatives like the AA farmer or IF Plant Gatherer can't keep up with the speed of the overlapping sprinklers. The Harvester does take RF power, even though it looks like it only takes coal as power.
+
+It's possible to begin Mystical Agriculture without going to Space. The Mekanism Oredictionificator is capable of converting Iron and Copper ore into Kepler 22b Iron and Copper ore. This in turn can be used in Starlight Transmutation to create Inferium Ore and Prosperity Ore, thereby bypassing the need for Saturn Slime ore to create your first inferium.  
 
 # Creative age
 
@@ -2122,21 +2141,6 @@ You can complete individual quests with the following command followed by one of
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 
@@ -2388,16 +2392,6 @@ You can complete individual quests with the following command followed by one of
   </tr>
   <tr>
     <td>soundmuffler</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
