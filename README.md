@@ -1,5 +1,13 @@
+---
+title: SevTech Tips and Tricks
+layout: post
+author: borg286
+permalink: /sevtech-tips-and-tricks/
+source-id: 1HQGPm90MVyieiiEkTPyfXIDBAvSkOAAQOoicTzFpmt0
+published: true
+---
 **SevTech Tips and Tricks**
- 
+
 Sevtech is currently 3.0.8 : [Get it here !](https://minecraft.curseforge.com/projects/sevtech-ages/files/2570732)
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
@@ -12,23 +20,25 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [August 8 and October 7](https://drive.google.com/open?id=1vHraaoosT4qYSL5fPMntIgqf94a89YIJ)
+1. Diff between [October 31 and October 7](https://drive.google.com/open?id=1YArnaRjxNOVYz-yO4Gmmv6_HtFlYlIqG)
 
-2. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
+2. Diff between [August 8 and October 7](https://drive.google.com/open?id=1vHraaoosT4qYSL5fPMntIgqf94a89YIJ)
 
-3. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
+3. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
 
-4. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
+4. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
 
-5. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
+5. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
 
-6. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
+6. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
 
-7. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
+7. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
 
-8. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+8. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-9. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+9. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+10. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -72,7 +82,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * You can access the main quest guide by pressing L. Purple quests lead you to the end of the age (If there is no color, this is talking about the ones with  2 round sides. The stars are the final quest in the age).
 
-* If a rock on the ground doesn't break in one click or **sounds like grass** when hitting it, LEAVE IT THERE- it's an ore sample in disguise.
+* If a rock on the ground doesn't break in one click or **sounds like ****dirt/grass** when hitting it, LEAVE IT THERE- it's an ore sample in disguise.
 
 * Carry-On is in the pack, it can pick up most passive mobs (no villagers, buffaloes, horses, or larger mobs). Note your reach is less than right clicking. You can also pick up most chests, and other tile entities like this as well.
 
@@ -82,7 +92,7 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 * You can keep items from being [dropped off](https://quark.vazkii.us/#module-management) by favoriting them. Alt+right clicking an item will make it a "Favorite Item". Go to Inventory tweaks settings (3 dots at top right) and turn off shortcuts.
 
-* The world generates in a **logical heat map**. Need snow or a desert? Travel North or South until you find it! See the Heatmap section below
+* The world generates in a **logical heat map**.[ (Breakdown of the heatmap and where to find biomes.)](https://www.reddit.com/r/feedthebeast/comments/8crpq4/sevtech_heatmap_breakdown/) Need snow or a desert? Travel North or South until you find it! See the Heatmap section below
 
 * The carrot in your inventory is where you can view your **nutrition levels**. If you raise the nutrition levels high enough you will get **buffs**. Let them drop too low and you'll have debuffs. See nutrition below for healthy meals below
 
@@ -508,7 +518,7 @@ This age is focused on Prospecting for Bronze(tin and copper), 2 magic mods: Blo
 
 * Make a hoe, plant a garden. Remember the worms you find from hoeing grass will die after some time, so the hydration they provide is temporary.
 
-    * **Prioritize Cotton** **(string) and hemp (Hemp Fiber) and**** carrots/wheat(your favorite protein)**
+    * Prioritize Cotton (string) and hemp (Hemp Fiber) and** carrots/wheat(your favorite protein)**
 
 ## Hunting Dimension
 
@@ -604,7 +614,7 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
     * Spear has a bigger range than other weapons and it can be used to punch them without being touched even once. Combined with wolf totem it does a massive damage.
 
-* There is a common bug where Shoggoth either do not spawn or spawn unhittable. If this happens, you can craft the Market block cheaply, and then mine their bases to trade for Sloggoth Flesh. 24 Monolith Stone will get you one flesh, and 8 Sloggoth Flesh will get you a statue. 
+* There is a common bug where Shoggoth either do not spawn or spawn unhittable. If this happens, you can craft the Market block cheaply, and then mine their bases to trade for Sloggoth Flesh. 24 Monolith Stone will get you one flesh, and 8 Shoggoth Flesh will get you a statue. 
 
 * After crafting the statue place it **away from your base** and hold the necronomicon. The statue will send power into your necronomicon at 5 PE / 5 seconds taking about 15 minutes to get the 1000 needed. Randomly you may get struck by lightning and even explosive lightning, and sometimes wither effect. After getting 1000 points that area will have gotten tainted and will produce abyssal mobs. A shovel can quickly remove sludge produced by Shoggoths. They don't poop ooze on half slabs or Abyssalcraft blocks.
 
@@ -612,11 +622,9 @@ AbyssalCraft is a large mod opening 4 dimensions, growing knowledge about the gr
 
 * Need to collect a lot of shadow gems, but hunting shadow monsters is too slow? One of the negative effects of charging your Necronomicon causes many such creatures to spawn. If you built your energy pedestal in a hole in the ground, some monsters might even spawn inside the walls and suffocate. Their drops will then bubble to the surface, where you can collect them for free!
 
-* To find Corallium look around for a biome looking like this or at least 40 ground level or below and then use a Weak Dowsing rod until it reports with finding Corralium.
+* To find Corallium look around for a biome looking like this or in a water biome and at least 40 ground level or below and then use a Weak Dowsing rod until it reports with finding Corralium.
 
 *  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_4.png)
-
-* Regarding Corallium, You do not *need *to find the Corallium biome, because as of 3.0.8 (?) Corallium can be found in all biomes near bedrock.
 
 * When progressing in Abyssalcraft, beware the second dimension, the Dreadlands. Mobs there apply Dread Plague on hit, which while painful, will also convert the biome of the x/z point you are standing on to Dreadlands whenever it does damage to you. It also likes to refresh itself often. Try to avoid bringing the Dread Plague out of the Dreadlands, as if you bring it to the overworld and dreadlands enemies spawn in an un-torched spot, you might have a problem. For this reason, I would not recommend making Tinker's weapons out of dreadium, as that’ll spread the plague to enemies on a critical hit.
 
@@ -636,7 +644,7 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
     * It is better to pillar up in the Overworld rather than the beneath as spirits can push you off ladders and pillars.
 
-    * Remember to use cobblestone for your pillar as you can use a Flint Workblade to carve out a ladder when you climb back up. Obviously you can drop into water for a quick decent.
+    * Remember to use cobblestone for your pillar as you can use a Flint Workblade to carve out a ladder when you climb back up. Obviously you can drop into water for a quick decent or carve a totem base and bat totem five or more blocks above the floor (to give it time to activate before impact)
 
     * You can pin torches to a side of ladder blocks making it safe from pushing you off by spirits. It's better than pillaring up in the Overworld.
 
@@ -952,8 +960,7 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
-Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -961,7 +968,7 @@ Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 * If you got a Tinker's stone hammer, you can speed up mining Hematite by placing cobble and mining that.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png)
 
-* You can melt iron by reconfiguring your melter to be heated by a Seared Gauge. Note the automation section above to automate the faucet.
+* You can melt iron by reconfiguring your melter to be heated by a Seared Gauge.  Seared tank won't work with porcelain melter, material type must match.  Note the automation section above to automate the faucet.
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_10.png)![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_11.png)
 
@@ -991,11 +998,11 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 
 * Setting the spawn point with a sleeping bag apparently works.
 
-* Find Bushes to get Weedwood sticks. The SevTech recipe killed weedwood planks -> weedwood sticks
+* A chopping block can split weedwood into weedwood sticks. 
 
-* ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.png)
+* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_12.jpg)
 
-* Hunt down a Weedwood tree and make a base in it ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.jpg)
+* Find a Sap Tree and chop the wood to get balls of sap.  Eat this to fill up your decay bar.  When the decay bar gets low your max health and speed are decreased making you very easy to kill.  ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_13.png)
 
 * Insteajakd of making 2 Sulfur furnaces, craft a single one with 8 betweenstone for a double furnace.
 
@@ -1024,6 +1031,8 @@ Goal: Obtaining a Aqua Middle gem found in Sludge Plains lakes
 * Life crystals are found by some to be underwater in the cave system, so if you are able to acquire sea lanterns, use them to light your way as you swim around to find them, as the caves are dark, but the water in the caves is darker.
 
     * Can also use jack'o'lanterns underwater, and harvest glowing betweenstone or cragrock tiles from dungeons for underwater lighting
+
+    * For emergency air, place a torch on the block next to your head.  The torch will pop off the wall but your air bubbles will be refilled.  Works with sulfur torches.
 
 * Middle gems (red, green, and blue) can be applied to weapons and armor to enhance them, even stuff from other mods, just not tinkers. You can stack the same gem to make the chance the gem activates greater. Be aware that mobs spawn enhanced with these gems. If you have green enhanced armor a red swamp hag will do more damage to you. The tables are turned if you wore a blue gem. Blue imbued swords would do more damage to red mobs.
 
@@ -1113,6 +1122,8 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 
 * The smeltery controller can be made with blaze powder, allowing you to bypass the betweenlands altogether.
 
+* To fill your seared/porcelain tank, break the tank from the smeltery with your pickaxe.  The smeltery will appear empty, but fear not, the melted ore will reappear when you put it back.  Take the tank to the lava pool.  Place it and then fill it using a bucket.  Pick it, take it home and place it back into the smeltery.  All melted ore will reappear and you have a full tank of lava in a single trip.
+
 * A tinkers smeltery can be as small a base of 1 square, but the primary use case for the smeltery is to be the main ore processor, so you should just start making a larger one.
 
 * Smelteries can share sides, but not the tank nor controller. This helps avoid unwanted alloys.
@@ -1146,8 +1157,6 @@ Note that ore doubling from tech mods has been nerfed greatly. Even Mekanism is 
 * Maze wafers are a decent source of grain nutrients and can be found in Labyrinths and other dungeons later in the progression.
 
 * In later dungeons, a food called experiment 115 can also be found which gives all 4 nutrient types
-
-* A more invasive alternative to getting at the Labyrinth's secret vault for the Mazebreaker is using the old fashioned method: explosives. Angry Pebbles from Betweenlands towers works/TNT/letting creepers blow up.
 
 * Ensure that you collect as many steeleaf as you can (at least 4) from the labyrinth so that you can craft the coal engine to move towards age 3. You do not want to have to find you way back into the labyrinth later.
 
@@ -1247,8 +1256,7 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track. It is also great for the heat generator in Age 3.
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances.
- ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_23.png)
 
 * Use the stardust to turn more of your rock crystals into celestial rock crystals, which produce more liquid starlight, and letting you roll again on getting a high purity celestial rock crystal. You'll end up with an overabundance of liquid starlight, so just toss the celestial crystals back in with stardust to get more dust and trying to get a better crystal.
 
@@ -1497,6 +1505,8 @@ Looting</td>
 
 * Obsidian can be made with astral sorcery and magma blocks but require collector crystals which require a further upgraded altar and another structure for the infuser. Also this places the obsidian in the world so it still needs to be mined.
 
+* Blood Magic's Alchemy Table can create obsidian out of a bucket of water and a bucket of lava. Gives you the block directly; does not need to be mined.
+
 ## Astral Sorcery
 
 * Now that you have easier access to Obsidian, the Blood Magic's Lapis Lazuli ritual (only needs an Imperfect Ritual Block) advances day to night. The setup below is a ghetto time machine if you want to advance nights for constellations
@@ -1585,6 +1595,10 @@ Looting</td>
 
 * Nether Sludge can be hand crafted to Unfired Netherbrick that can be placed into the cyclic block placer, this was changed in 3.0.7 as a way to automate the creation of nether bricks in the kiln. You can then use the Dark Utilities Ender Hopper to automatically pick the dropped Netherbrick up of the ground into a chest, just place the chest under the hopper.
 
+    * Vanilla Dispenser works in place of Cyclic Block placer and is much cheaper to produce
+
+    * Vanilla Upper works in place of Ender Hopper and does not require Nether materials
+
 * In a kiln you can make Melon Pie(2 watermelon+raw egg+flour+sugar): **4% Fruit**
 
 * When you put a Better with mods Crucible above the stoked fire you can melt down armor (gold and iron) to ingots and nuggets. Combo this with the hunting dimension and a mob grinder there to get infinite gold and iron.
@@ -1637,7 +1651,7 @@ Looting</td>
 
 * IF's Water Condenstator produces about 100mb/t of water per water source block adjacent to it
 
-* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Dimensional Gateway. The Dimensional Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End. *you can name the gateway in an anvil and the name will appear above the star.
+* A fairly cheap way to get fast transportation from your base to the end is to make a Astral Sorcery Celestial Gateway. The Celestial Gateway needs sky above it to operate, so place it above the stronghold (or make a skylight down to the End portal). You can also make the gateway directly in the End. *you can name the gateway in an anvil and the name will appear above the star.
 
 * After going to the End, you can use the Ender Utilities' portal (portal frame blocks + 1 or more portal control panels with 1-8 linking crystals in each panel) to easily set up cost-free teleportation to wherever you want (cross-dimensional), as long as you’ve linked the location to a linking crystal. You can pair this with an Ender Porter with it’s own linking crystal to go back to your base from anywhere (Advanced Ender Porter needed for the teleport back to be cross-dimensional). The Porter needs an ender capacitor, but the portal multiblock does not.
 
@@ -1647,7 +1661,7 @@ Looting</td>
 
 * Applied Energistics Storage Bus can also be attached to a drawer controller. Set the priority high to automatically store items in the assigned drawers connected to the drawer controller. This is a great way have your favourite items like ingots on display and be connected to your ME network.
 
-* Before going to the moon bring either a Dimensional Gateway or the ender utilities portal setup. The age advancement freezes your game for a little bit and can cause you to crash before the game unfreezes. If you get stuck, you can use the command /gchouston to return to the world spawn point on Earth.
+* Before going to the moon bring either a Celestial Gateway or the ender utilities portal setup. The age advancement freezes your game for a little bit and can cause you to crash before the game unfreezes. If you get stuck, you can use the command /gchouston to return to the world spawn point on Earth.
 
 * To get rocket fuel (just called fuel) you need to make an Oxygen collector and pipe the oxygen into an IE refinery with Kerosene.
 
@@ -1671,7 +1685,7 @@ Refined and Applied don't yet have the ability to do automated crafting, nor dee
 
 ### Simple Storage
 
-This mod allows you to connect the core storage block to your existing storage chest layout, as well as a tablet for remote access. This tablet comes in 2 flavors, a 64 block(?) radius, and an advanced one for multi-dimensional access. At this point in your progression the advanced tablet is not that expensive.
+This mod allows you to connect the core storage block to your existing storage chest layout, as well as a tablet for remote access. The tablet comes in 2 flavors, a 64 block radius, and an advanced one for multi-dimensional access. At this point in your progression the advanced tablet is not that expensive. The Large Storage Crate mentioned earlier will also connect to this network for easy mass storage. Combine this ability with the advanced tablet for all the storage you'd ever need and the ability to craft anything with your items anywhere in the game. 
 
 ### Refined Storage
 
@@ -1689,8 +1703,7 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
- 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
 
 ## Power Generation
 
@@ -2547,7 +2560,7 @@ You can complete individual quests with the following command followed by one of
 
 ## Climate:
 
-SevTech does indeed use a heat/humidity grid system for its biome generation. The Z azis determines temperature, and the X axis determines humidity. Both follow a periodic pattern similar to a sine wave, where you move from one extreme to another, and the moderate levels are in between.
+SevTech does indeed use a heat/humidity grid system for its biome generation. The Z axis determines temperature, and the X axis determines humidity. Both follow a periodic pattern similar to a sine wave, where you move from one extreme to another, and the moderate levels are in between.
 
 There are four Temperature levels, (hot, warm, cool, icy) and three humidity levels (dry, average, wet). As your coordinate values increase (Inc. X is east, Inc Z is south), you get the transitions listed below.
 
