@@ -1,11 +1,3 @@
----
-title: SevTech Tips and Tricks
-layout: post
-author: borg286
-permalink: /
-source-id: 1CSVTuVD59676TQkjwyPqY8zjTPCpKONYXtxenJ-qub8
-published: true
----
 **SevTech Tips and Tricks**
 
 Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com/minecraft/modpacks/sevtech-ages/files/2752761)
@@ -740,7 +732,8 @@ Your goal is to get a handful of Black Quartz (for actually additions) and Aquam
 
 * Mechanical power is binary, it's either on or off. You can split power as many times as you want to power your stuff.
 
-* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers, because they don't have an internal inventory). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)
+* Because Better With Mods drops all products on the ground, Mk2 hoppers are your friend since they can be chained together (unlike Mk1 hoppers, because they don't have an internal inventory). Alternately,  put it over some water you've removed, thus creating a natural whirlpool into a strainer which stores items, or like this when you can place water.
+![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_8.png)
 
 ### Astral Sorcery beginnings
 
@@ -868,7 +861,8 @@ To mine the Carminite reactor in the urgast towers you may need a diamond-level 
 
 These tools allow you to swap out parts, gain modifier slots the more you use them, and have a very large selection of materials to use. There are lots of abilities tied to each modifier, allowing a great deal of customization to fit your needs. These modifiers are not available until you reach age 3. [Here](#heading=h.ynpqna7qajwe) are useful parts listed and described.
 
-#### Black Quartz
+#### 
+Black Quartz
 
 While a black quartz pickaxe isn't much to write home about, combining with the hoe, sword, axe, and shovel gives an AIOT tool (All In One Tool) with 1120 durability, and great damage. 1 black quartz repairs 370 durability.
 
@@ -944,17 +938,28 @@ Note: Blank patterns require Sidings from the Saw instead of sticks.
 
 #### Head 
 
-**Bronze:** This is the first head you would want. It has a mining speed of 6.8 and the modifier 'dense' which together with a reinforced modifier(age 3) can give the pickaxe infinite durability.**Naga Scale:** The drops from the first Twilight Forest boss can be crafted into a pickaxe with a mining speed of 8.9, but with a mining level of iron.**Knightly:** This material is harder to get, but with a decent mining level and a mining speed of 8 and the highest durability: 1200. **Abyssalnite:** Abyssalnite is found in the many little shrines scattered across the Abyssal Wasteland (dimension). Once you reach this dimension these buildings are easily found and inside you will find one grey block with a ladder underneath it that leads to a chest with loot (mainly abyssalnite). It has a mining speed of 10.**Refined Coralium:** Rarely found in the same structures as abyssalnite but can also be found underground as Liquified Coralium Ore. The veins are very small and very hard to find. The mining speed is 12. This material has the modifier ‘Coralium-Plagued’ which inflicts the Coralium Plague (not to be confused with the Dreaded Plague) on critical hits. Don’t use it as a weapon!
+**Bronze:** This is the first head you would want. It has a mining speed of 6.8 and the modifier 'dense' which together with a reinforced modifier(age 3) can give the pickaxe infinite durability.
+**Naga Scale:** The drops from the first Twilight Forest boss can be crafted into a pickaxe with a mining speed of 8.9, but with a mining level of iron.
+**Knightly:** This material is harder to get, but with a decent mining level and a mining speed of 8 and the highest durability: 1200. 
+**Abyssalnite:** Abyssalnite is found in the many little shrines scattered across the Abyssal Wasteland (dimension). Once you reach this dimension these buildings are easily found and inside you will find one grey block with a ladder underneath it that leads to a chest with loot (mainly abyssalnite). It has a mining speed of 10.
+**Refined Coralium:** Rarely found in the same structures as abyssalnite but can also be found underground as Liquified Coralium Ore. The veins are very small and very hard to find. The mining speed is 12. This material has the modifier ‘Coralium-Plagued’ which inflicts the Coralium Plague (not to be confused with the Dreaded Plague) on critical hits. Don’t use it as a weapon!
 
 #### Blade
 
-**Iron: **Easy to get with an attack damage of 4.**Prismarine: **Prismarine offers 6.2 attack damage, but requires you to clear an ocean monument.**Fiery: **Only available after defeating the Hydra or the Ur-Ghast in the Twilight Forest, but it is the blade with the highest damage: 7.6.
+**Iron: **Easy to get with an attack damage of 4.**
+Prismarine: **Prismarine offers 6.2 attack damage, but requires you to clear an ocean monument.**
+Fiery: **Only available after defeating the Hydra or the Ur-Ghast in the Twilight Forest, but it is the blade with the highest damage: 7.6.
 
 #### Binding/guard and tool rod
 
 **Wood:** Wood repairs itself, but very slowly.
 
-**Steeleaf:** Repairs tools with about 4 durability per second. It requires steeleaf to be in the hotbar (not consumed and the more the better!).**Knightly:** The binding has a very high durability.**Bronze: **Dense (see the Head section above).**Sponge:** Gives silk touch. It's found in vanilla ocean monuments. **Prismarine: **Faster underwater mining. Watch out! The tool rod lowers durability drastically.**Bone:** Gives bonus damage
+**Steeleaf:** Repairs tools with about 4 durability per second. It requires steeleaf to be in the hotbar (not consumed and the more the better!).
+**Knightly:** The binding has a very high durability.
+**Bronze: **Dense (see the Head section above).
+**Sponge:** Gives silk touch. It's found in vanilla ocean monuments. 
+**Prismarine: **Faster underwater mining. Watch out! The tool rod lowers durability drastically.
+**Bone:** Gives bonus damage
 
 ### [Optional] Tool Forge
 
@@ -1034,7 +1039,8 @@ Pick one of the following for holding lava:
 
 * A Between lands Bucket![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_9.png) made from Syrmorite holds lava
 
-* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).Placing a lid on the wooden barrel lets you pick it up into inventory.
+* Wood Barrels can hold up to 8000mb of Lava and can be shift-right clicked to store in your inventory. Lava will burn the barrel if left in the Overworld. It will also burn you if you stand next to the burning barrel (oops).
+Placing a lid on the wooden barrel lets you pick it up into inventory.
 
 ### Hematite
 
@@ -1350,7 +1356,8 @@ Furthermore you can link betweenlands portals with the swamp talisman
 
 * Liquid starlight that touches water creates ice. Speed up your horse-powered machines by making an ice track. It is also great for the heat generator in Age 3.
 
-* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster. Don't spend your time trying to get a normal rock crystal to 100% purity. Just go for the celestial right off the bat.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances. ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
+* You can drop a rock crystal and a stardust in a pool of liquid starlight. If you unintentionally pick the crystals up just back up some more. This will grow a celestial crystal cluster. Don't spend your time trying to get a normal rock crystal to 100% purity. Just go for the celestial right off the bat.  When full grown (white sparks will show) you can break this to get at least one, often two, stardusts back. Make a pig totem to increase these chances.
+ ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_25.png)
 
 * Use the stardust to turn more of your rock crystals into celestial rock crystals, which produce more liquid starlight, and letting you roll again on getting a high purity celestial rock crystal. You'll end up with an overabundance of liquid starlight, so just toss the celestial crystals back in with stardust to get more dust and trying to get a better crystal.
 
@@ -1929,7 +1936,8 @@ Because you don't have much in terms of storage, using obsidian chests and exter
 
 ### Applied Energistics
 
-See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent. 	
+See refined storage above. SevTech has both mods with enough item gating that both paths are equivalent.
+ 	
 
 ## Power Generation
 
