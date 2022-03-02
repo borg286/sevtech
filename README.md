@@ -1,6 +1,6 @@
 **SevTech Tips and Tricks**
 
-Sevtech is currently 3.1.2 Hotfix 1 : [Get it here !](https://www.curseforge.com/minecraft/modpacks/sevtech-ages/files/2752761)
+Sevtech is currently 3.2.3 : [Get it here !](https://www.curseforge.com/minecraft/modpacks/sevtech-ages/files/3569915)
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_0.png)
 
@@ -12,25 +12,27 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Version History
 
-1. Diff between [October 31 and October 7](https://drive.google.com/open?id=1YArnaRjxNOVYz-yO4Gmmv6_HtFlYlIqG)
+1. Diff between March 1 2022 and October 31 2019: Added new seed and cleared the defunct ones and updated link to 3.2.3
 
-2. Diff between [August 8 and October 7](https://drive.google.com/open?id=1vHraaoosT4qYSL5fPMntIgqf94a89YIJ)
+2. Diff between [October 31 and October 7](https://drive.google.com/open?id=1YArnaRjxNOVYz-yO4Gmmv6_HtFlYlIqG)
 
-3. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
+3. Diff between [August 8 and October 7](https://drive.google.com/open?id=1vHraaoosT4qYSL5fPMntIgqf94a89YIJ)
 
-4. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
+4. Diff between [July 17 and August 8](https://drive.google.com/open?id=1iUIK6yUnpyqcd9cGvM_ZW00OHIgbBZoA)
 
-5. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
+5. Diff between [June 25 and July 17](https://drive.google.com/open?id=1WudKOZ9BO6hl960VTAg3v11yVvKeC15O)
 
-6. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
+6. Diff between [June 14 and June 25](https://drive.google.com/open?id=1X7BmdhedgI2tPnKT8XdV4W7ixEHz7SEC)
 
-7. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
+7. Diff between [June 10 and June 14](https://drive.google.com/open?id=15xDmxcEqxKuvyDR0GRiyzHIRCUTDb4fN)
 
-8. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
+8. Diff between [June 6 and June 10](https://drive.google.com/open?id=1Xw0065eIW0yck-Wbetml00HROXfRxvII)
 
-9. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+9. Diff between [May 18 and June 6](https://drive.google.com/open?id=1j2IXmzuFCeosuq07z-pMCv4WxBzikRT4)
 
-10. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
+10. Diff between [May 12 and May 18](https://drive.google.com/open?id=1QyL_zWwchtsIxUAdLIy4wPisX5TplQJa)
+
+11. Diff between 3.0.6 and [May 12 2018](https://drive.google.com/open?id=1KQ2RqrPF2Kuze9beV3ZEdSWoC4y9Su4-)
 
 ### Performance tips:
 
@@ -60,19 +62,15 @@ Feel free to add comments, and propose changes [here](https://docs.google.com/do
 
 ### Seeds
 
--1717583552609621523 (3.1.2 Hotfix 1) Spawn on large open field. 4 Shoggoth lairs nearby, Bone Structure, Rock Crystals and lava a hop away. Village over the river. All needed metals nearby. Darklands X=-1500,Z=-750 (1 nights journey by raft) with darkland cobblestone village. 35k buckets of Oil in chunks N,E, & W of squat tree nearest Sakura trees.
+-1717583552609621523 (3.2.3) Spawn on large open field. 4 Shoggoth lairs nearby, Bone Structure, Rock Crystals and lava a hop away. Village over the river. All needed metals nearby. Darklands X=-1500,Z=-750 (1 nights journey by raft) with darkland cobblestone village. 35k buckets of Oil in chunks N,E, & W of squat tree nearest Sakura trees.
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_1.png)
 
--7757505388919135334  (3.0.7) Spawn in Village, next to flat plains, Large bone structure and Shoggoth lair within 200 blocks of spawn. Rock Crystals just outside of town. Lava. 
+-7757505388919135334  (3.2.3) Spawn in Village, next to flat plains, Large bone structure and Shoggoth lair within 200 blocks of spawn. Rock Crystals just outside of town. Lava. 
 
 ![image alt text]({{ site.url }}/public/BMbpD6rCZ1qoniF20u7H2A_img_2.jpg)
 
--115227398    (pre 3.0.5)  Start in AbyssalCraft biome, close village to NW (Another South of that one), nice open area to the east with river biome, large forest and lots of animals. Another village north on other side of tall hills across grassy plains with lots of streaming water..
-
--8872794606572219902   (3.0.4)  Spawn next to Laketown (village in middle of lake). High flat mountain at your back for strong star light with a tin vein. On other side of lake is a large flat area with **large **bone structure VERY nearby, Eucalyptus and a Mulberry tree, 2 coal, 2 copper veins, 1 gold. Lapis on island next to village. Majority of lake is only 1 block deep, making easy access to gravel, salt, sand, and clay. Nearby big hole(y=51 @ base) with Copper cluster. Snow mountain nearby (Build up 20+ blocks on peak for easy access to ceiling of The Beneath).
-
--3822593286363813618 3.0.6 Very strong, Amazing map. Everything you need to play within 200 blocks from spawn
+4685753669571566503 (3.2.3) Spawn near Village and Hut each with Cartographer, large lava pit, large bone structure and nearby river for gravel and sand. 2x Shaggoth lair in river to the south. Super dense starlight at top of tall spike mountain just behind village, perfect for Astral Sorcery. Mulberry tree at base of same spike mountain. Lots of Iron veins on outskirts of village. Menril trees to the north (good for Menril berries). Rock crystal is found by going to the Lake Town directly south of the above village, walk the south pier to the end, then head directly east. 2x Rock Crystal Samples are in the shallow water (You’ll need to direct a floating crystal at an Iron Ore block to make more starlight dust). Careful not to fall into a lava lake directly under you. The Rock crystals are in a vein safely under that lava lake.
 
 # Age 0
 
