@@ -10,6 +10,8 @@ Please use this if you don't intend to propose tips.
 
 Feel free to add comments, and propose changes [here](https://docs.google.com/document/d/1CSVTuVD59676TQkjwyPqY8zjTPCpKONYXtxenJ-qub8/edit#).
 
+[Here](https://docs.google.com/document/d/1okgHXbeiM5ENCpPXansI3gqUIPvAu6bGlLyL8F5yh1o/edit?tab=t.9wbcoq21go75) is a new guide for SevTech authored by the SevTech reddit moderator!
+
 ### Version History
 
 1. Diff between March 1 2022 and October 31 2019: Added new seed and cleared the defunct ones and updated link to 3.2.3
